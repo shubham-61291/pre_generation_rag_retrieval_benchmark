@@ -1,0 +1,3259 @@
+[
+  {
+    "id": "D3-Q001",
+    "document_id": "D3",
+    "question": "What are the Fundamental Rules called and when did they come into force?",
+    "answer": "They may be called the Fundamental Rules and came into force with effect from the 1st January, 1922.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 2",
+      "Chapter I",
+      "F.R. 1"
+    ],
+    "required_evidence": [
+      "These rules may be called the Fundamental Rules. They shall come into force with effect from the 1st January, 1922."
+    ]
+  },
+  {
+    "id": "D3-Q002",
+    "document_id": "D3",
+    "question": "To which Government servants do the Fundamental Rules apply?",
+    "answer": "To all Government servants whose pay is debatable to Civil Estimates and to any other class of Government servants to which the President may by general or special order declare them applicable.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 2",
+      "Chapter I",
+      "F.R. 2"
+    ],
+    "required_evidence": [
+      "The Fundamental Rules apply, subject to the provisions of Rule 3 to all Government servants whose pay is debatable to Civil Estimates and to any other class of Government servants to which the President may by general or special order, declare them to be applicable."
+    ]
+  },
+  {
+    "id": "D3-Q003",
+    "document_id": "D3",
+    "question": "To which Government servants do the Fundamental Rules not apply unless otherwise provided?",
+    "answer": "Government servants whose conditions of service are governed by Army or Marine Regulations.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 2",
+      "Chapter I",
+      "F.R. 3"
+    ],
+    "required_evidence": [
+      "these rules do not apply to Government servants whose conditions of service are governed by Army or Marine Regulations."
+    ]
+  },
+  {
+    "id": "D3-Q004",
+    "document_id": "D3",
+    "question": "Who may relax the requirements of a Fundamental Rule to avoid undue hardship and with whose concurrence?",
+    "answer": "The Ministry or Department may relax the requirements by order for reasons recorded in writing, with the concurrence of the Ministry of Finance.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 2",
+      "Chapter I",
+      "F.R. 5A"
+    ],
+    "required_evidence": [
+      "may, by order, for reasons to be recorded in writing, relax the requirements of that rule to such extent and subject to such conditions as it may consider necessary for dealing with the case in a just and equitable manner",
+      "Provided that no such order shall be made except with the concurrence of the Ministry of Finance."
+    ]
+  },
+  {
+    "id": "D3-Q005",
+    "document_id": "D3",
+    "question": "Which power conferred by the Fundamental Rules cannot be delegated by the Central Government?",
+    "answer": "All powers to make rules.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 2",
+      "Chapter I",
+      "F.R. 6"
+    ],
+    "required_evidence": [
+      "(a) all powers to make rules:"
+    ]
+  },
+  {
+    "id": "D3-Q006",
+    "document_id": "D3",
+    "question": "What consultation is required before powers may be exercised or delegated under the Fundamental Rules?",
+    "answer": "Consultation with the Ministry of Finance.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 3",
+      "Chapter I",
+      "F.R. 7"
+    ],
+    "required_evidence": [
+      "No powers may be exercised or delegated under these rules except after consultation with the Ministry of Finance."
+    ]
+  },
+  {
+    "id": "D3-Q007",
+    "document_id": "D3",
+    "question": "To whom is the power of interpreting the Fundamental Rules reserved?",
+    "answer": "The President.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 3",
+      "Chapter I",
+      "F.R. 8"
+    ],
+    "required_evidence": [
+      "The power of interpreting these rules is reserved to The President."
+    ]
+  },
+  {
+    "id": "D3-Q008",
+    "document_id": "D3",
+    "question": "What does Administrator mean under the Fundamental Rules?",
+    "answer": "An administrator of a Union Territory appointed by the President under Article 239 of the Constitution and includes the Governor of Assam acting as Agent to the President in respect of the North-East Frontier Agency.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 4",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Administrator means an administrator of a Union Territory appointed by the President under Article 239 of the Constitution and includes the Governor of Assam acting as Agent to the President in respect of the North- East Frontier Agency."
+    ]
+  },
+  {
+    "id": "D3-Q009",
+    "document_id": "D3",
+    "question": "What is Allotment according to the Fundamental Rules?",
+    "answer": "Grant of a license to a Government servant to occupy a house owned, leased or requisitioned by the Government or a portion thereof, for use by him as residence.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 4",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Allotment means grant of a license to a Government servant to occupy a house owned, leased or requisitioned by the Government or a portion thereof, for use by him as residence."
+    ]
+  },
+  {
+    "id": "D3-Q010",
+    "document_id": "D3",
+    "question": "What does Cadre mean?",
+    "answer": "The strength of service or a part of a service sanctioned as a separate unit.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 4",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Cadre means the strength of service or a part of a service sanctioned as a separate unit."
+    ]
+  },
+  {
+    "id": "D3-Q011",
+    "document_id": "D3",
+    "question": "What is Compensatory allowance?",
+    "answer": "An allowance granted to meet personal expenditure necessitated by the special circumstances in which duty is performed.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 4",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Compensatory allowance means an allowance granted to meet personal expenditure necessitated by the special circumstances in which duty is performed."
+    ]
+  },
+  {
+    "id": "D3-Q012",
+    "document_id": "D3",
+    "question": "What does Duty include?",
+    "answer": "Service as a probationer or apprentice provided that such service is followed by confirmation, and joining time.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Duty includes -",
+      "(i) service as a probationer or apprentice provided that such service is followed by confirmation: and (ii) joining time."
+    ]
+  },
+  {
+    "id": "D3-Q013",
+    "document_id": "D3",
+    "question": "What does Fee mean under the Fundamental Rules?",
+    "answer": "A recurring or non-recurring payment to a Government servant from a source other than the Consolidated Fund of India, or the Consolidated Fund of a State or the Consolidated Fund of a Union Territory, whether made directly or indirectly through Government, but does not include unearned income and income from literary, cultural, artistic, scientific or technological efforts and income from participation in sports activities as amateur.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Fee means a recurring or non- recurring payment to a Government servant form a source other than the Consolidated Fund of India, or the Consolidated Fund of a state or the Consolidated Fund of a Union Territory whether made directly to the Government Servant or indirectly through the intermediary of Government, but does not include",
+      "(a) unearned income such as income from property, dividends, and interests on securities; and",
+      "(b) income from literary, cultural, artistic, scientific or technological efforts and income from participation in sports activities as amateur."
+    ]
+  },
+  {
+    "id": "D3-Q014",
+    "document_id": "D3",
+    "question": "What is Foreign Service?",
+    "answer": "Service in which a Government servant receives his pay with the sanction of Government from any source other than the Consolidated Fund of India or the Consolidated Fund of a State or the Consolidated Fund of a Union Territory.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Foreign Service means service in which a Government servant receives his pay with the sanction of Government from any source other than the Consolidated Fund of India or the Consolidated Fund of a State or the Consolidated Fund of a Union Territory."
+    ]
+  },
+  {
+    "id": "D3-Q015",
+    "document_id": "D3",
+    "question": "What is Honorarium?",
+    "answer": "A recurring or non recurring payment granted to a Government servant from the Consolidated Fund of India or the Consolidated Fund of a State or the Consolidated Fund of a Union Territory as remuneration for special work of an occasional or intermittent character.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Honorarium means a recurring or non recurring payment granted to a Government servant from the Consolidated Fund of India or the Consolidated Fund of a State or the Consolidated Fund of a Union Territory as remuneration for special work of an occasional or intermittent character."
+    ]
+  },
+  {
+    "id": "D3-Q016",
+    "document_id": "D3",
+    "question": "What is Joining time?",
+    "answer": "The time allowed to a Government servant in which to join a new post or to travel to or from a station to which he is posted.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Joining time means the time allowed to a Government servant in which to join a new post or to travel to or from a station to which he is posted."
+    ]
+  },
+  {
+    "id": "D3-Q017",
+    "document_id": "D3",
+    "question": "What is Leave salary?",
+    "answer": "The monthly amount paid by Government to a Government servant on leave.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Leave salary means the monthly amount paid by Government to a Government servant on leave."
+    ]
+  },
+  {
+    "id": "D3-Q018",
+    "document_id": "D3",
+    "question": "What does Lien mean?",
+    "answer": "The title of a Government servant to hold on regular basis, either immediately or on the termination of a period or periods of absence, a post, including a tenure post, to which he has been appointed on regular basis and on which he is not on probation.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Lien means the title of a Government servant to hold on regular basis, either immediately or on the termination of a period or periods of absence, a post, including a tenure post, to which he has been appointed on regular basis and on which he is not on probation:"
+    ]
+  },
+  {
+    "id": "D3-Q019",
+    "document_id": "D3",
+    "question": "What is Local Fund?",
+    "answer": "Revenues administered by bodies which by law or rule having the force of law come under the control of Government, and the revenues of anybody which may be specially notified by the President as such.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 6",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Local Fund means(a) revenues administered by bodies which by law or rule having the force of law come under the control of Government, whether in regard to proceeding generally or to specific matters, such as the sanctioning of their budgets, sanction to the creation of filling up of particular posts, or the enactment of leave, pension or similar rules; and(b) the revenues of anybody which may be specially notified by the President as such."
+    ]
+  },
+  {
+    "id": "D3-Q020",
+    "document_id": "D3",
+    "question": "What does Military Commissioned Officer mean?",
+    "answer": "A commissioned officer other than a departmental commissioned officer and a commissioned officer of the Indian Medical Department; it does not include a warrant officer.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 6",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Military Commissioned Officer means a commissioned officer other than - (i) a departmental commissioned officer; (ii) a commissioned officer of the Indian Medical Department.It does not include a warrant officer."
+    ]
+  },
+  {
+    "id": "D3-Q021",
+    "document_id": "D3",
+    "question": "What does Ministerial servant mean?",
+    "answer": "A Government servant of a subordinate service whose duties are entirely clerical, and any other class of servant specially defined as such by general or special order of the Central Government.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 6",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Ministerial servant means a Government servant of a subordinate service whose duties are entirely clerical, and any other class of servant specially defined as such by general or special order of the Central Government."
+    ]
+  },
+  {
+    "id": "D3-Q022",
+    "document_id": "D3",
+    "question": "How is Month defined and how are periods in months and days calculated?",
+    "answer": "Month means a calendar month; in calculating a period expressed in months and days, complete calendar months are first calculated and the odd number of days subsequently.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 6",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Month means a calendar month. In calculating a period expressed in term of months and days, complete calendar months, irrespective of the number of days in each, should first be calculated and the odd number of days calculated subsequently."
+    ]
+  },
+  {
+    "id": "D3-Q023",
+    "document_id": "D3",
+    "question": "When does a Government servant officiate in a post?",
+    "answer": "When he performs the duties of a post on which another person holds a lien.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 6",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Officiate - A Government servant officiates in a post when he performs the duties of a post on which another person holds a lien."
+    ]
+  },
+  {
+    "id": "D3-Q024",
+    "document_id": "D3",
+    "question": "What is Overseas Pay?",
+    "answer": "Pay granted to a Government servant in consideration of the fact that he is serving in a country other than the country of his domicile.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 6",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Overseas Pay means pay granted to a Government servant in consideration of the fact that he is serving in a country other than the country of his domicile."
+    ]
+  },
+  {
+    "id": "D3-Q025",
+    "document_id": "D3",
+    "question": "What does Pay mean?",
+    "answer": "The amount drawn monthly by a Government servant as pay, overseas pay, special pay and personal pay, and any other emoluments specially classed as pay by the President.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Pay means the amount drawn monthly by a Government servant as",
+      "(i) the pay, other than special pay or pay granted in view of his personal qualifications, which has been sanctioned for a post held by him substantively or in an officiating capacity or to which he is entitled by reason of his position in a cadre; and(ii) overseas pay, special pay and personal pay; and(iii) any other emoluments which may be specially classed as pay by the President."
+    ]
+  },
+  {
+    "id": "D3-Q026",
+    "document_id": "D3",
+    "question": "What is a Permanent post?",
+    "answer": "A post carrying a definite rate of pay sanctioned without limit of time.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 7",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Permanent post means a post carrying a definite rate of pay sanctioned without limit of time."
+    ]
+  },
+  {
+    "id": "D3-Q027",
+    "document_id": "D3",
+    "question": "What is Personal pay?",
+    "answer": "Additional pay granted to a Government servant to save him from loss of substantive pay in respect of a permanent post other than a tenure post due to revision or reduction otherwise than as a disciplinary measure, or in exceptional circumstances on other personal considerations.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Personal pay means additional pay granted to a Government servant—",
+      "(a) to save him from a loss of substantive pay in respect of a permanent post other than a tenure post due to a revision of pay or to any reduction of such substantive pay otherwise than as a disciplinary measure; or",
+      "(b) in exceptional circumstances, on other personal considerations."
+    ]
+  },
+  {
+    "id": "D3-Q028",
+    "document_id": "D3",
+    "question": "What is Presumptive pay of a post?",
+    "answer": "The pay to which a Government servant would be entitled if he held the post substantively and were performing its duties, but it does not include special pay unless he performs or discharges the work or responsibility for which special pay was sanctioned.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Presumptive pay of a post, when used with reference to any particular Government servant, means the pay to which he would be entitled if he held the post substantively and were performing its duties; but it does not include special pay unless the Government servant performs or discharges the work or responsibility, in consideration of which the special pay was sanctioned."
+    ]
+  },
+  {
+    "id": "D3-Q029",
+    "document_id": "D3",
+    "question": "What is Special Pay?",
+    "answer": "An addition, of the nature of pay, to the emoluments of a post or of a Government servant, granted in consideration of the specially arduous nature of the duties or a specific addition to the work or responsibility.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Special Pay means an addition, of the nature of pay, to the emoluments of a post or of a Government servant, granted in consideration of—",
+      "(a) the specially arduous nature of the duties; or",
+      "(b) a specific addition to the work or responsibility."
+    ]
+  },
+  {
+    "id": "D3-Q030",
+    "document_id": "D3",
+    "question": "What is Subsistence grant?",
+    "answer": "A monthly grant made to a Government servant who is not in receipt of pay or leave salary.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Subsistence grant means a monthly grant made to a Government servant who is not in receipt of pay or leave salary."
+    ]
+  },
+  {
+    "id": "D3-Q031",
+    "document_id": "D3",
+    "question": "What is Substantive pay?",
+    "answer": "The pay other than special pay, personal pay or emoluments classed as pay by the President under Rule 9(21)(a)(iii), to which a Government servant is entitled on account of a post to which he has been appointed substantively or by reason of his substantive position in a cadre.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 8",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Substantive pay means the pay other than special pay, personal pay or emoluments classed as pay by the President under Rule 9 (21) (a) (iii), to which a Government servant is entitled on account of a post to which he has been appointed substantively or by reason of his substantive position in a cadre."
+    ]
+  },
+  {
+    "id": "D3-Q032",
+    "document_id": "D3",
+    "question": "What is a Temporary post?",
+    "answer": "A post carrying a definite rate of pay sanctioned for a limited time.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Temporary post means a post carrying a definite rate of pay sanctioned for a limited time."
+    ]
+  },
+  {
+    "id": "D3-Q033",
+    "document_id": "D3",
+    "question": "What is a Tenure post?",
+    "answer": "A permanent post which an individual Government servant may not hold for more than a limited period.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Tenure post means a permanent post which an individual Government servant may not hold for more than limited period."
+    ]
+  },
+  {
+    "id": "D3-Q034",
+    "document_id": "D3",
+    "question": "What is Time-scale pay?",
+    "answer": "Pay which, subject to any condition prescribed in the rules, rises by periodical increments from a minimum to a maximum.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Time- scale pay means pay which subject to any condition prescribed in these rules, rises by periodical increments from a minimum to a maximum."
+    ]
+  },
+  {
+    "id": "D3-Q035",
+    "document_id": "D3",
+    "question": "What is Travelling Allowance?",
+    "answer": "An allowance granted to a Government servant to cover the expenses which he incurs in travelling in the interests of the public service, including allowances for maintenance of conveyances, horses and tents.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 9",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "Travelling Allowance means an allowance granted to a Government servant to cover the expenses which he incurs in travelling in the interests of the public service. It includes allowances granted for the maintenance of conveyances, horses and tents."
+    ]
+  },
+  {
+    "id": "D3-Q036",
+    "document_id": "D3",
+    "question": "What is required for appointment in India to a post in Government service?",
+    "answer": "A medical certificate of health, unless exempted or dispensed with under F.R. 10.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Chapter III",
+      "F.R. 10"
+    ],
+    "required_evidence": [
+      "no person may be appointed in India to a post in Government service without a medical certificate of health."
+    ]
+  },
+  {
+    "id": "D3-Q037",
+    "document_id": "D3",
+    "question": "Whose disposal is the whole time of a Government servant at?",
+    "answer": "At the disposal of the Government which pays him.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Chapter III",
+      "F.R. 11"
+    ],
+    "required_evidence": [
+      "the whole time of a Government servant is at the disposal of the Government which pays him"
+    ]
+  },
+  {
+    "id": "D3-Q038",
+    "document_id": "D3",
+    "question": "What happens to a Government servant's previous lien when he acquires a lien on a post?",
+    "answer": "He ceases to hold the lien previously acquired on any other post.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Chapter III",
+      "F.R. 12-A"
+    ],
+    "required_evidence": [
+      "a government servant on acquiring a lien on a post will cease to hold the lien previously acquired on any other post."
+    ]
+  },
+  {
+    "id": "D3-Q039",
+    "document_id": "D3",
+    "question": "When does a Government servant retain lien on a post?",
+    "answer": "While performing the duties of that post, while on foreign service or holding a temporary post or officiating in another post, during joining time on transfer, while on leave, and while under suspension.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 10-11",
+      "Chapter III",
+      "F.R. 13"
+    ],
+    "required_evidence": [
+      "A Government servant who has acquired lien on a post retains the lien on that post;",
+      "(a) while performing the duties of that post;",
+      "(b) while on foreign service, or holding a temporary post, or officiating in another post;",
+      "(d)while on leave; and",
+      "(e) while under suspension."
+    ]
+  },
+  {
+    "id": "D3-Q040",
+    "document_id": "D3",
+    "question": "When may a Government servant's lien on a post not be terminated?",
+    "answer": "It may in no circumstances be terminated if the result will be to leave him without a lien upon a regular post.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 11",
+      "Chapter III",
+      "F.R. 14-A"
+    ],
+    "required_evidence": [
+      "a Government servant's lien on a post may in no circumstances be terminated, if the result will be to leave him without a lien upon a regular post."
+    ]
+  },
+  {
+    "id": "D3-Q041",
+    "document_id": "D3",
+    "question": "Who may transfer the lien of a Government servant who is not performing the duties of the post to which the lien relates?",
+    "answer": "The President may transfer it to another post in the same cadre.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 11",
+      "Chapter III",
+      "F.R. 14-B"
+    ],
+    "required_evidence": [
+      "the President may transfer to another post in the same cadre, the lien of a Government servant who is not performing the duties of the post to which the lien relates."
+    ]
+  },
+  {
+    "id": "D3-Q042",
+    "document_id": "D3",
+    "question": "When may a Government servant be transferred to a post carrying less pay than the post on which he holds a lien?",
+    "answer": "On account of inefficiency or misbehaviour, or on his written request, or in a case covered by Rule 49.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 11",
+      "Chapter III",
+      "F.R. 15"
+    ],
+    "required_evidence": [
+      "a Government servant shall not be transferred to, or except in a case covered by Rule 49, appointed to officiate in a post carrying less pay than the pay of the post on which he holds a lien.",
+      "(1) on account of inefficiency or misbehaviour, or",
+      "(2) on his written request,"
+    ]
+  },
+  {
+    "id": "D3-Q043",
+    "document_id": "D3",
+    "question": "To which funds may a Government servant be required to subscribe?",
+    "answer": "A provident fund, a family pension fund or other similar fund.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 12",
+      "Chapter III",
+      "F.R. 16"
+    ],
+    "required_evidence": [
+      "A Government servant may be required to subscribe to a provident fund, a family pension fund or other similar fund in accordance with such rules as the President may by order prescribe."
+    ]
+  },
+  {
+    "id": "D3-Q044",
+    "document_id": "D3",
+    "question": "From what date does an officer begin to draw pay and allowances attached to a post?",
+    "answer": "From the date when he assumes the duties of that post.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 12",
+      "Chapter III",
+      "F.R. 17"
+    ],
+    "required_evidence": [
+      "an officer shall begin to draw the pay and allowances attached to his tenure of a post with effect from the date when he assumes the duties of that post"
+    ]
+  },
+  {
+    "id": "D3-Q045",
+    "document_id": "D3",
+    "question": "What is an officer entitled to during unauthorized absence from duty?",
+    "answer": "He is not entitled to any pay and allowances during the period of such absence.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 12",
+      "Chapter III",
+      "F.R. 17"
+    ],
+    "required_evidence": [
+      "an officer who is absent from duty without any authority shall not be entitled to any pay and allowances during the period of such absence."
+    ]
+  },
+  {
+    "id": "D3-Q046",
+    "document_id": "D3",
+    "question": "What does unauthorized absence cause to an employee's service?",
+    "answer": "It is deemed to cause an interruption or break in the service of the employee.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 12",
+      "Chapter III",
+      "F.R. 17-A"
+    ],
+    "required_evidence": [
+      "shall be deemed to cause an interruption or break in the service of the employee"
+    ]
+  },
+  {
+    "id": "D3-Q047",
+    "document_id": "D3",
+    "question": "What is the maximum continuous period for which leave of any kind may be granted to a Government servant?",
+    "answer": "Five years, unless the President otherwise determines in exceptional circumstances.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 13",
+      "Chapter III",
+      "F.R. 18"
+    ],
+    "required_evidence": [
+      "no Government servant shall be granted leave of any kind for a continuous period exceeding five years."
+    ]
+  },
+  {
+    "id": "D3-Q048",
+    "document_id": "D3",
+    "question": "When may the pay of a Government servant be increased beyond the pay sanctioned for his post?",
+    "answer": "With the sanction of an authority competent to create a post in the same cadre on a rate of pay equal to his pay when increased.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 14",
+      "Chapter IV",
+      "F.R. 19"
+    ],
+    "required_evidence": [
+      "the pay of a Government servant shall not be so increased as to exceed the pay sanctioned for his post without the sanction of an authority competent to create a post in the same cadre on a rate of pay equal to his pay when increased."
+    ]
+  },
+  {
+    "id": "D3-Q049",
+    "document_id": "D3",
+    "question": "What is the limit on pay for a period treated as duty under Rule 9(6)(b)?",
+    "answer": "Such pay as Government considers equitable but not exceeding the pay the Government servant would have drawn had he been on duty other than duty under Rule 9(6)(b).",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 14",
+      "Chapter IV",
+      "F.R. 20"
+    ],
+    "required_evidence": [
+      "a Government servant may be granted such pay as Government may consider equitable but in no case exceeding the pay which the Government servant would have drawn had he been on duty other than duty under Rule 9 (6) (b)."
+    ]
+  },
+  {
+    "id": "D3-Q050",
+    "document_id": "D3",
+    "question": "How is initial pay fixed when a Government servant is promoted to a post carrying duties and responsibilities of greater importance?",
+    "answer": "By giving one increment in the level from which promoted and placing him at a cell equal to the figure so arrived in the level of the promoted post; if no such cell exists, at the next higher cell.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 14",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "his initial pay in the time-scale shall be fixed by giving one increment in the level from which the Government servant is promoted and he or she shall be placed at a cell equal to the figure so arrived at in the level of the post to which promoted or appointed and if no such cell is available in the level to which promoted or appointed, he shall be placed at the next higher cell in that level."
+    ]
+  },
+  {
+    "id": "D3-Q051",
+    "document_id": "D3",
+    "question": "Within what period must a Government servant exercise the option for pay fixation on promotion or appointment?",
+    "answer": "Within one month from the date of promotion or appointment.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 14",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "the Government servant shall have the option, to be exercised within one month from the date of promotion or appointment"
+    ]
+  },
+  {
+    "id": "D3-Q052",
+    "document_id": "D3",
+    "question": "How is initial pay fixed if a Government servant was drawing pay at the maximum of the lower post immediately before promotion?",
+    "answer": "By increasing his pay in the lower post by an amount equal to the last increment in the lower post and placing him at the equal cell in the higher post, or next higher cell if no such cell exists.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 15",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "where a Government servant is, immediately before his promotion or appointment on regular basis to a higher post, drawing pay at the maximum of the level of the lower post, his initial pay in the level of the higher post shall be fixed at the cell equal to the figure so arrived at in the level of the post to which promoted or appointed by increasing his pay in respect of the lower post held by him on regular basis by an amount equal to the last increment in the level of the lower post and if no such cell is available in the level to which he is promoted or appointed, he shall be placed at the next higher cell in that level."
+    ]
+  },
+  {
+    "id": "D3-Q053",
+    "document_id": "D3",
+    "question": "What initial pay is drawn when appointment to a new post does not involve assumption of duties and responsibilities of greater importance?",
+    "answer": "The stage of the time-scale equal to his pay in the old post held on regular basis, or if no such stage, the next above; if the minimum of the new post is higher, the minimum.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 15-16",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "When the appointment to the new post does not involve such assumption of duties and responsibilities of greater importance, he shall draw as initial pay, the stage of the time-scale which is equal to his pay in respect of the old post held by him on regular basis, or, if there is no such stage, the stage next above his pay in respect of the old post held by him on regular basis:",
+      "Provided that where the minimum pay of the time- scale of the new post is higher than his pay in respect of the post held by him regularly, he shall draw the minimum as the initial pay;"
+    ]
+  },
+  {
+    "id": "D3-Q054",
+    "document_id": "D3",
+    "question": "What initial pay is drawn when appointment to a new post is made on the Government servant's own request under Rule 15(a) and the maximum pay of the new post is lower?",
+    "answer": "He shall draw that maximum as his initial pay.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 16",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "When appointment to the new post is made on his own request under sub-rule (a) of Rule 15 of the said rules, and the maximum pay in the time- scale of that post is lower than his pay in respect of the old post held regularly, he shall draw that maximum as his initial pay."
+    ]
+  },
+  {
+    "id": "D3-Q055",
+    "document_id": "D3",
+    "question": "What pay does a probationer draw during the period of probation in another service or cadre?",
+    "answer": "Pay at the minimum of the time-scale or at the probationary stages of the time-scale of the service or post.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18",
+      "Chapter IV",
+      "F.R. 22-B"
+    ],
+    "required_evidence": [
+      "during the period of probation, he shall draw pay at the minimum of the time-scale or at the probationary stages of the time-scale of the service or post, as the case may be:"
+    ]
+  },
+  {
+    "id": "D3-Q056",
+    "document_id": "D3",
+    "question": "What does an apprentice in another service or cadre draw during apprenticeship?",
+    "answer": "The stipend or pay prescribed for such period, or the presumptive pay of the permanent post if greater.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18-19",
+      "Chapter IV",
+      "F.R. 22-B"
+    ],
+    "required_evidence": [
+      "during the period of apprenticeship, the stipend or pay prescribed for such period, provided that if the presumptive pay of the permanent post, other than a tenure post, on which he holds a lien or would hold a lien had his lien not been suspended, should at any time be greater than the stipend or pay fixed under this Clause, he shall draw the presumptive pay of the permanent post."
+    ]
+  },
+  {
+    "id": "D3-Q057",
+    "document_id": "D3",
+    "question": "How is the holder of a post whose pay is changed treated?",
+    "answer": "As if he were transferred to a new post on the new pay, with an option to retain old pay until next increment on old scale or until he vacates the post.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Chapter IV",
+      "F.R. 23"
+    ],
+    "required_evidence": [
+      "The holder of a post, the pay of which is changed, shall be treated as if he were transferred, to a new post on the new pay:",
+      "Provided that he may at his option retain his old pay until the date on which he has earned his next or any subsequent increment on the old scale, or until he vacates his post or ceases to draw pay on that time- scale."
+    ]
+  },
+  {
+    "id": "D3-Q058",
+    "document_id": "D3",
+    "question": "When may an increment be withheld from a Government servant?",
+    "answer": "By the Central Government or delegated authority if his conduct has not been good or his work has not been satisfactory.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Chapter IV",
+      "F.R. 24"
+    ],
+    "required_evidence": [
+      "An increment may be withheld from a Government servant by the Central Government or by any authority to whom the Central Government may delegate this power under Rule 6, if his conduct has not been good or his work has not been satisfactory."
+    ]
+  },
+  {
+    "id": "D3-Q059",
+    "document_id": "D3",
+    "question": "What duty counts for increments in a time-scale?",
+    "answer": "All duty in a post on a time-scale counts for increments in that time-scale.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 20",
+      "Chapter IV",
+      "F.R. 26"
+    ],
+    "required_evidence": [
+      "All duty in a post on a time-scale counts for increments in that time- scale:"
+    ]
+  },
+  {
+    "id": "D3-Q060",
+    "document_id": "D3",
+    "question": "Which leave does not count for increments?",
+    "answer": "Extraordinary leave taken otherwise than on medical certificate.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 20",
+      "Chapter IV",
+      "F.R. 26"
+    ],
+    "required_evidence": [
+      "leave except extraordinary leave taken otherwise than on medical certificate shall count for increments"
+    ]
+  },
+  {
+    "id": "D3-Q061",
+    "document_id": "D3",
+    "question": "Does foreign service count for increments?",
+    "answer": "Yes, foreign service counts for increments in the time-scale applicable to the post on which the Government servant holds a lien and certain other posts.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Chapter IV",
+      "F.R. 26"
+    ],
+    "required_evidence": [
+      "Foreign service counts for increments in the time-scale applicable to"
+    ]
+  },
+  {
+    "id": "D3-Q062",
+    "document_id": "D3",
+    "question": "Does joining time count for increments?",
+    "answer": "Yes, joining time counts for increment under specified conditions.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Chapter IV",
+      "F.R. 26"
+    ],
+    "required_evidence": [
+      "Joining time counts for increment"
+    ]
+  },
+  {
+    "id": "D3-Q063",
+    "document_id": "D3",
+    "question": "Who may grant a premature increment to a Government servant on a time-scale?",
+    "answer": "An authority that has power to create a post in the same cadre on the same scale of pay.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 22",
+      "Chapter IV",
+      "F.R. 27"
+    ],
+    "required_evidence": [
+      "an authority may grant a premature increment to a Government servant on a time- scale of pay, if it has power to create a post in the same cadre on the same scale of pay."
+    ]
+  },
+  {
+    "id": "D3-Q064",
+    "document_id": "D3",
+    "question": "What pay may be allowed when a Government servant is transferred as a penalty from a higher to a lower grade or post?",
+    "answer": "Any pay not exceeding the maximum of the lower grade or post, subject to the limit in the proviso.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 22",
+      "Chapter IV",
+      "F.R. 28"
+    ],
+    "required_evidence": [
+      "The authority which orders the transfer of a Government servant as a penalty from a higher to a lower grade or post may allow him to draw any pay, not exceeding the maximum of the lower grade or post, which it may think proper:"
+    ]
+  },
+  {
+    "id": "D3-Q065",
+    "document_id": "D3",
+    "question": "What must the authority state when reducing a Government servant as a penalty to a lower stage in his time-scale?",
+    "answer": "The period for which the reduction shall be effective and whether, on restoration, the period of reduction shall postpone future increments and to what extent.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 22",
+      "Chapter IV",
+      "F.R. 29"
+    ],
+    "required_evidence": [
+      "the authority ordering such reduction shall state the period for which it shall be effective and whether, on restoration, the period of reduction shall operate to postpone future increments and, if so, to what extent."
+    ]
+  },
+  {
+    "id": "D3-Q066",
+    "document_id": "D3",
+    "question": "What is paid if an order of penalty is set aside?",
+    "answer": "The difference between the pay he would have been entitled to had the order not been made and the pay he actually drew for the period the order was in force.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 22-23",
+      "Chapter IV",
+      "F.R. 29-A"
+    ],
+    "required_evidence": [
+      "If the said order is set aside, he shall be given for the period such order has been in force, the difference between the pay to which he would have been entitled had that order not been made and the pay he had actually drawn;"
+    ]
+  },
+  {
+    "id": "D3-Q067",
+    "document_id": "D3",
+    "question": "How is pay regulated if a promotion or appointment is found to be erroneous?",
+    "answer": "In accordance with general or special orders issued by the President in this behalf.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 23",
+      "Chapter IV",
+      "F.R. 31-A"
+    ],
+    "required_evidence": [
+      "the pay of a Government servant whose promotion or appointment to a post is found to be or to have been erroneous, shall be regulated in accordance with any general or special orders issued by the President in this behalf."
+    ]
+  },
+  {
+    "id": "D3-Q068",
+    "document_id": "D3",
+    "question": "What may the Central Government permit when a Government servant officiates in a post whose pay is fixed at a rate personal to another Government servant?",
+    "answer": "Permit him to draw pay at any rate not exceeding the rate so fixed, or if time-scale, initial pay not exceeding the lowest stage and future increments not exceeding those of the sanctioned scale.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 23",
+      "Chapter IV",
+      "F.R. 33"
+    ],
+    "required_evidence": [
+      "When a Government servant officiates in a post the pay of which has been fixed at a rate personal to another Government servant, the Central Government may permit him to draw pay at any rate not exceeding the rate so fixed or, if the rate so fixed be a time- scale may grant him initial pay not exceeding the lowest stage of that time- scale and future increments not exceeding those of the sanctioned scale."
+    ]
+  },
+  {
+    "id": "D3-Q069",
+    "document_id": "D3",
+    "question": "Can the Central Government fix the pay of an officiating Government servant at less than the amount admissible under the rules?",
+    "answer": "Yes, the Central Government may fix it at an amount less than that admissible under these rules.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 23",
+      "Chapter IV",
+      "F.R. 35"
+    ],
+    "required_evidence": [
+      "The Central Government may fix the pay of an officiating Government servant at an amount less than that admissible under these rules."
+    ]
+  },
+  {
+    "id": "D3-Q070",
+    "document_id": "D3",
+    "question": "When may acting promotions be made under F.R. 36?",
+    "answer": "In the place of Government servants who are treated as on duty under Rule 9(6)(b), by general or special orders of the Central Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 23",
+      "Chapter IV",
+      "F.R. 36"
+    ],
+    "required_evidence": [
+      "The Central Government may issue general or special orders allowing acting promotions to be made in the place of Government servants who are treated as on duty under Rule 9(6) (b)."
+    ]
+  },
+  {
+    "id": "D3-Q071",
+    "document_id": "D3",
+    "question": "How is personal pay reduced?",
+    "answer": "It is reduced by any amounts by which the recipient's pay may be increased, and ceases as soon as his pay is increased by an amount equal to his personal pay.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 24",
+      "Chapter IV",
+      "F.R. 37"
+    ],
+    "required_evidence": [
+      "personal pay shall be reduced by any amounts by which the recipient's pay may be increased, and shall cease as soon as his pay is increased by an amount equal to his personal pay."
+    ]
+  },
+  {
+    "id": "D3-Q072",
+    "document_id": "D3",
+    "question": "How is pay fixed for a temporary post that may have to be filled by a person not already in Government service?",
+    "answer": "With reference to the minimum necessary to secure the services of a person capable of efficiently discharging the duties of the post.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 24",
+      "Chapter IV",
+      "F.R. 39"
+    ],
+    "required_evidence": [
+      "When a temporary post is created which may have to be filled by a person not already in Government service, the pay of the post shall be fixed with reference to the minimum that is necessary to secure the services of a person capable of discharging efficiently the duties of the post."
+    ]
+  },
+  {
+    "id": "D3-Q073",
+    "document_id": "D3",
+    "question": "What factors are considered when fixing pay of a temporary post likely to be filled by an existing Government servant?",
+    "answer": "The character and responsibility of the works to be performed and the existing pay of Government servants of sufficient status to warrant selection.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 24",
+      "Chapter IV",
+      "F.R. 40"
+    ],
+    "required_evidence": [
+      "its pay should be fixed by the Central Government with due, regard to—",
+      "(a) the character and responsibility of the works to be performed, and",
+      "(b) the existing pay of Government servants of a status sufficient to warrant their selection for the post."
+    ]
+  },
+  {
+    "id": "D3-Q074",
+    "document_id": "D3",
+    "question": "What general rule governs the amount of compensatory allowance?",
+    "answer": "It should be so regulated that the allowance is not on the whole a source of profit to the recipient.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 25",
+      "Chapter V",
+      "F.R. 44"
+    ],
+    "required_evidence": [
+      "the amount of compensatory allowance should be so regulated that the allowance is not on the whole a source of profit to the recipient"
+    ]
+  },
+  {
+    "id": "D3-Q075",
+    "document_id": "D3",
+    "question": "What may the Central Government make rules or issue orders about regarding residences for officers?",
+    "answer": "Principles governing allotment of buildings owned or leased by it for use as residences.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 25",
+      "Chapter V",
+      "F.R. 45"
+    ],
+    "required_evidence": [
+      "The Central Government may make rules or issue orders laying down the principles governing the allotment to officers serving under its administrative control, for use by them as residences, of such buildings owned or leased by it, or such portions thereof, as the Central Government may make available for the purpose."
+    ]
+  },
+  {
+    "id": "D3-Q076",
+    "document_id": "D3",
+    "question": "What does the capital cost of a Government-owned residence include for licence fee assessment?",
+    "answer": "The cost or value of sanitary, water supply and electric installations and fittings.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 25",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "the capital cost of a residence owned by Government shall include the cost or value of sanitary, water supply and electric installations and fittings;"
+    ]
+  },
+  {
+    "id": "D3-Q077",
+    "document_id": "D3",
+    "question": "How is the standard licence fee calculated for a residence owned by Government under F.R. 45-A?",
+    "answer": "On the capital cost of the residence, either as a percentage of capital cost fixed by the President plus additions, or 6 per cent per annum of such capital cost, whichever is less.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 26-27",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "in the case of residences owned by Government, the standard licence fee shall be calculated on the capital cost of the residence, and shall be either—",
+      "(i) a percentage of such capital cost equal to such rate of interest as may from time to time be fixed by the President plus an addition for municipal and other taxes in the nature of house or property tax payable by Government in respect of the residence and for both ordinary and special maintenance and repairs, such addition being determined under rules which the- Central Government may make, or (ii) 6 per cent per annum of such capital cost, whichever is less."
+    ]
+  },
+  {
+    "id": "D3-Q078",
+    "document_id": "D3",
+    "question": "What is the maximum licence fee payable by an officer for a Government residence under F.R. 45-A?",
+    "answer": "The standard licence fee or 10 per cent of his monthly emoluments, whichever is less.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "he shall pay— (i) licence fee for the residence, such licence fee being the standard licence fee as defined in Clause III above or 10 per cent of his monthly emoluments, whichever is less:"
+    ]
+  },
+  {
+    "id": "D3-Q079",
+    "document_id": "D3",
+    "question": "What may the Central Government group for the purpose of assessment of licence fee?",
+    "answer": "A number of residences, whether in a particular area or of a particular class or classes, after standard licence fees have been calculated.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 28",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "the Central Government may—",
+      "(i) at any time, after the standard licence fees have been calculated under the provisions of Clause III above, group a number of residences, whether in a particular area or of a particular class or classes, for the purpose of assessment of licence fee, subject to the following conditions being fulfilled:"
+    ]
+  },
+  {
+    "id": "D3-Q080",
+    "document_id": "D3",
+    "question": "When may a licence fee in excess of the prescribed amount be taken from an officer under F.R. 45-A?",
+    "answer": "When the officer is not required or permitted to reside on duty at the station, or requests excess accommodation, or receives dearness compensatory allowance, or sub-lets, or does not vacate after cancellation, or requests additions/alterations, or owns a house, among other specified grounds.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 28",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "provide for taking a licence fee in excess of that prescribed in sub-clause (b) or sub-clause (c) (i) above from an officer—",
+      "(1) who is not required or permitted to reside on duty at the station at which the residence is supplied to him, or",
+      "(2) who, at his own request, is supplied with accommodation which exceeds that which is appropriate to the status of the post held by him, or",
+      "(3) who is in receipt of a compensatory allowance granted on account of dearness of living, or",
+      "(4) who is permitted to sub-let the residence supplied to him, or",
+      "(5) who sub-lets without permission the residence supplied to him, or",
+      "(6) who does not vacate the residence after the cancellation of allotment, or",
+      "(7) at whose request additions or alterations are made in the residence supplied to him.",
+      "(8) who or any member of his family owns a house or has any interest in a house belonging to a Hindu undivided family of which he is a member,"
+    ]
+  },
+  {
+    "id": "D3-Q081",
+    "document_id": "D3",
+    "question": "What does owning a house by an officer or family member affect under F.R. 45-A?",
+    "answer": "It is a ground for taking a licence fee in excess of the prescribed amount.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 28",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "who or any member of his family owns a house or has any interest in a house belonging to a Hindu undivided family of which he is a member,"
+    ]
+  },
+  {
+    "id": "D3-Q082",
+    "document_id": "D3",
+    "question": "To which Government servants does F.R. 45-B apply?",
+    "answer": "Government servants other than those to whom Rule 45-A applies or those occupying Indian Railway residences or residences rented at the cost of railway revenues.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 30",
+      "Chapter V",
+      "F.R. 45-B"
+    ],
+    "required_evidence": [
+      "This rule applies to Government servants other than those to whom Rule 45- A applies or than those occupying residences belonging to the Indian Railway or rented at the cost of railway revenues."
+    ]
+  },
+  {
+    "id": "D3-Q083",
+    "document_id": "D3",
+    "question": "What is the standard licence fee for a leased residence under F.R. 45-B?",
+    "answer": "The sum paid to the lessor.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 31",
+      "Chapter V",
+      "F.R. 45-B"
+    ],
+    "required_evidence": [
+      "In the case of a leased residence, the standard licence fee shall be the sum paid to the lessor;"
+    ]
+  },
+  {
+    "id": "D3-Q084",
+    "document_id": "D3",
+    "question": "What is the standard licence fee for a requisitioned residence under F.R. 45-B?",
+    "answer": "The compensation payable to the owner of the building.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 31",
+      "Chapter V",
+      "F.R. 45-B"
+    ],
+    "required_evidence": [
+      "In the case of a requisitioned residence, the standard licence fee shall be the compensation payable to the owner of the building;"
+    ]
+  },
+  {
+    "id": "D3-Q085",
+    "document_id": "D3",
+    "question": "What does emoluments include for the purpose of Rules 45-A and 45-B?",
+    "answer": "Pay, specified payments from general revenues and fees, compensatory allowances other than certain allowances, Exchange Compensation Allowance, pension under certain conditions, and subsistence grant for suspended servants.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 34-35",
+      "Chapter V",
+      "F.R. 45-C"
+    ],
+    "required_evidence": [
+      "emoluments means—",
+      "(i) Pay;",
+      "(ii) Payments from general revenues and fees, if such payments or fees are received in the shape of a fixed addition to monthly pay and allowances as part of the authorized remuneration of a post;",
+      "(iii) Compensatory allowances, other than travelling allowance, Children's Educational allowance, uniform allowance, clothing allowance, outfit allowance, special outfit allowance, uniform grant and grant for horse and saddlery, whether drawn from the Consolidated Fund of India or of a State or from a local fund;",
+      "(iv) Exchange Compensation Allowance;",
+      "(v) Pension, other than a pension drawn under the provisions of Chapter XXXVIII, Civil Service Regulations, or compensation received under the Workmen's Compensation Act, 1923, as subsequently amended;",
+      "(vi) In the case of a Government servant under suspension and in receipt of a subsistence grant, the amount of the subsistence grant, provided that, if such Government servant is subsequently allowed to draw pay for the period of suspension the difference between the licence fee recovered on the basis of the subsistence grant and the licence fee due on the basis of the emoluments ultimately drawn shall be recovered from him."
+    ]
+  },
+  {
+    "id": "D3-Q086",
+    "document_id": "D3",
+    "question": "What allowance is not included in emoluments under F.R. 45-C?",
+    "answer": "Allowances attached to the Indian Police Medal.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 35",
+      "Chapter V",
+      "F.R. 45-C"
+    ],
+    "required_evidence": [
+      "It does not include allowances attached to the Indian Police Medal."
+    ]
+  },
+  {
+    "id": "D3-Q087",
+    "document_id": "D3",
+    "question": "When may a Government servant be permitted to perform a service for a private person or body and receive a fee?",
+    "answer": "If it can be done without detriment to his official duties and responsibilities, and subject to rules under Rule 46-A and Rule 47.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 35",
+      "Chapter V",
+      "F.R. 46"
+    ],
+    "required_evidence": [
+      "a Government servant may be permitted, if this can be done without detriment to his official duties and responsibilities, to perform a specified service or series of services for a private person or body or for a public body including a body administering a local fund and to receive a remuneration therefor, if the service be material, a non- recurring or recurring fee."
+    ]
+  },
+  {
+    "id": "D3-Q088",
+    "document_id": "D3",
+    "question": "For what kind of work may an honorarium be granted?",
+    "answer": "Work performed which is occasional or intermittent in character and either so laborious or of such special merit as to justify a special reward.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 35",
+      "Chapter V",
+      "F.R. 46"
+    ],
+    "required_evidence": [
+      "The Central Government may grant or permit a government servant to receive an honorarium as remuneration for work performed which is occasional or intermittent in character and either so laborious or of such special merit as to justify a special reward."
+    ]
+  },
+  {
+    "id": "D3-Q089",
+    "document_id": "D3",
+    "question": "Who may make rules prescribing conditions and limits for a Medical Officer in civil employ to receive fees for services other than professional attendance?",
+    "answer": "The President.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 36",
+      "Chapter V",
+      "F.R. 46-A"
+    ],
+    "required_evidence": [
+      "The President may make rules prescribing the conditions and limits subject to which a fee may be received by a Medical Officer in civil employ for services other than professional attendance."
+    ]
+  },
+  {
+    "id": "D3-Q090",
+    "document_id": "D3",
+    "question": "What may the Central Government make rules about regarding honoraria?",
+    "answer": "Conditions and limits subject to which subordinate authorities may sanction grant or acceptance of honoraria, and acceptance of fees other than by Medical Officers in civil employ for professional attendance.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 36",
+      "Chapter V",
+      "F.R. 47"
+    ],
+    "required_evidence": [
+      "the Central Government may make rules prescribing the conditions and limits subject to which authorities subordinate to it may sanction the grant or acceptance of honoraria, and the acceptance of fees other than the acceptance of fees by Medical Officers in civil employ for professional attendance."
+    ]
+  },
+  {
+    "id": "D3-Q091",
+    "document_id": "D3",
+    "question": "Which rewards may a Government servant retain without special permission?",
+    "answer": "Premium for essay or plan in public competitions, reward for arrest of criminal or information/special service in administration of justice, reward under any Act/Regulation/rules, reward for customs and excise laws, and fees payable for official duties under special or local law.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 36",
+      "Chapter V",
+      "F.R. 48"
+    ],
+    "required_evidence": [
+      "Any Government servant is eligible to receive and, except as otherwise provided by a general or special order of the President, to retain without special permission—",
+      "(a) the premium awarded for any essay or plan in public competitions;",
+      "(b) any reward offered for the arrest of a criminal, or for information or special service in connection with the administration of justice;",
+      "(c) any reward in accordance with the provisions of any Act or Regulation or rules framed thereunder;",
+      "(d) any reward sanctioned for services in connection with the administration of the customs and excise laws; and",
+      "(e) any fees payable to a Government servant for duties which he is required to perform in his official capacity under any special or local law or by order of Government."
+    ]
+  },
+  {
+    "id": "D3-Q092",
+    "document_id": "D3",
+    "question": "When may a Government servant whose duties involve scientific or technical research apply for or obtain a patent?",
+    "answer": "Only with the permission of the Central Government and in accordance with conditions imposed by it.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 36",
+      "Chapter V",
+      "F.R. 48-A"
+    ],
+    "required_evidence": [
+      "A Government servant whose duties involve the carrying out of scientific or technical research shall not apply for or obtain, cause or permit any other person to apply for or obtain a patent for an invention made by such Government servant save with the permission of the Central Government and in accordance with such conditions as the Central Government may impose."
+    ]
+  },
+  {
+    "id": "D3-Q093",
+    "document_id": "D3",
+    "question": "Who decides whether a Government servant is covered by Fundamental Rule 48-A?",
+    "answer": "The Central Government, and its decision is final.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 37",
+      "Chapter V",
+      "F.R. 48-B"
+    ],
+    "required_evidence": [
+      "If a question arises whether a Government servant is a Government servant to whom Fundamental Rule 48- A applies, the decision of the Central Government will be final."
+    ]
+  },
+  {
+    "id": "D3-Q094",
+    "document_id": "D3",
+    "question": "What pay is allowed when a Government servant is formally appointed to hold full charge of a higher post in the same office and same cadre/line of promotion?",
+    "answer": "The pay admissible if he is appointed to officiate in the higher post, unless the Competent Authority reduces officiating pay under Rule 35; no additional pay for lower post duties.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 38",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "where a Government servant is formally appointed to hold full charge of the duties of a higher post in the same office as his own and in the same cadre/line of promotion, in addition to his ordinary duties, he shall be allowed the pay admissible to him, if he is appointed to officiate in the higher post, unless the Competent Authority reduces his officiating pay under Rule 35; but no additional pay shall, however, be allowed for performing the duties of a lower post;"
+    ]
+  },
+  {
+    "id": "D3-Q095",
+    "document_id": "D3",
+    "question": "Is additional pay admissible for dual charge of two posts in the same cadre and same office carrying identical scales?",
+    "answer": "No additional pay is admissible, except special pay if the additional post carries special pay.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "where a Government servant is formally appointed to hold dual charges of two posts in the same cadre in the same office carrying identical scales of pay, no additional pay shall be admissible irrespective of the period of dual charge:",
+      "Provided that, if the Government servant is appointed to an additional post which carries a special pay, he shall be allowed such special pay;"
+    ]
+  },
+  {
+    "id": "D3-Q096",
+    "document_id": "D3",
+    "question": "What additional pay is allowed for holding charge of another post not in the same office for more than 45 days but not exceeding 3 months?",
+    "answer": "Pay of the higher or highest post plus ten per cent of the presumptive pay of the additional post or posts.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 38",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "he shall be allowed the pay of the higher post, or of the highest post, if he holds charge of more than two posts, in addition to ten per cent of the presumptive pay of the additional post or posts, if the additional charge is held for a period exceeding 45 days but not exceeding 3 months:"
+    ]
+  },
+  {
+    "id": "D3-Q097",
+    "document_id": "D3",
+    "question": "What is the maximum aggregate of pay and additional pay when an officer holds full additional charge of another post?",
+    "answer": "Rs 2,25,000.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "where an officer is formally appointed to hold full additional charge of another post, the aggregate of pay and additional pay shall in no case exceed Rs 2,25,000;"
+    ]
+  },
+  {
+    "id": "D3-Q098",
+    "document_id": "D3",
+    "question": "Is additional pay admissible for current charge of routine duties of another post?",
+    "answer": "No additional pay is admissible irrespective of duration.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 39",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "no additional pay shall be admissible to a Government servant who is appointed to hold current charge of the routine duties of another post or posts irrespective of the duration of the additional charge;"
+    ]
+  },
+  {
+    "id": "D3-Q099",
+    "document_id": "D3",
+    "question": "What approval is required for deputation of a Government servant out of India?",
+    "answer": "Previous approval of the Central Government.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 40",
+      "Chapter VII",
+      "F.R. 50"
+    ],
+    "required_evidence": [
+      "No deputation of Government servant out of India shall be sanctioned without the previous approval, of the Central Government."
+    ]
+  },
+  {
+    "id": "D3-Q100",
+    "document_id": "D3",
+    "question": "What pay may the President allow a Government servant temporarily deputed for duty out of India?",
+    "answer": "The same pay which he would have drawn had he remained on duty in India.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 40",
+      "Chapter VII",
+      "F.R. 51"
+    ],
+    "required_evidence": [
+      "he may be allowed by the President to draw during the period of deputation the same pay which he would have drawn had he remained on duty in India:"
+    ]
+  },
+  {
+    "id": "D3-Q101",
+    "document_id": "D3",
+    "question": "What happens if a Government servant is placed on deputation while already on leave out of India on average pay?",
+    "answer": "The President may require him to continue on leave, and he shall be given leave salary plus an honorarium of one-sixth of the pay he would have drawn on duty in India; passages cost borne by him.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 40",
+      "Chapter VII",
+      "F.R. 51"
+    ],
+    "required_evidence": [
+      "a Government servant, who is placed on deputation while already on leave out of India on average pay, may be required by the President to continue to be on leave, in which case he shall be given during that period, in addition to his leave salary, an honorarium of one- sixth of the pay which he would have drawn had he remained on duty in India; the cost of passages from and to India shall be borne by him."
+    ]
+  },
+  {
+    "id": "D3-Q102",
+    "document_id": "D3",
+    "question": "What allowance may be granted to a Government servant on deputation in a foreign country?",
+    "answer": "A compensatory allowance of such amount as the President may think fit.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 40",
+      "Chapter VII",
+      "F.R. 51"
+    ],
+    "required_evidence": [
+      "A Government servant on deputation may also be granted a compensatory allowance in a foreign country of such amount as the President may think fit."
+    ]
+  },
+  {
+    "id": "D3-Q103",
+    "document_id": "D3",
+    "question": "How is the foreign exchange equivalent of pay, honorarium or compensatory allowance calculated on deputation?",
+    "answer": "At such rate of exchange as the President may by order prescribe.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 40",
+      "Chapter VII",
+      "F.R. 51"
+    ],
+    "required_evidence": [
+      "The foreign exchange equivalent of the pay, honorarium or Compensatory Allowance admissible under sub-rule (1) or sub-rule (2) shall be calculated at such rate of exchange as the President may by order prescribe."
+    ]
+  },
+  {
+    "id": "D3-Q104",
+    "document_id": "D3",
+    "question": "From what date do pay and allowances cease for a dismissed or removed Government servant?",
+    "answer": "From the date of such dismissal or removal.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 41",
+      "Chapter VIII",
+      "F.R. 52"
+    ],
+    "required_evidence": [
+      "The pay and allowances of a Government servant who is dismissed or removed from service cease from the date of such dismissal or removal."
+    ]
+  },
+  {
+    "id": "D3-Q105",
+    "document_id": "D3",
+    "question": "What subsistence allowance is payable to a suspended Government servant?",
+    "answer": "An amount equal to the leave salary he would have drawn if on leave on half average pay or half-pay, plus dearness allowance if admissible on that basis.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 41",
+      "Chapter VIII",
+      "F.R. 53"
+    ],
+    "required_evidence": [
+      "a subsistence allowance at an amount equal to the leave salary which the Government servant would have drawn, if he had been on leave on half average pay or on half-pay and in addition, dearness allowance, if admissible on the basis of such leave salary:"
+    ]
+  },
+  {
+    "id": "D3-Q106",
+    "document_id": "D3",
+    "question": "By how much may subsistence allowance be increased if suspension exceeds three months for reasons not attributable to the Government servant?",
+    "answer": "By a suitable amount not exceeding 50 per cent of the subsistence allowance admissible during the first three months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 41",
+      "Chapter VIII",
+      "F.R. 53"
+    ],
+    "required_evidence": [
+      "the amount of subsistence allowance may be increased by a suitable amount, not exceeding 50 per cent of the subsistence allowance admissible during the period of the first three months, if, in the opinion of the said authority, the period of suspension has been prolonged for reasons to be recorded in writing, not directly attributable to the Government servant;"
+    ]
+  },
+  {
+    "id": "D3-Q107",
+    "document_id": "D3",
+    "question": "What certificate must a suspended Government servant furnish to receive payment under F.R. 53?",
+    "answer": "A certificate that he is not engaged in any other employment, business, profession or vocation.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 42",
+      "Chapter VIII",
+      "F.R. 53"
+    ],
+    "required_evidence": [
+      "No payment under sub-rule (1) shall be made unless the Government servant furnishes a certificate that he is not engaged in any other employment, business, profession or vocation:"
+    ]
+  },
+  {
+    "id": "D3-Q108",
+    "document_id": "D3",
+    "question": "What is paid when a dismissed, removed or compulsorily retired Government servant is fully exonerated on reinstatement?",
+    "answer": "Full pay and allowances to which he would have been entitled had he not been dismissed, removed, compulsorily retired or suspended prior to such action.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 43",
+      "Chapter VIII",
+      "F.R. 54"
+    ],
+    "required_evidence": [
+      "Where the authority competent to order reinstatement is of opinion that the Government servant who had been dismissed, removed or compulsorily retired has been fully exonerated, the Government servant shall, subject to the provisions of sub-rule (6), be paid the full pay and allowances to which he would have been entitled, had he not been dismissed, removed or compulsorily retired or suspended prior to such dismissal, removal or compulsory retirement, as the case may be:"
+    ]
+  },
+  {
+    "id": "D3-Q109",
+    "document_id": "D3",
+    "question": "What may be directed if termination of proceedings was delayed due to reasons attributable to the Government servant?",
+    "answer": "Only such amount (not the whole) of pay and allowances as the authority may determine, after representation within sixty days.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 43",
+      "Chapter VIII",
+      "F.R. 54"
+    ],
+    "required_evidence": [
+      "where such authority is of opinion that the termination of the proceedings instituted against the Government servant had been delayed due to reasons directly, attributable to the Government servant it may, after giving him an opportunity to make his representation within sixty days from the date on which the communication in this regard is served on him and after considering the representation, if any, submitted by him, direct, for reasons to be recorded in writing, that the Government servant shall, subject to the provisions of sub- rule (7), be paid for the period of such delay, only such amount (not being the whole) of such pay and allowances as it may determine."
+    ]
+  },
+  {
+    "id": "D3-Q110",
+    "document_id": "D3",
+    "question": "How is the period of absence from duty treated when a Government servant is fully exonerated?",
+    "answer": "It shall be treated as a period spent on duty for all purposes.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 43",
+      "Chapter VIII",
+      "F.R. 54"
+    ],
+    "required_evidence": [
+      "the period of absence from duty including the period of suspension preceding dismissal, removal or compulsory retirement, as the case may be, shall be treated as a period spent on duty for all purposes."
+    ]
+  },
+  {
+    "id": "D3-Q111",
+    "document_id": "D3",
+    "question": "What happens when dismissal, removal or compulsory retirement is set aside by a Court of Law and the servant is reinstated without further inquiry?",
+    "answer": "The period of absence is regularized and pay and allowances are paid in accordance with F.R. 54-A(2) or (3), subject to Court directions.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 45",
+      "Chapter VIII",
+      "F.R. 54-A"
+    ],
+    "required_evidence": [
+      "Where the dismissal, removal or compulsory retirement of a Government servant is set aside by a Court of Law and such Government servant is reinstated without holding any further inquiry, the period of absence from duty shall be regularized and the Government servant shall be paid pay and allowances in accordance with the provisions of sub- rule (2) or (3) subject to the directions, if any, of the Court."
+    ]
+  },
+  {
+    "id": "D3-Q112",
+    "document_id": "D3",
+    "question": "What is paid if suspension is held wholly unjustified on reinstatement?",
+    "answer": "Full pay and allowances to which he would have been entitled had he not been suspended.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 47",
+      "Chapter VIII",
+      "F.R. 54-B"
+    ],
+    "required_evidence": [
+      "Where the authority competent to order reinstatement is of the opinion that the suspension was wholly unjustified, the Government servant shall, subject to the provisions of sub-rule (8) be paid the full pay and allowances to which he would have been entitled, had he not been suspended:"
+    ]
+  },
+  {
+    "id": "D3-Q113",
+    "document_id": "D3",
+    "question": "What happens if a Government servant under suspension dies before disciplinary or Court proceedings are concluded?",
+    "answer": "The period between suspension and death is treated as duty for all purposes and his family is paid full pay and allowances for that period, subject to adjustment of subsistence allowance already paid.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 46-47",
+      "Chapter VIII",
+      "F.R. 54-B"
+    ],
+    "required_evidence": [
+      "where a Government servant under suspension dies before the disciplinary or the Court proceedings instituted against him are concluded, the period between the date of suspension and the date of death shall be treated as duty for all purposes and his family shall be paid the full pay and allowances for that period to which he would have been entitled had he not been suspended, subject to adjustment in respect of subsistence allowance already paid."
+    ]
+  },
+  {
+    "id": "D3-Q114",
+    "document_id": "D3",
+    "question": "May leave be granted to a Government servant under suspension?",
+    "answer": "No, leave may not be granted to a Government servant under suspension.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 48",
+      "Chapter VIII",
+      "F.R. 55"
+    ],
+    "required_evidence": [
+      "Leave may not be granted to a Government servant under suspension."
+    ]
+  },
+  {
+    "id": "D3-Q115",
+    "document_id": "D3",
+    "question": "At what age does every Government servant retire under F.R. 56(a)?",
+    "answer": "Sixty years, on the afternoon of the last day of the month in which he attains that age.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 49",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "every Government servant shall retire from service on the afternoon of the last day of the month in which he attains the age of sixty years:"
+    ]
+  },
+  {
+    "id": "D3-Q116",
+    "document_id": "D3",
+    "question": "At what age does a workman governed by these rules retire?",
+    "answer": "Sixty years, on the afternoon of the last day of the month in which he attains that age.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 49",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "A workman who is governed by these rules shall retire from service on the afternoon of the last day of the month in which he attains the age of sixty years."
+    ]
+  },
+  {
+    "id": "D3-Q117",
+    "document_id": "D3",
+    "question": "What is the superannuation age for specified doctors under F.R. 56?",
+    "answer": "Sixty-two years unless they exercise the option of posting to specified functions to continue up to sixty-five years.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 49-50",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "The age of superannuation in respect of the doctors belonging to",
+      "(i) Central Health Service; (ii) Indian Railways Medical Service; (iii) AYUSH and working under the Ministry of AYUSH; (iv) Civilian doctors under the Directorate General of Armed Forces Medical Service; (v) Medical Officers of the Indian Ordnance Factories Health Service; (vi) Dental Doctors under the Department of Health and Family Welfare; (vii) Dental doctors under the Ministry of Railways; and",
+      "(viii) General Duty Medical Officers, Specialist Grade doctors and Teaching Medical Faculty working in Bhopal Memorial Hospital and Research Centre;",
+      "shall be sixty- two years unless they exercise the option of posting to Teaching, Clinical, Patient Care, Implementation of Health programmes, Public Health programmes and functions including advisory and consultancy depending on their expertise and experience, as decided by the competent authority in the concerned Ministry or Department from time to time, in case they desire to continue in their service upto the age of sixty- five years:"
+    ]
+  },
+  {
+    "id": "D3-Q118",
+    "document_id": "D3",
+    "question": "What is the age of superannuation for nursing teaching faculty with M.Sc. in Nursing in Central Government Nursing Institutions?",
+    "answer": "65 years, subject to continuing as faculty members after 60 years.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 50",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "the age of superannuation in respect of nursing teaching faculty with M.Sc. in Nursing in the Central Government Nursing Institutions shall be 65 years subject to the condition that they continue to function as faculty members after the age of 60 years."
+    ]
+  },
+  {
+    "id": "D3-Q119",
+    "document_id": "D3",
+    "question": "Is extension in service beyond the age of sixty years generally allowed under F.R. 56(d)?",
+    "answer": "No, no Government servant shall be granted extension in service beyond the age of retirement of sixty years, subject to specified exceptions.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 51",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "No government servant shall be granted extension in service beyond the age of retirement of sixty years:"
+    ]
+  },
+  {
+    "id": "D3-Q120",
+    "document_id": "D3",
+    "question": "Up to what age may a specialist in medical or scientific fields be granted extension of service?",
+    "answer": "Up to sixty-two years, if in public interest and grounds recorded in writing.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 51",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "a specialist in medical or scientific fields may be granted extension of service up to the age of sixty- two years, if such extension is in public interest and the grounds for such extension are recorded in writing:"
+    ]
+  },
+  {
+    "id": "D3-Q121",
+    "document_id": "D3",
+    "question": "Up to what age may an eminent scientist of international stature be granted extension of service?",
+    "answer": "Up to 64 years, if in public interest and grounds recorded in writing.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 51",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "an eminent scientist of international stature may be granted extension of service up to the age of 64 years, if such extension is in public interest and the grounds for such extension are recorded in writing."
+    ]
+  },
+  {
+    "id": "D3-Q122",
+    "document_id": "D3",
+    "question": "What is the maximum total term for a Cabinet Secretary given extension in service?",
+    "answer": "Four years.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 51",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "give extension in service to a Cabinet Secretary in the Central Government for such period or periods as it may deem proper subject to the condition that his total term as such Cabinet Secretary does not exceed four years."
+    ]
+  },
+  {
+    "id": "D3-Q123",
+    "document_id": "D3",
+    "question": "What is the maximum total term for specified Secretaries and Directors given extension under F.R. 56?",
+    "answer": "Two years or the period provided in the respective Act or rules, subject to conditions.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 51-52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "subject to the condition that the total term of such Secretaries or Directors, as the case may be, who are given such extension in service under this rule, does not exceed two years or the period provided in the respective Act or rules made thereunder, under which their appointments are made."
+    ]
+  },
+  {
+    "id": "D3-Q124",
+    "document_id": "D3",
+    "question": "What further extension beyond two years may be given to the Home Secretary and Defence Secretary?",
+    "answer": "A further period not exceeding three months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "give an extension in service for a further period not exceeding three months beyond the said period of two years to the Home Secretary and the Defence Secretary."
+    ]
+  },
+  {
+    "id": "D3-Q125",
+    "document_id": "D3",
+    "question": "What further extension beyond two years may be given to the Foreign Secretary?",
+    "answer": "A further period not exceeding one year.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "give an extension in service for a further period not exceeding one year beyond the said period of two years to the Foreign Secretary."
+    ]
+  },
+  {
+    "id": "D3-Q126",
+    "document_id": "D3",
+    "question": "What is the maximum age for extension of service to the Secretary, Department of Space and Secretary, Department of Atomic Energy?",
+    "answer": "66 years.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "give extension of service to the Secretary, Department of Space and the Secretary, Department of Atomic Energy, for such period or periods as it may deem proper subject to a maximum age of 66 years."
+    ]
+  },
+  {
+    "id": "D3-Q127",
+    "document_id": "D3",
+    "question": "What notice must the Appropriate Authority give to terminate an extension of service?",
+    "answer": "Not less than three months' notice in writing for permanent/quasi-permanent, or one month for temporary, or pay and allowances in lieu.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "the Appropriate Authority shall have the right to terminate the extension of service before the expiry of such extension by giving a notice in writing of not less than three months in the case of a permanent or a quasi- permanent Government servant, or, of one month in the case of a temporary Government servant, or pay and allowances in lieu of such notice."
+    ]
+  },
+  {
+    "id": "D3-Q128",
+    "document_id": "D3",
+    "question": "When does a Military officer in a Civil Department cease to be in civil employment?",
+    "answer": "On the date he attains the age of sixty years.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "A Military officer in a Civil Department shall cease to be in civil employment on the date he attains the age of sixty years."
+    ]
+  },
+  {
+    "id": "D3-Q129",
+    "document_id": "D3",
+    "question": "After what age may the Appropriate Authority prematurely retire a Group A or B Government servant who entered service before 35?",
+    "answer": "After he has attained the age of 50 years.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 53",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "If he is,in Group 'A' or Group 'B' service or post in a substantive, quasi-permanent or temporary capacity and had entered Government service before attaining the age of 35 years, after he has attained the age of 50 years;"
+    ]
+  },
+  {
+    "id": "D3-Q130",
+    "document_id": "D3",
+    "question": "After what age may premature retirement occur in any other case under F.R. 56(j)(ii)?",
+    "answer": "After he has attained the age of fifty-five years.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 53",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "in any other case after he has attained the age of fifty- five years;"
+    ]
+  },
+  {
+    "id": "D3-Q131",
+    "document_id": "D3",
+    "question": "What notice is required for voluntary retirement under F.R. 56(k)(1)?",
+    "answer": "Not less than three months in writing to the appropriate authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 53",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "Any Government servant may, by giving notice of not less than three months in writing to the appropriate authority, retire from service after he has attained the age of fifty years"
+    ]
+  },
+  {
+    "id": "D3-Q132",
+    "document_id": "D3",
+    "question": "When may the Appropriate Authority withhold permission to retire under F.R. 56(k)?",
+    "answer": "If the Government servant is under suspension, or a charge-sheet has been issued and disciplinary proceedings are pending, or judicial proceedings on grave misconduct charges are pending.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 54",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "it shall be open to the Appropriate Authority to withhold permission to a Government servant, who seeks to retire under this clause, if",
+      "(i) the Government servant is under suspension: or(ii) a charge-sheet has been issued and the disciplinary proceedings are pending; or(iii) if judicial proceedings on charges which may amount to grave misconduct, are pending."
+    ]
+  },
+  {
+    "id": "D3-Q133",
+    "document_id": "D3",
+    "question": "Can a Government servant request acceptance of notice of less than three months for voluntary retirement?",
+    "answer": "Yes, by written request to the Appointing Authority giving reasons; the authority may relax if no administrative inconvenience.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 54",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "A Government servant referred to in sub- clause (1) may make a request in writing to the Appointing Authority to accept notice of less than three months giving reasons therefor;",
+      "On receipt of a request under sub-clause (1- A)(a), the Appointing Authority may consider such request for the curtailment of the period of notice of three months on merits and if it is satisfied that the curtailment of the period of notice will not cause any administrative inconvenience, the Appointing Authority may relax the requirement of notice of three months"
+    ]
+  },
+  {
+    "id": "D3-Q134",
+    "document_id": "D3",
+    "question": "Can a Government servant withdraw his election to retire under F.R. 56?",
+    "answer": "No, he is precluded from withdrawing except with specific approval of the Appointing Authority.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 55",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "A Government servant, who has elected to retire under this rule and has given the necessary intimation to that effect to the Appointing Authority, shall be precluded from withdrawing his election subsequently except with the specific approval of such authority:"
+    ]
+  },
+  {
+    "id": "D3-Q135",
+    "document_id": "D3",
+    "question": "After how many years of service may a Class III Government servant not governed by pension rules be retired under F.R. 56(l)?",
+    "answer": "After he has completed thirty years' service.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 55",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "retire a Government servant in Class III service or post who is not governed by any pension rules, after he has completed thirty years' service by giving him notice of not less than three months in writing or three months' pay and allowances in lieu of such notice."
+    ]
+  },
+  {
+    "id": "D3-Q136",
+    "document_id": "D3",
+    "question": "After how many years of service may a Group C Government servant not governed by pension rules retire voluntarily?",
+    "answer": "After he has completed thirty years service.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 55",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "A Government servant in Group 'C' post who is not governed by any pension rules, may, by giving notice of not less than three months in writing to the Appropriate Authority, retire from service after he has completed thirty years service;"
+    ]
+  },
+  {
+    "id": "D3-Q137",
+    "document_id": "D3",
+    "question": "What does Appropriate Authority mean for F.R. 56 retirement clauses?",
+    "answer": "The authority which has power to make substantive appointments to the post or service from which the Government servant is required or wants to retire.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 55",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "'Appropriate Authority' means the authority which has the power to make substantive appointments to the post or service from which the Government servant is required or wants to retire."
+    ]
+  },
+  {
+    "id": "D3-Q138",
+    "document_id": "D3",
+    "question": "How are the dates of service and expiry of notice counted for three months' notice under F.R. 56?",
+    "answer": "The date of service of the notice and the date of its expiry shall be excluded.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 56",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "In computing the notice period of three months referred to in clauses (j) to (m), date of service of the notice and the date of its expiry shall be excluded."
+    ]
+  },
+  {
+    "id": "D3-Q139",
+    "document_id": "D3",
+    "question": "What are the conditions for alteration of a Government servant's date of birth?",
+    "answer": "Request within five years of entry into Government service, genuine bona fide mistake clearly established, and altered date would not make him ineligible for any examination or entry into service.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 56-57",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "An alteration of date of birth of a Government servant can be made, with the sanction of a Ministry or Department of the Central Government, or the Comptroller and Auditor- General in regard to persons serving in the Indian Audit and Accounts Department, or an Administrator of a Union Territory under which the Government servant is serving, if-",
+      "(a) a request in this regard is made within five years of his entry into Government service;",
+      "(b) it is clearly established that a genuine bona fide mistake has occurred; and",
+      "(c) the date of birth so altered would not make him ineligible to appear in any School or University or Union Public Service Commission examination in which he had appeared, or for entry into Government service on the date on which he first appeared at such examination or on the date on which he entered Government service."
+    ]
+  },
+  {
+    "id": "D3-Q140",
+    "document_id": "D3",
+    "question": "What is a Government servant entitled to if he does not join his post within his joining time?",
+    "answer": "No pay or leave salary after the end of the joining time.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 59",
+      "Chapter XI",
+      "F.R. 108"
+    ],
+    "required_evidence": [
+      "A Government servant who does not join his post within his joining time is entitled to no pay or leave Salary after the end of the joining time."
+    ]
+  },
+  {
+    "id": "D3-Q141",
+    "document_id": "D3",
+    "question": "How may wilful absence from duty after expiry of joining time be treated?",
+    "answer": "As misbehaviour for the purpose of Rule 15.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 59",
+      "Chapter XI",
+      "F.R. 108"
+    ],
+    "required_evidence": [
+      "Wilful absence from duty after the expiry of joining time may be treated as misbehaviour for the purpose of Rule 15."
+    ]
+  },
+  {
+    "id": "D3-Q142",
+    "document_id": "D3",
+    "question": "Who may be treated as on joining time under F.R. 108-A?",
+    "answer": "A person in employment other than Government service, or on leave from such employment, if appointed in the interest of Government to a post under the Central Government, while preparing for and making the journey to join or on reversion.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 59",
+      "Chapter XI",
+      "F.R. 108-A"
+    ],
+    "required_evidence": [
+      "A person in employment other than Governments service or on leave granted from such employment, if in the interest of Government discretion he is appointed to a post under the Central Government, may, at of that Government, be treated as on joining time while he prepares for and makes the journey to join the post under Government, post and while under he prepares for and makes the journey on reversion from the such Government to return to his original employment."
+    ]
+  },
+  {
+    "id": "D3-Q143",
+    "document_id": "D3",
+    "question": "To which Government servants do the rules in the Foreign Service chapter apply?",
+    "answer": "Only to those transferred to Foreign Service after these rules come into force; those transferred previously remain subject to rules in force at the time of transfer.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 60",
+      "Chapter XII",
+      "F.R. 109"
+    ],
+    "required_evidence": [
+      "The rules in this chapter apply to those Government servants only who are transferred to Foreign Service after these rules come into force. Government servants transferred previously will remain subject to the rules in force at the time of transfer."
+    ]
+  },
+  {
+    "id": "D3-Q144",
+    "document_id": "D3",
+    "question": "May a Government servant be transferred to Foreign Service against his will?",
+    "answer": "No, no Government servant may be transferred to Foreign Service against his will, subject to an exception for certain Government-controlled bodies.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 60",
+      "Chapter XII",
+      "F.R. 110"
+    ],
+    "required_evidence": [
+      "No Government servant may be transferred to Foreign Service against his will:",
+      "Provided that this sub- rule shall not apply to the transfer of a Government servant to the service of a body, incorporated or not, which is wholly or substantially owned or controlled by the Government."
+    ]
+  },
+  {
+    "id": "D3-Q145",
+    "document_id": "D3",
+    "question": "What is the exception to the rule against transfer to Foreign Service against one's will?",
+    "answer": "Transfer to the service of a body, incorporated or not, which is wholly or substantially owned or controlled by the Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 60",
+      "Chapter XII",
+      "F.R. 110"
+    ],
+    "required_evidence": [
+      "Provided that this sub- rule shall not apply to the transfer of a Government servant to the service of a body, incorporated or not, which is wholly or substantially owned or controlled by the Government."
+    ]
+  },
+  {
+    "id": "D3-Q146",
+    "document_id": "D3",
+    "question": "What conditions make a transfer to Foreign Service admissible?",
+    "answer": "The duties to be performed after transfer should for public reasons be rendered by a Government servant, and the Government servant must hold a post paid from General Revenues or a lien on a permanent post, or would hold such lien if not suspended.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 60",
+      "Chapter XII",
+      "F.R. 111"
+    ],
+    "required_evidence": [
+      "A transfer to Foreign Service is not admissible unless- (a) the duties to be performed after the transfer are such as should, for public reasons, be rendered by a Government servant; and (b) the Government servant transferred holds at the time of transfer, a post paid from General Revenues, or holds a lien on a permanent post, or would hold a lien on such a post had his lien not been suspended."
+    ]
+  },
+  {
+    "id": "D3-Q147",
+    "document_id": "D3",
+    "question": "What happens if a Government servant is transferred to foreign service while on leave?",
+    "answer": "He ceases from the date of transfer to be on leave and to draw leave salary.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 60",
+      "Chapter XII",
+      "F.R. 112"
+    ],
+    "required_evidence": [
+      "If a Government servant is transferred to foreign service while on leave, he ceases, from the date of such transfer, to be on leave and to draw leave salary."
+    ]
+  },
+  {
+    "id": "D3-Q148",
+    "document_id": "D3",
+    "question": "What cadre status does a Government servant transferred to foreign service retain?",
+    "answer": "He remains in the cadre or cadres in which he was included in a substantive or officiating capacity immediately before transfer.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 60",
+      "Chapter XII",
+      "F.R. 113"
+    ],
+    "required_evidence": [
+      "A Government servant transferred to foreign service shall remain in the cadre or cadres in which he was included in a substantive or officiating capacity immediately before his transfer"
+    ]
+  },
+  {
+    "id": "D3-Q149",
+    "document_id": "D3",
+    "question": "From what date does a Government servant in foreign service draw pay from the foreign employer?",
+    "answer": "From the date on which he relinquishes charge of his post in Government service.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 61",
+      "Chapter XII",
+      "F.R. 114"
+    ],
+    "required_evidence": [
+      "A Government servant in foreign service will draw pay from the foreign employer from the date on which he relinquishes charge of his post in Government service."
+    ]
+  },
+  {
+    "id": "D3-Q150",
+    "document_id": "D3",
+    "question": "What contribution must be paid while a Government servant is in foreign service?",
+    "answer": "Contribution towards the cost of his pension must be paid to general revenues on his behalf.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 61",
+      "Chapter XII",
+      "F.R. 115"
+    ],
+    "required_evidence": [
+      "While a Government servant is in foreign service, contribution towards the cost of his pension must be paid to general revenues on his behalf."
+    ]
+  },
+  {
+    "id": "D3-Q151",
+    "document_id": "D3",
+    "question": "When must contributions on account of leave salary also be paid during foreign service?",
+    "answer": "If the foreign service is in India.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 61",
+      "Chapter XII",
+      "F.R. 115"
+    ],
+    "required_evidence": [
+      "If the foreign service is in India, contributions must be paid on account of the cost of leave salary also."
+    ]
+  },
+  {
+    "id": "D3-Q152",
+    "document_id": "D3",
+    "question": "Who prescribes the rate of contributions payable on account of pension and leave salary in foreign service?",
+    "answer": "The President by general order.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 61",
+      "Chapter XII",
+      "F.R. 116"
+    ],
+    "required_evidence": [
+      "The rate of contributions payable on account of pension and leave salary shall be such as the President may by general order prescribe."
+    ]
+  },
+  {
+    "id": "D3-Q153",
+    "document_id": "D3",
+    "question": "What is the purpose of the rates of pension contribution prescribed under Rule 116?",
+    "answer": "To secure to the Government servant the pension that he would have earned by service under the Government if he had not been transferred to foreign service.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 61",
+      "Chapter XII",
+      "F.R. 117"
+    ],
+    "required_evidence": [
+      "The rates of pension contribution prescribed under Rule 116 will be designed to secure to the Government servant the pension that he would have earned by service under the Government if he had not been transferred to foreign service."
+    ]
+  },
+  {
+    "id": "D3-Q154",
+    "document_id": "D3",
+    "question": "What may the Central Government do regarding contributions due in cases of transfer to foreign service?",
+    "answer": "Remit the contributions in any specified case or class of cases, and make rules prescribing interest on overdue contributions.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 62",
+      "Chapter XII",
+      "F.R. 119"
+    ],
+    "required_evidence": [
+      "the Central Government may—",
+      "(a) remit the contributions due in any specified case or class of cases; and(b) make rules prescribing the rate of interest, if any, to be levied on overdue contributions."
+    ]
+  },
+  {
+    "id": "D3-Q155",
+    "document_id": "D3",
+    "question": "May a Government servant in foreign service elect to withhold contributions and forfeit the right to count foreign service as duty?",
+    "answer": "No, he may not elect to withhold contributions and to forfeit that right.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 62",
+      "Chapter XII",
+      "F.R. 120"
+    ],
+    "required_evidence": [
+      "A Government servant in foreign service may not elect to withhold contributions and to forfeit the right to count as duty in Government service the time spent in foreign employ."
+    ]
+  },
+  {
+    "id": "D3-Q156",
+    "document_id": "D3",
+    "question": "May a Government servant transferred to foreign service accept a pension or gratuity from his foreign employer?",
+    "answer": "Not without the sanction of the Central Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 62",
+      "Chapter XII",
+      "F.R. 121"
+    ],
+    "required_evidence": [
+      "A Government servant transferred to foreign service may not without the sanction of the Central Government, accept a pension or gratuity from his foreign employer in respect of such service."
+    ]
+  },
+  {
+    "id": "D3-Q157",
+    "document_id": "D3",
+    "question": "Under what rules may a Government servant in foreign service in India be granted leave?",
+    "answer": "In accordance with the rules applicable to the service of which he is a member, and he may not take leave or receive leave salary from Government unless he actually quits duty and goes on leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 62",
+      "Chapter XII",
+      "F.R. 122"
+    ],
+    "required_evidence": [
+      "A Government servant in foreign service in India may not be granted leave otherwise than in accordance with the rules applicable to the service of which he is a member and may not take leave or receive leave salary from Government unless he actually quits duty and goes on leave."
+    ]
+  },
+  {
+    "id": "D3-Q158",
+    "document_id": "D3",
+    "question": "Who determines leave conditions for a Government servant in foreign service out of India?",
+    "answer": "His employer, on such conditions as the employer may determine.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 62",
+      "Chapter XII",
+      "F.R. 123"
+    ],
+    "required_evidence": [
+      "A Government servant in foreign service out of India may be granted leave by his employer on such conditions as the employer may determine."
+    ]
+  },
+  {
+    "id": "D3-Q159",
+    "document_id": "D3",
+    "question": "How is pay calculated if a Government servant in foreign service is appointed to officiate in a post in Government service?",
+    "answer": "On the pay of the Government post on which he holds a lien or would hold lien, and that of the post in which he officiates; his foreign service pay is not taken into account.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 63",
+      "Chapter XII",
+      "F.R. 124"
+    ],
+    "required_evidence": [
+      "A Government servant in foreign service if, appointed to officiate in a post in Government service, will draw pay calculated on the pay of the post in Government service on which he holds a lien or would hold a lien had his lien not been suspended and that of the post in which he officiates. His pay in foreign service will not be taken into account in fixing his pay."
+    ]
+  },
+  {
+    "id": "D3-Q160",
+    "document_id": "D3",
+    "question": "On what date does a Government servant revert from foreign service to Government service?",
+    "answer": "On the date on which he takes charge of his post in Government service, subject to a proviso if he takes leave before joining.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 63",
+      "Chapter XII",
+      "F.R. 125"
+    ],
+    "required_evidence": [
+      "A Government servant reverts from foreign service to Government service on the date on which he takes charge of his post in Government service: Provided that if he takes leave on the conclusion of foreign service before joining his post, his reversion shall take effect from such date as the Central Government on whose establishment he is borne may decide."
+    ]
+  },
+  {
+    "id": "D3-Q161",
+    "document_id": "D3",
+    "question": "What happens to pay and contributions when a Government servant reverts from foreign service to Government service?",
+    "answer": "His pay ceases to be paid by the foreign employer and his contributions are discontinued with effect from the date of reversion.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 63",
+      "Chapter XII",
+      "F.R. 126"
+    ],
+    "required_evidence": [
+      "When a Government servant reverts from foreign service to Government service, his pay will cease to be paid by the foreign employer and his contributions will be discontinued, with effect from the date of reversion."
+    ]
+  },
+  {
+    "id": "D3-Q162",
+    "document_id": "D3",
+    "question": "What amount is to be recovered when an addition is made to a regular establishment whose cost is recovered from beneficiaries?",
+    "answer": "The gross sanctioned cost of service, or of the portion of the service, and it shall not vary with actual monthly expenditure.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 63",
+      "Chapter XII",
+      "F.R. 127"
+    ],
+    "required_evidence": [
+      "The amount to be recovered shall be the gross sanctioned cost of service, or of the portion of the service, as the case may be, and shall not vary with the actual expenditure of any month."
+    ]
+  },
+  {
+    "id": "D3-Q163",
+    "document_id": "D3",
+    "question": "What does the cost of service include under F.R. 127?",
+    "answer": "Contributions at rates laid down under Rule 116, calculated on the sanctioned rates of pay of the establishment members.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 63",
+      "Chapter XII",
+      "F.R. 127"
+    ],
+    "required_evidence": [
+      "The cost of the service shall include contributions at such rates as may be laid down under Rule 116, and the contributions shall be calculated on the sanctioned rates of pay of the members of the establishment."
+    ]
+  },
+  {
+    "id": "D3-Q164",
+    "document_id": "D3",
+    "question": "May the Central Government reduce or forgo recoveries under F.R. 127?",
+    "answer": "Yes, it may reduce the amount of recoveries or entirely forgo them.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 63",
+      "Chapter XII",
+      "F.R. 127"
+    ],
+    "required_evidence": [
+      "The Central Government may reduce the amount of recoveries or may entirely forgo them."
+    ]
+  },
+  {
+    "id": "D3-Q165",
+    "document_id": "D3",
+    "question": "What types of income are excluded from the definition of Fee?",
+    "answer": "Unearned income such as income from property, dividends, and interests on securities, and income from literary, cultural, artistic, scientific or technological efforts and amateur sports participation.",
+    "question_type": "negation",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 5",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "but does not include",
+      "(a) unearned income such as income from property, dividends, and interests on securities; and",
+      "(b) income from literary, cultural, artistic, scientific or technological efforts and income from participation in sports activities as amateur."
+    ]
+  },
+  {
+    "id": "D3-Q166",
+    "document_id": "D3",
+    "question": "When may a Government servant be treated as on duty under F.R. 9(6)(b)?",
+    "answer": "During a course of instruction or training in India, or in the case of a student entitled to be appointed to Government service on passing a course, during the interval between satisfactory completion of the course and assumption of duties.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Chapter II",
+      "F.R. 9"
+    ],
+    "required_evidence": [
+      "A Government servant may be treated as on duty- (i) during a course of instruction or training in India or (ii) in the case of a student, stipendiary or otherwise, who is entitled to be appointed to the service of Government on passing through a course of training at a University, College or School in India, during the interval between the satisfactory completion of the course and his assumption of duties."
+    ]
+  },
+  {
+    "id": "D3-Q167",
+    "document_id": "D3",
+    "question": "Does a Government servant retain lien while on foreign service?",
+    "answer": "Yes, lien is retained while on foreign service, or holding a temporary post, or officiating in another post.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 10",
+      "Chapter III",
+      "F.R. 13"
+    ],
+    "required_evidence": [
+      "while on foreign service, or holding a temporary post, or officiating in another post;"
+    ]
+  },
+  {
+    "id": "D3-Q168",
+    "document_id": "D3",
+    "question": "Does a Government servant retain lien while under suspension?",
+    "answer": "Yes, lien is retained while under suspension.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 11",
+      "Chapter III",
+      "F.R. 13"
+    ],
+    "required_evidence": [
+      "while under suspension."
+    ]
+  },
+  {
+    "id": "D3-Q169",
+    "document_id": "D3",
+    "question": "When does a Government servant's lien on a post stand terminated under F.R. 14-A(d)?",
+    "answer": "On his acquiring a lien on another post outside the cadre on which he is borne, whether under Central or State Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 11",
+      "Chapter III",
+      "F.R. 14-A"
+    ],
+    "required_evidence": [
+      "A Government servant's lien on a post shall stand terminated on his acquiring a lien on another post (whether under the Central Government or State Government) outside the cadre on which he is borne."
+    ]
+  },
+  {
+    "id": "D3-Q170",
+    "document_id": "D3",
+    "question": "What is an exception to the rule that a Government servant shall not be transferred to a post carrying less pay?",
+    "answer": "On his written request.",
+    "question_type": "conditional_exception",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 11",
+      "Chapter III",
+      "F.R. 15"
+    ],
+    "required_evidence": [
+      "on his written request,"
+    ]
+  },
+  {
+    "id": "D3-Q171",
+    "document_id": "D3",
+    "question": "What type of strike is deemed to cause an interruption or break in service under F.R. 17-A?",
+    "answer": "A strike declared illegal under the Industrial Disputes Act, 1947, or any other law in force, for employees in industrial establishments.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 12",
+      "Chapter III",
+      "F.R. 17-A"
+    ],
+    "required_evidence": [
+      "in the case of employees working in industrial establishments, during a strike which has been declared illegal under the provisions of the Industrial Disputes Act, 1947, or any other law for the time being in force;"
+    ]
+  },
+  {
+    "id": "D3-Q172",
+    "document_id": "D3",
+    "question": "Who may otherwise determine to grant leave exceeding five years?",
+    "answer": "The President, in view of exceptional circumstances of the case.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Chapter III",
+      "F.R. 18"
+    ],
+    "required_evidence": [
+      "Unless the President, in view of the exceptional circumstances of the case otherwise determines"
+    ]
+  },
+  {
+    "id": "D3-Q173",
+    "document_id": "D3",
+    "question": "What options does a Government servant have for pay fixation on regular promotion under F.R. 22?",
+    "answer": "To have pay fixed from the date of promotion/appointment under the rule, or initially at the next cell and re-fixed on accrual of next increment in the lower level with two increments.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 14-15",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "the Government servant shall have the option, to be exercised within one month from the date of promotion or appointment, as the case may be, to have the pay fixed under this rule from the date of such promotion or appointment or to have the pay fixed initially at the next cell in the level of the post to which he or she is promoted on regular basis and subsequently, on the date of accrual of next increment in the level of the post from which Government servant is promoted, his pay shall be re- fixed and two increments (one accrued on account of annual increment and the second accrued on account of promotion) shall be granted in the level from which the Government servant is promoted and he or she shall be placed, at a cell equal to the figure so arrived in the level of the post to which he or she is promoted; and if no such cell is available in the level to which he or she is promoted, he or she shall be placed at the next higher cell in that level."
+    ]
+  },
+  {
+    "id": "D3-Q174",
+    "document_id": "D3",
+    "question": "When is the option for pay fixation admissible in cases where ad hoc promotion is followed by regular appointment without break?",
+    "answer": "From the date of initial appointment or promotion, to be exercised within one month from the date of regular appointment.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 15",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "In cases where an ad hoc promotion is followed by regular appointment without break, the option is admissible from the date of initial appointment or promotion, to be exercised within one month from the date of such regular appointment."
+    ]
+  },
+  {
+    "id": "D3-Q175",
+    "document_id": "D3",
+    "question": "What option facility is extended to a retired ad hoc officer who is later regularized?",
+    "answer": "The same option facility, to be exercised within three months from the date when his junior became eligible, or if he was junior-most, from when his immediate senior became eligible.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 15",
+      "Chapter IV",
+      "F.R. 22"
+    ],
+    "required_evidence": [
+      "In cases where an officer has retired as ad hoc before being regularized to that post and later on has been assessed during the process of regularization and found fit by the Competent Authority along with his or her juniors, who are still in service and are eligible to avail of the option facility from a date on which the retired employee, was still in service, the same option facility shall also be extended to the retired employee to be exercised within three months from the date when his or her junior became eligible to avail of option facility and in cases where such retired employee was himself the junior most, he or she may exercise the option facility within three months from the date when his or her immediate senior became eligible to avail of option facility."
+    ]
+  },
+  {
+    "id": "D3-Q176",
+    "document_id": "D3",
+    "question": "What pay is fixed on confirmation after probation in another service or cadre under F.R. 22-B?",
+    "answer": "In the time-scale of the service or post in accordance with Rule 22 or Rule 22-C, as applicable.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18",
+      "Chapter IV",
+      "F.R. 22-B"
+    ],
+    "required_evidence": [
+      "on confirmation in the service or post after the expiry of the period of probation, the pay of the Government servant shall be fixed in the time-scale of the service or post in accordance with the provisions of Rule 22 or Rule 22-C, as the case may be:"
+    ]
+  },
+  {
+    "id": "D3-Q177",
+    "document_id": "D3",
+    "question": "Is the option to retain old pay on change of pay final?",
+    "answer": "Yes, the option once exercised is final.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 19",
+      "Chapter IV",
+      "F.R. 23"
+    ],
+    "required_evidence": [
+      "The option once exercised is final."
+    ]
+  },
+  {
+    "id": "D3-Q178",
+    "document_id": "D3",
+    "question": "What must the withholding authority state when withholding an increment?",
+    "answer": "The period for which it is withheld and whether the postponement shall have the effect of postponing future increments.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Chapter IV",
+      "F.R. 24"
+    ],
+    "required_evidence": [
+      "the withholding authority shall state the period for which it is withheld, and whether the postponement shall have the effect of postponing future increments."
+    ]
+  },
+  {
+    "id": "D3-Q179",
+    "document_id": "D3",
+    "question": "Which extraordinary leave is excepted from counting for increments?",
+    "answer": "Extraordinary leave taken otherwise than on medical certificate.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 20",
+      "Chapter IV",
+      "F.R. 26"
+    ],
+    "required_evidence": [
+      "leave except extraordinary leave taken otherwise than on medical certificate shall count for increments"
+    ]
+  },
+  {
+    "id": "D3-Q180",
+    "document_id": "D3",
+    "question": "When may the President direct that extraordinary leave shall be counted for increments?",
+    "answer": "If satisfied that the extraordinary leave was taken for a cause beyond the Government servant's control or for prosecuting higher scientific and technical studies.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 20",
+      "Chapter IV",
+      "F.R. 26"
+    ],
+    "required_evidence": [
+      "the President may, in any case, in which he is satisfied that the extraordinary leave was taken for any cause beyond the Government servant's control or for prosecuting higher scientific and technical studies, direct that extraordinary leave shall be counted for increments under Clause(i) or (ii)."
+    ]
+  },
+  {
+    "id": "D3-Q181",
+    "document_id": "D3",
+    "question": "What is the limit on pay allowed under F.R. 28 when a Government servant is transferred as a penalty to a lower grade?",
+    "answer": "It shall not exceed the pay he would have drawn by operation of Rule 22 read with Rule 26(b) or (c).",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 22",
+      "Chapter IV",
+      "F.R. 28"
+    ],
+    "required_evidence": [
+      "Provided that the pay allowed to be drawn by a Government servant under this rule shall not exceed the pay which he would have drawn by the operation of Rule 22 read with Clause (b) or Clause (c), as the case may be, of Rule 26."
+    ]
+  },
+  {
+    "id": "D3-Q182",
+    "document_id": "D3",
+    "question": "When does personal pay cease?",
+    "answer": "As soon as the recipient's pay is increased by an amount equal to his personal pay.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 24",
+      "Chapter IV",
+      "F.R. 37"
+    ],
+    "required_evidence": [
+      "shall cease as soon as his pay is increased by an amount equal to his personal pay."
+    ]
+  },
+  {
+    "id": "D3-Q183",
+    "document_id": "D3",
+    "question": "What does the Central Government consider when fixing pay of a temporary post likely to be filled by a Government servant?",
+    "answer": "The character and responsibility of the works to be performed and the existing pay of Government servants of sufficient status to warrant selection.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 24",
+      "Chapter IV",
+      "F.R. 40"
+    ],
+    "required_evidence": [
+      "its pay should be fixed by the Central Government with due, regard to—",
+      "(a) the character and responsibility of the works to be performed, and",
+      "(b) the existing pay of Government servants of a status sufficient to warrant their selection for the post."
+    ]
+  },
+  {
+    "id": "D3-Q184",
+    "document_id": "D3",
+    "question": "How is the standard licence fee expressed under F.R. 45-A?",
+    "answer": "As standard for a calendar month and equal to one-twelfth of the annual licence fee as calculated.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "In all cases, standard licence fee shall be expressed as standard for a calendar month and shall be equal to one-twelfth of the annual licence fee as calculated above, subject to the proviso that, in special localities or in respect of special classes of residence, the Central Government may fix a standard licence fee to cover a period greater than one month, but not greater than one year."
+    ]
+  },
+  {
+    "id": "D3-Q185",
+    "document_id": "D3",
+    "question": "What is the maximum period for which a standard licence fee may cover in special localities under F.R. 45-A?",
+    "answer": "Greater than one month but not greater than one year.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Chapter V",
+      "F.R. 45-A"
+    ],
+    "required_evidence": [
+      "in special localities or in respect of special classes of residence, the Central Government may fix a standard licence fee to cover a period greater than one month, but not greater than one year."
+    ]
+  },
+  {
+    "id": "D3-Q186",
+    "document_id": "D3",
+    "question": "What is excluded from the capital cost of a Government-owned residence under F.R. 45-B?",
+    "answer": "The cost or value of special services and installations including furniture, tennis courts and sanitary, water supply or electric installations and fittings.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 30",
+      "Chapter V",
+      "F.R. 45-B"
+    ],
+    "required_evidence": [
+      "the capital cost of a residence owned by Government shall not include the cost or value of such special services and installations (including furniture, tennis courts and sanitary, water supply or electric installations and fittings) as it may contain"
+    ]
+  },
+  {
+    "id": "D3-Q187",
+    "document_id": "D3",
+    "question": "How is standard licence fee calculated for Government-owned residences under F.R. 45-B?",
+    "answer": "On the capital cost including cost of additions or alterations, as a percentage equal to the rate of interest fixed by the President plus additions for taxes and maintenance/repairs.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 31",
+      "Chapter V",
+      "F.R. 45-B"
+    ],
+    "required_evidence": [
+      "In the case of residences owned by Government, the standard licence fee shall be calculated on the capital cost of the residence (including cost of additions or alterations, if any) and shall be a percentage of such capital cost equal to such rate of interest as may from time to time be fixed by the President plus an addition for municipal and other taxes in the nature of house or property tax payable by Government in respect of the residence and for both ordinary and special maintenance and repairs, such addition being determined under rules which the Central Government may make."
+    ]
+  },
+  {
+    "id": "D3-Q188",
+    "document_id": "D3",
+    "question": "What pension is included in emoluments under F.R. 45-C?",
+    "answer": "Pension other than a pension drawn under Chapter XXXVIII, Civil Service Regulations, or compensation under the Workmen's Compensation Act, 1923.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 35",
+      "Chapter V",
+      "F.R. 45-C"
+    ],
+    "required_evidence": [
+      "Pension, other than a pension drawn under the provisions of Chapter XXXVIII, Civil Service Regulations, or compensation received under the Workmen's Compensation Act, 1923, as subsequently amended;"
+    ]
+  },
+  {
+    "id": "D3-Q189",
+    "document_id": "D3",
+    "question": "What is included for a Government servant under suspension and in receipt of subsistence grant under F.R. 45-C?",
+    "answer": "The amount of the subsistence grant, subject to recovery of difference if later allowed full pay.",
+    "question_type": "exact_fact",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 35",
+      "Chapter V",
+      "F.R. 45-C"
+    ],
+    "required_evidence": [
+      "In the case of a Government servant under suspension and in receipt of a subsistence grant, the amount of the subsistence grant, provided that, if such Government servant is subsequently allowed to draw pay for the period of suspension the difference between the licence fee recovered on the basis of the subsistence grant and the licence fee due on the basis of the emoluments ultimately drawn shall be recovered from him."
+    ]
+  },
+  {
+    "id": "D3-Q190",
+    "document_id": "D3",
+    "question": "What condition applies to granting or accepting an honorarium unless special reasons exist?",
+    "answer": "The work must have been undertaken with prior consent of the Central Government and its amount settled in advance.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 35-36",
+      "Chapter V",
+      "F.R. 46"
+    ],
+    "required_evidence": [
+      "sanction to the grant of acceptance of an honorarium should not be given unless the work has been undertaken with the prior consent of the Central Government and its amount has been settled in advance."
+    ]
+  },
+  {
+    "id": "D3-Q191",
+    "document_id": "D3",
+    "question": "Which reward offered for information or special service in connection with administration of justice may be retained?",
+    "answer": "Any reward offered for the arrest of a criminal, or for information or special service in connection with the administration of justice.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 36",
+      "Chapter V",
+      "F.R. 48"
+    ],
+    "required_evidence": [
+      "any reward offered for the arrest of a criminal, or for information or special service in connection with the administration of justice;"
+    ]
+  },
+  {
+    "id": "D3-Q192",
+    "document_id": "D3",
+    "question": "For what duration must additional charge be held to receive ten per cent additional pay under F.R. 49(iii)?",
+    "answer": "Exceeding 45 days but not exceeding 3 months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "if the additional charge is held for a period exceeding 45 days but not exceeding 3 months"
+    ]
+  },
+  {
+    "id": "D3-Q193",
+    "document_id": "D3",
+    "question": "Whose concurrence is required for payment of additional pay beyond three months under F.R. 49?",
+    "answer": "Department of Personnel and Training.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Chapter VI",
+      "F.R. 49"
+    ],
+    "required_evidence": [
+      "the concurrence of Department of Personnel and Training shall be obtained for the payment of the additional pay beyond the period of 3 months"
+    ]
+  },
+  {
+    "id": "D3-Q194",
+    "document_id": "D3",
+    "question": "What honorarium is given if a Government servant on leave out of India on average pay is required to continue on leave while on deputation?",
+    "answer": "One-sixth of the pay he would have drawn had he remained on duty in India.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 40",
+      "Chapter VII",
+      "F.R. 51"
+    ],
+    "required_evidence": [
+      "an honorarium of one- sixth of the pay which he would have drawn had he remained on duty in India; the cost of passages from and to India shall be borne by him."
+    ]
+  },
+  {
+    "id": "D3-Q195",
+    "document_id": "D3",
+    "question": "What addition to subsistence allowance is admissible if dearness allowance is admissible on the basis of leave salary?",
+    "answer": "Dearness allowance, if admissible on the basis of such leave salary.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 41",
+      "Chapter VIII",
+      "F.R. 53"
+    ],
+    "required_evidence": [
+      "in addition, dearness allowance, if admissible on the basis of such leave salary:"
+    ]
+  },
+  {
+    "id": "D3-Q196",
+    "document_id": "D3",
+    "question": "What adjustment is made to payments on reinstatement under F.R. 54?",
+    "answer": "Subject to adjustment of the amount earned by him through employment during the period between dismissal/removal/compulsory retirement and reinstatement.",
+    "question_type": "exact_fact",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 45",
+      "Chapter VIII",
+      "F.R. 54"
+    ],
+    "required_evidence": [
+      "Any payment made under this rule to Government servant on his reinstatement shall be subject to adjustment of the amount, if any, earned by him through an employment during the period between the date of removal, dismissal or compulsory retirement, as the case may be, and the date of reinstatement."
+    ]
+  },
+  {
+    "id": "D3-Q197",
+    "document_id": "D3",
+    "question": "May the three months' notice for retirement under F.R. 56 be given before the Government servant reaches the specified age or completes 30 years of service?",
+    "answer": "Yes. The notice may be given beforehand, provided that the retirement takes place only after the Government servant has attained the relevant age or completed 30 years of service, as applicable.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 56",
+      "Chapter IX",
+      "F.R. 56",
+      "Note 2"
+    ],
+    "required_evidence": [
+      "The three months’ notice referred to in Clauses (j), (k),(l) or (m) may be given before the Government servant attains the age specified in Clauses (j) and (k), or has completed 30 years of service specified in Clauses (l) and (m), provided that the retirement takes place after he has attained the relevant age or has completed 30 years’ service, as the case may be."
+    ]
+  },
+  {
+    "id": "D3-Q198",
+    "document_id": "D3",
+    "question": "What is the age of superannuation for General Duty Medical Officers sub-cadre of Central Armed Police Forces and Assam Rifles and Specialist Medical officers of Central Armed Police Forces and Assam Rifles?",
+    "answer": "Sixty-five years.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 50",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "Provided that the age of superannuation in respect of the doctors belonging to the General Duty Medical Officers sub- cadre of Central Armed Police Forces and Assam Rifles and Specialist Medical officers of Central Armed Police Forces and Assam Rifles shall be sixty- five years."
+    ]
+  },
+  {
+    "id": "D3-Q199",
+    "document_id": "D3",
+    "question": "What is the notice period for termination of extension of service for a temporary Government servant under F.R. 56?",
+    "answer": "One month in writing or pay and allowances in lieu.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 52",
+      "Chapter IX",
+      "F.R. 56"
+    ],
+    "required_evidence": [
+      "or, of one month in the case of a temporary Government servant, or pay and allowances in lieu of such notice."
+    ]
+  },
+  {
+    "id": "D3-Q200",
+    "document_id": "D3",
+    "question": "Can a Government servant who has been granted extension of service after reaching the prescribed superannuation age be promoted during the extension period?",
+    "answer": "No. A Government servant, including a workman, who is granted extension of service after attaining the prescribed age of superannuation shall not be promoted to another post during the period of extension.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 56",
+      "Chapter IX",
+      "F.R. 56",
+      "Note 5"
+    ],
+    "required_evidence": [
+      "A Government servant, including a workman,who is granted extension of service, after he has attained the prescribed age of superannuation, shall not be promoted to another post during the period of extension."
+    ]
+  }
+]

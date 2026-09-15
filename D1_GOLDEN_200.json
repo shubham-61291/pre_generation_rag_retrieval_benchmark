@@ -1,0 +1,3035 @@
+[
+  {
+    "id": "D1-Q001",
+    "document_id": "D1",
+    "question": "What is the short title of the Central Civil Services (Leave) Rules, 1972?",
+    "answer": "Central Civil Services (Leave) Rules, 1972.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 3",
+      "Rule 1(1)"
+    ],
+    "required_evidence": [
+      "These rules may be called the Central Civil Services (Leave) Rules, 1972."
+    ]
+  },
+  {
+    "id": "D1-Q002",
+    "document_id": "D1",
+    "question": "On what date did the Central Civil Services (Leave) Rules, 1972 come into force?",
+    "answer": "1st June, 1972.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 3",
+      "Rule 1(2)"
+    ],
+    "required_evidence": [
+      "They shall come into force on the \\(1^{\\mathrm{st}}\\) day of June, 1972."
+    ]
+  },
+  {
+    "id": "D1-Q003",
+    "document_id": "D1",
+    "question": "Which categories of Government servants are expressly excluded from the application of these rules?",
+    "answer": "Railway servants; persons in casual or daily-rated or part-time employment; persons paid from contingencies; workmen employed in industrial establishments; persons employed in work-charged establishments; members of the All India Services; persons locally recruited for service in Diplomatic, Consular or other Indian establishments in foreign countries; persons employed on contract except when the contract provides otherwise; persons in respect of whom special provisions have been made by or under the Constitution or any other law; persons governed by the Fundamental Rules or the Civil Service Regulations; persons serving under a Central Government Department on deputation from a State Government or any other source for a limited duration.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 3",
+      "Rule 2"
+    ],
+    "required_evidence": [
+      "(a) Railway servants;",
+      "(b) persons in casual or daily-rated or part-time employment;",
+      "(c) persons paid from contingencies;",
+      "(d) workmen employed in industrial establishments;",
+      "(e) persons employed in work-charged establishments;",
+      "(f) members of the All India Services;",
+      "(g) persons locally recruited for service in Diplomatic, Consular or other Indian establishments in foreign countries;",
+      "(h) persons employed on contract except when the contract provides otherwise;",
+      "(i) persons in respect of whom special provisions have been made by or under the provisions of the Constitution or any other law for the time being in force;",
+      "(j) persons governed, for purposes of leave, by the Fundamental Rules or the Civil Service Regulations;",
+      "(k) persons serving under a Central Government Department, on deputation from a State Government or any other source, for a limited duration."
+    ]
+  },
+  {
+    "id": "D1-Q004",
+    "document_id": "D1",
+    "question": "What does the term Administrator mean under these rules?",
+    "answer": "An Administrator of a Union Territory.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 3",
+      "Rule 3(1)(a)"
+    ],
+    "required_evidence": [
+      "\"Administrator\" means an Administrator of a Union Territory;"
+    ]
+  },
+  {
+    "id": "D1-Q005",
+    "document_id": "D1",
+    "question": "What is the meaning of Audit Officer in these rules?",
+    "answer": "The Accounts and Audit Officer, whatever his official designation, in whose circle the office of the Government servant is situated.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 3",
+      "Rule 3(1)(b)"
+    ],
+    "required_evidence": [
+      "\"Audit Officer\" means the Accounts and Audit Officer, whatever his official designation, in whose circle the office of the Government servant is situated;"
+    ]
+  },
+  {
+    "id": "D1-Q006",
+    "document_id": "D1",
+    "question": "How is the authority competent to grant leave defined?",
+    "answer": "The authority specified in Column (3) of the First Schedule to these rules, competent to grant the kind of leave specified in the corresponding entries in Column (2) of the said Schedule.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 3",
+      "Rule 3(1)(c)"
+    ],
+    "required_evidence": [
+      "\"Authority competent to grant leave\" means the authority specified in Column (3) of the First Schedule to these rules, competent to grant the kind of leave specified in the corresponding entries in Column (2) of the said Schedule;"
+    ]
+  },
+  {
+    "id": "D1-Q007",
+    "document_id": "D1",
+    "question": "What is included in completed years of service or one year's continuous service?",
+    "answer": "Continuous service of specified duration under the Central Government and includes the period spent on duty as well as on leave including extraordinary leave.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(d)"
+    ],
+    "required_evidence": [
+      "\"Completed years of service\" or \"one year's continuous service\" means continuous service of specified duration under the Central Government and includes the period spent on duty as well as on leave including extraordinary leave;"
+    ]
+  },
+  {
+    "id": "D1-Q008",
+    "document_id": "D1",
+    "question": "What is the date of retirement in relation to a Government servant?",
+    "answer": "The afternoon of the last day of the month in which the Government servant attains the age prescribed for retirement under the terms and conditions governing his services.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(e)"
+    ],
+    "required_evidence": [
+      "\"Date of retirement\" or \"date of his retirement\" in relation to a Government servant, means the afternoon of the last day of the month in which the Government servant attains the age prescribed for retirement under the terms and conditions governing his services."
+    ]
+  },
+  {
+    "id": "D1-Q009",
+    "document_id": "D1",
+    "question": "What does Department of the Central Government include?",
+    "answer": "A Ministry or a Department of the Central Government as notified from time to time and includes the Planning Commission, the Department of Parliamentary Affairs, the President's Secretariat, the Vice-President's Secretariat, the Cabinet Secretariat and the Prime Minister's Secretariat.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(f)"
+    ],
+    "required_evidence": [
+      "\"Department of the Central Government\" means a Ministry or a Department of the Central Government as notified from time to time and includes the Planning Commission, the Department of Parliamentary Affairs, the President's Secretariat, the Vice-President's Secretariat, the Cabinet Secretariat and the Prime Minister's Secretariat;"
+    ]
+  },
+  {
+    "id": "D1-Q010",
+    "document_id": "D1",
+    "question": "What does disability mean under these rules?",
+    "answer": "Specified disability, benchmark disability and disability having high support needs as referred to in the Rights of Persons with Disabilities Act, 2016 (49 of 2016).",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(fa)"
+    ],
+    "required_evidence": [
+      "\"disability\" means \"specified disability\", \"benchmark disability\" and \"disability having high support needs\" as referred to in the Rights of Persons with Disabilities Act, 2016 (49 of 2016)."
+    ]
+  },
+  {
+    "id": "D1-Q011",
+    "document_id": "D1",
+    "question": "What is foreign service according to these rules?",
+    "answer": "Service in which a Government servant receives his pay with the sanction of Government from any source other than the Consolidated Fund of India or the Consolidated Fund of any State or the Consolidated Fund of a Union Territory.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(g)"
+    ],
+    "required_evidence": [
+      "\"Foreign service\" means service in which a Government servant receives his pay with the sanction of Government from any source other than the Consolidated Fund of India or the Consolidated Fund of any State [or the Consolidated Fund of a Union Territory];"
+    ]
+  },
+  {
+    "id": "D1-Q012",
+    "document_id": "D1",
+    "question": "What is meant by Form in these rules?",
+    "answer": "A Form appended to the Second Schedule to these rules.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(h)"
+    ],
+    "required_evidence": [
+      "\"Form\" means a Form appended to the Second Schedule to these rules;"
+    ]
+  },
+  {
+    "id": "D1-Q013",
+    "document_id": "D1",
+    "question": "Who is a Government servant in quasi-permanent employ?",
+    "answer": "An officer who, having been declared by the Union Public Service Commission to be eligible for appointment to the ministerial Services of the Government of India, has been appointed to a temporary or officiating vacancy on the understanding given to him in writing before he took up the appointment, that that vacancy is expected to become permanent but is not confirmed after completion of three years continuous service; or an officer who may be declared as quasi-permanent under the Central Civil Services (Temporary Services) Rules, 1965.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(i)"
+    ],
+    "required_evidence": [
+      "\"Government servant in quasi-permanent employ\" means",
+      "(A) an officer who, having been declared by the Union Public Service Commission to be eligible for appointment to the ministerial Services of the Government of India, has been appointed to a temporary or officiating vacancy on the understanding given to him in writing before he took up the appointment, that that vacancy is expected to become permanent but is not confirmed after completion of three years continuous service;",
+      "(B) an officer who may be declared as quasi-permanent under the Central Civil Services (Temporary Services) Rules, 1965."
+    ]
+  },
+  {
+    "id": "D1-Q014",
+    "document_id": "D1",
+    "question": "Who is a Government servant in permanent employ?",
+    "answer": "An officer who holds substantively or provisionally substantively a permanent post or who holds a lien on a permanent post or who would have held a lien on permanent post had the lien not been suspended.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(j)"
+    ],
+    "required_evidence": [
+      "\"Government servant in permanent employ\" means an officer who holds substantively or provisionally substantively a permanent post or who holds a lien on a permanent post or who would have held a lien on permanent post had the lien not been suspended;"
+    ]
+  },
+  {
+    "id": "D1-Q015",
+    "document_id": "D1",
+    "question": "What does Head of Mission mean?",
+    "answer": "Ambassador, Charge d' Affairs, Minister, Consul-General, High Commissioner or any other authority declared as such by the Central Government, in the country in which the Government servant undergoes a course of study or training.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(k)"
+    ],
+    "required_evidence": [
+      "\"Head of Mission\" means Ambassador, Charge d' Affairs, Minister, Consul-General, High Commissioner or any other authority declared as such by the Central Government, in the country in which the Government servant undergoes a course of study or training;"
+    ]
+  },
+  {
+    "id": "D1-Q016",
+    "document_id": "D1",
+    "question": "Who is a Military Officer under these rules?",
+    "answer": "An officer of the Armed Forces who is a Commissioned Officer of the Army, the Navy or the Air Force, or a Junior Commissioned Officer including an honorary commissioned officer, or an other rank of the Army, or a Branch List Officer or rating of the Navy, or an airman including a Master Warrant Officer of the Air Force.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 4",
+      "Rule 3(1)(l)"
+    ],
+    "required_evidence": [
+      "\"Military Officer\" means an officer of the Armed Forces who is",
+      "(i) a Commissioned Officer of the Army, the Navy or the Air Force, or",
+      "(ii) (a) a Junior Commissioned Officer (including an honorary commissioned officer), or an 'other rank' of the Army, or(b) a Branch List Officer or rating of the Navy, or(c) an airman including a Master Warrant Officer of the Air Force;"
+    ]
+  },
+  {
+    "id": "D1-Q017",
+    "document_id": "D1",
+    "question": "What is a Vacation Department?",
+    "answer": "A department or part of a department, to which regular vacations are allowed, during which Government servants serving in the department are permitted to be absent from duty.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 5",
+      "Rule 3(1)(m)"
+    ],
+    "required_evidence": [
+      "\"Vacation Department\" means a department or part of a department, to which regular vacations are allowed, during which Government servants serving in the department are permitted to be absent from duty."
+    ]
+  },
+  {
+    "id": "D1-Q018",
+    "document_id": "D1",
+    "question": "Do these rules continue to govern Government servants on temporary transfer to Indian Railways or a State Government or on foreign service within India?",
+    "answer": "Yes, they shall continue to be governed by these rules.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 5",
+      "Rule 4(1)"
+    ],
+    "required_evidence": [
+      "Government servants to whom these rules apply shall continue to be governed by these rules while on temporary transfer to the Indian Railways or to a State Government or while on foreign service within India."
+    ]
+  },
+  {
+    "id": "D1-Q019",
+    "document_id": "D1",
+    "question": "To what extent do these rules apply to Government servants on foreign service outside India or on temporary transfer to the Armed Forces of the Union?",
+    "answer": "Only to the extent provided in the terms and conditions of foreign service or temporary transfer, as the case may be.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 5",
+      "Rule 4(2)"
+    ],
+    "required_evidence": [
+      "In the case of Government servants on foreign service outside India (including service with UN agencies within or outside India) or on temporary transfer to the Armed Forces of the Union, these rules shall apply only to the extent provided in the terms and conditions of foreign service or temporary transfer, as the case may be."
+    ]
+  },
+  {
+    "id": "D1-Q020",
+    "document_id": "D1",
+    "question": "When a permanent Government servant to whom these rules do not apply is transferred temporarily to a service or post to which these rules apply, which leave rules remain applicable to him?",
+    "answer": "He shall remain subject to the leave rules which were applicable to him before such transfer.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 5",
+      "Rule 5(a)"
+    ],
+    "required_evidence": [
+      "when transferred temporarily to a service or post to which these rules apply, shall remain subject to the leave rules which were applicable to him before such transfer;"
+    ]
+  },
+  {
+    "id": "D1-Q021",
+    "document_id": "D1",
+    "question": "If a Military Officer not in permanent civil employ has elected to draw civil rates of pay, how is his leave regulated?",
+    "answer": "As per the provisions under these rules.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 5",
+      "Rule 5(a) Proviso"
+    ],
+    "required_evidence": [
+      "Provided that where a Military Officer not in permanent civil employ has elected to draw civil rates of pay, his leave shall be regulated as per the provisions under these rules:"
+    ]
+  },
+  {
+    "id": "D1-Q022",
+    "document_id": "D1",
+    "question": "When a Government servant governed by these rules is appointed in an industrial establishment wherein his leave terms are governed by the Factories Act, 1948, what cash equivalent of leave salary is granted?",
+    "answer": "Cash equivalent of leave salary in respect of earned leave and half pay leave at his credit subject to a maximum of 300 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 6",
+      "Rule 6"
+    ],
+    "required_evidence": [
+      "the authority competent to grant leave shall, suo motu, issue an order granting cash equivalent of leave salary in respect of earned leave and half pay leave at his credit subject to a maximum of 300 days"
+    ]
+  },
+  {
+    "id": "D1-Q023",
+    "document_id": "D1",
+    "question": "Can leave be claimed as a matter of right?",
+    "answer": "No, leave cannot be claimed as of right.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 7",
+      "Rule 7(1)"
+    ],
+    "required_evidence": [
+      "Leave cannot be claimed as of right."
+    ]
+  },
+  {
+    "id": "D1-Q024",
+    "document_id": "D1",
+    "question": "Under what circumstances may leave of any kind be refused or revoked by the authority competent to grant it?",
+    "answer": "When the exigencies of public service so require.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 7(2)"
+    ],
+    "required_evidence": [
+      "When the exigencies of public service so require, leave of any kind may be refused or revoked by the authority competent to grant it"
+    ]
+  },
+  {
+    "id": "D1-Q025",
+    "document_id": "D1",
+    "question": "Can the authority competent to grant leave alter the kind of leave due and applied for?",
+    "answer": "No, it shall not be open to that authority to alter the kind of leave due and applied for except at the written request of the Government servant.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 7(2)"
+    ],
+    "required_evidence": [
+      "it shall not be open to that authority to alter the kind of leave due and applied for except at the written request of the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q026",
+    "document_id": "D1",
+    "question": "How is a Government servant's claim to leave regulated?",
+    "answer": "By the rules in force at the time the leave is applied for and granted.",
+    "question_type": "paraphrase",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 7",
+      "Rule 8"
+    ],
+    "required_evidence": [
+      "A Government servant's claim to leave is regulated by the rules in force at the time the leave is applied for and granted."
+    ]
+  },
+  {
+    "id": "D1-Q027",
+    "document_id": "D1",
+    "question": "What is the effect of dismissal, removal or resignation on leave at credit?",
+    "answer": "Except as provided in Rule 39 and this rule, any claim to leave to the credit of a Government servant who is dismissed or removed or who resigns from Government service ceases from the date of such dismissal or removal or resignation.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 9(1)"
+    ],
+    "required_evidence": [
+      "Except as provided in Rule 39 and this rule, any claim to leave to the credit of a Government servant, who is dismissed or removed or who resigns from Government service, ceases from the date of such dismissal or removal or resignation."
+    ]
+  },
+  {
+    "id": "D1-Q028",
+    "document_id": "D1",
+    "question": "If a Government servant applies for another post under Government of India through proper channel and is required to resign his post before taking up the new one, does his leave at credit lapse?",
+    "answer": "No, such resignation shall not result in the lapse of the leave to his credit.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 9(2)"
+    ],
+    "required_evidence": [
+      "such resignation shall not result in the lapse of the leave to his credit."
+    ]
+  },
+  {
+    "id": "D1-Q029",
+    "document_id": "D1",
+    "question": "A Government servant who is dismissed or removed from service and is reinstated on appeal or revision is entitled to count what for leave?",
+    "answer": "His service prior to dismissal or removal, as the case may be.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 9(3)"
+    ],
+    "required_evidence": [
+      "A Government servant, who is dismissed or removed from service and is reinstated on appeal or revision, shall be entitled to count for leave his service prior to dismissal or removal, as the case may be."
+    ]
+  },
+  {
+    "id": "D1-Q030",
+    "document_id": "D1",
+    "question": "A Government servant who retired on compensation or invalid pension or gratuity and is re-employed and allowed to count past service for pension is entitled to count what towards leave?",
+    "answer": "His former service.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 9(4)"
+    ],
+    "required_evidence": [
+      "A Government servant, who having retired on compensation or invalid pension or gratuity is re-employed and allowed to count his past service for pension, shall be entitled to count his former service towards leave."
+    ]
+  },
+  {
+    "id": "D1-Q031",
+    "document_id": "D1",
+    "question": "Can a Government servant claim commutation of one kind of leave into another as a matter of right?",
+    "answer": "No, the Government servant cannot claim such commutation as a matter of right.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 7",
+      "Rule 10(1)"
+    ],
+    "required_evidence": [
+      "the Government servant cannot claim such commutation as a matter of right."
+    ]
+  },
+  {
+    "id": "D1-Q032",
+    "document_id": "D1",
+    "question": "Within how many days must a request for commutation of leave be received by the authority after the Government servant joins duty?",
+    "answer": "Within 30 days.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 8",
+      "Rule 10(1) Proviso"
+    ],
+    "required_evidence": [
+      "Provided that no such request shall be considered unless received by such authority, or any other authority designated in this behalf, within a period of 30 days of the concerned Government servant joining his duty on the expiry of the relevant spell of leave availed of by him."
+    ]
+  },
+  {
+    "id": "D1-Q033",
+    "document_id": "D1",
+    "question": "Can any kind of leave under these rules be granted in combination with or in continuation of any other kind of leave?",
+    "answer": "Yes, except as otherwise provided in these rules, any kind of leave under these rules may be granted in combination with or in continuation of any other kind of leave.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Rule 11"
+    ],
+    "required_evidence": [
+      "Except as otherwise provided in these rules, any kind of leave under these rules may be granted in combination with or in continuation of any other kind of leave."
+    ]
+  },
+  {
+    "id": "D1-Q034",
+    "document_id": "D1",
+    "question": "Can casual leave be combined with any other kind of leave admissible under these rules?",
+    "answer": "No, casual leave which is not recognized as leave under these rules shall not be combined with any other kind of leave admissible under these rules.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 8",
+      "Rule 11 Explanation"
+    ],
+    "required_evidence": [
+      "Casual leave which is not recognized as leave under these rules shall not be combined with any other kind of leave admissible under these rules."
+    ]
+  },
+  {
+    "id": "D1-Q035",
+    "document_id": "D1",
+    "question": "What is the maximum continuous period for which leave of any kind may be granted to a Government servant?",
+    "answer": "Five years.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Rule 12(1)"
+    ],
+    "required_evidence": [
+      "No Government servant shall be granted leave of any kind for a continuous period exceeding five years"
+    ]
+  },
+  {
+    "id": "D1-Q036",
+    "document_id": "D1",
+    "question": "What happens if a Government servant remains absent from duty for a continuous period exceeding five years other than on foreign service, with or without leave?",
+    "answer": "Unless the President otherwise determines, he shall be deemed to have resigned from the Government service.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 8",
+      "Rule 12(2)"
+    ],
+    "required_evidence": [
+      "Unless the President, in view of the exceptional circumstances of the case, otherwise determines, a Government servant who remains absent from duty for a continuous period exceeding five years other than on foreign service, with or without leave, shall be deemed to have resigned from the Government service:"
+    ]
+  },
+  {
+    "id": "D1-Q037",
+    "document_id": "D1",
+    "question": "Does the deemed resignation rule for absence exceeding five years apply to a case where leave is applied on medical certificate in connection with a disability?",
+    "answer": "No, this rule shall not apply to such a case.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 8",
+      "Rule 12 Proviso"
+    ],
+    "required_evidence": [
+      "Provided that this rule shall not apply to a case where leave is applied on medical certificate, in connection with a disability."
+    ]
+  },
+  {
+    "id": "D1-Q038",
+    "document_id": "D1",
+    "question": "Can a Government servant on leave take up any service or employment elsewhere without previous sanction?",
+    "answer": "No, a Government servant while on leave, including leave preparatory to retirement, shall not take up any service or employment elsewhere without obtaining the previous sanction of the specified authority.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 9",
+      "Rule 13(1)"
+    ],
+    "required_evidence": [
+      "A Government servant (other than a Government servant who has been permitted a limited amount of private practice or who has been permitted to undertake casual literary work or service as an examiner or similar employment) while on leave, including leave preparatory to retirement shall not take up any service or employment elsewhere, including the setting up of a private professional practice as accountant, consultant or legal or medical practitioner, without obtaining the previous sanction of -"
+    ]
+  },
+  {
+    "id": "D1-Q039",
+    "document_id": "D1",
+    "question": "Who must sanction proposed service or employment if it lies elsewhere than in India while a Government servant is on leave?",
+    "answer": "The President.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 9",
+      "Rule 13(1)(a)"
+    ],
+    "required_evidence": [
+      "(a) the President, if the proposed services or employment lies elsewhere than in India; or"
+    ]
+  },
+  {
+    "id": "D1-Q040",
+    "document_id": "D1",
+    "question": "Who must sanction proposed service or employment if it lies in India while a Government servant is on leave?",
+    "answer": "The authority empowered to appoint him.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 9",
+      "Rule 13(1)(b)"
+    ],
+    "required_evidence": [
+      "(b) the authority empowered to appoint him, if the proposed service or employment lies in India."
+    ]
+  },
+  {
+    "id": "D1-Q041",
+    "document_id": "D1",
+    "question": "Can a Government servant on leave preparatory to retirement take up private employment?",
+    "answer": "No, a Government servant while on leave preparatory to retirement shall not be permitted to take up private employment.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 9",
+      "Rule 13(2)(c)"
+    ],
+    "required_evidence": [
+      "A Government servant while on leave preparatory to retirement shall not be permitted to take up private employment."
+    ]
+  },
+  {
+    "id": "D1-Q042",
+    "document_id": "D1",
+    "question": "In what form shall an application for leave or extension of leave be made?",
+    "answer": "Form 1.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Rule 14"
+    ],
+    "required_evidence": [
+      "Any application for leave or for extension of leave shall be made in Form 1 to the authority competent to grant leave."
+    ]
+  },
+  {
+    "id": "D1-Q043",
+    "document_id": "D1",
+    "question": "Who may sign and submit an application for leave or medical certificate if a Government servant is unable to do so on account of a disability?",
+    "answer": "The spouse; or the parents in case of an unmarried Government servant; or the child including adopted child or brother or sister of the Government servant who has attained the age of majority; or any person who has been assigned limited guardianship of the Government servant in terms of Section 14 of the Rights of Persons with Disabilities Act, 2016.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 10",
+      "Rule 14 Proviso"
+    ],
+    "required_evidence": [
+      "(a) the spouse of the Government servant; or(b) the parents in case of an unmarried Government servant; or(c) the child including adopted child or brother or sister of the Government servant, who has attained the age of majority; or(d) any person who has been assigned limited guardianship of the Government servant in terms of Section 14 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016), and the same shall be deemed to have been made and submitted by the Government servant himself."
+    ]
+  },
+  {
+    "id": "D1-Q044",
+    "document_id": "D1",
+    "question": "In what form is a leave account maintained for each Government servant?",
+    "answer": "Form 2.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Rule 15"
+    ],
+    "required_evidence": [
+      "a leave account shall be maintained in Form 2 for each Government servant by the Audit Officer in the case of Gazetted Government servants and by the Head of Office or an officer authorized by him in the case of non- Gazetted Government servants."
+    ]
+  },
+  {
+    "id": "D1-Q045",
+    "document_id": "D1",
+    "question": "Who maintains the leave account of a Gazetted Government servant whose pay and allowances are drawn and disbursed by the Head of Office?",
+    "answer": "The Head of Office.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 10",
+      "Rule 15 Note"
+    ],
+    "required_evidence": [
+      "In the case of Gazetted Government servants whose pay and allowances are drawn and disbursed by the Head of Office, the leave account shall be maintained by that Head of Office."
+    ]
+  },
+  {
+    "id": "D1-Q046",
+    "document_id": "D1",
+    "question": "What report must be obtained before granting leave to a Government servant?",
+    "answer": "A report regarding its admissibility from the authority maintaining the leave account.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Rule 16(1)"
+    ],
+    "required_evidence": [
+      "No leave shall be granted to a Government servant until a report regarding its admissibility has been obtained from the authority maintaining the leave account."
+    ]
+  },
+  {
+    "id": "D1-Q047",
+    "document_id": "D1",
+    "question": "What is the maximum period for which provisional sanction of leave may be issued when obtaining an admissibility report is likely to be delayed?",
+    "answer": "A period not exceeding sixty days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 10",
+      "Rule 16(2)(a)"
+    ],
+    "required_evidence": [
+      "the authority competent to grant leave may calculate, on the basis of available information, the amount of leave admissible to the Government servant and issue provisional sanction of leave for a period not exceeding sixty days."
+    ]
+  },
+  {
+    "id": "D1-Q048",
+    "document_id": "D1",
+    "question": "Can leave be granted to a Government servant whom a competent punishing authority has decided to dismiss, remove or compulsorily retire from Government service?",
+    "answer": "No.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 11",
+      "Rule 17"
+    ],
+    "required_evidence": [
+      "Leave shall not be granted to a Government servant whom a competent punishing authority has decided to dismiss, remove or compulsorily retire from Government service."
+    ]
+  },
+  {
+    "id": "D1-Q049",
+    "document_id": "D1",
+    "question": "What medical certificate form must accompany an application for leave on medical certificate made by a Gazetted Government servant?",
+    "answer": "Form 3.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 11",
+      "Rule 19(1)(i)"
+    ],
+    "required_evidence": [
+      "a Gazetted Government servant, shall be accompanied by a Medical Certificate in Form 3 given by a doctor in a Central Government Health Scheme Dispensary if such a Government servant is a Central Government Health Scheme beneficiary or by a Government Hospital or by an Authorized Medical Attendant if he is not a Central Government Health Scheme beneficiary and by an Authorized Doctor of the private hospital recognized under Central Government Health Scheme or Central Services (Medical Attendance) Rules, 1944, in case of hospitalization or indoor specialized treatment"
+    ]
+  },
+  {
+    "id": "D1-Q050",
+    "document_id": "D1",
+    "question": "What medical certificate form must accompany an application for leave on medical certificate made by a non-Gazetted Government servant?",
+    "answer": "Form 4.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 12",
+      "Rule 19(1)(ii)"
+    ],
+    "required_evidence": [
+      "a non- Gazetted Government servant, shall be accompanied by a Medical Certificate in Form 4 given by a Central Government Health Scheme Dispensary if such a Government servant is a Central Government Health Scheme beneficiary or by Government Hospital or by an Authorized Medical Attendant if he is not a Central Government Health Scheme beneficiary;"
+    ]
+  },
+  {
+    "id": "D1-Q051",
+    "document_id": "D1",
+    "question": "What must a Medical Authority certify in Form 3-A in case of a Government servant who has acquired disability?",
+    "answer": "The nature and extent of the disability; the date from which such disability has occurred or manifested, to the extent medically possible; whether there are reasonable prospects for the Government servant to be fit to resume duties, and if not, categorically state that such Government servant is completely and permanently incapacitated for further service.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 12",
+      "Rule 19(2)"
+    ],
+    "required_evidence": [
+      "(a) the nature and extent of the disability;",
+      "(b) the date from which such disability has occurred or manifested, to the extent it may be medically possible to indicate the same;",
+      "(c) whether there are reasonable prospects for the Government servant to be fit to resume duties, and if not, categorically state that such Government servant is completely and permanently incapacitated for further service."
+    ]
+  },
+  {
+    "id": "D1-Q052",
+    "document_id": "D1",
+    "question": "When a Medical Authority reports that there is no reasonable prospect that a Government servant will ever be fit to return to duty, is leave necessarily refused?",
+    "answer": "No, leave shall not necessarily be refused to such Government servant.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Rule 20(1)(a)"
+    ],
+    "required_evidence": [
+      "When a Medical Authority has reported that there is no reasonable prospect that the Government servant will even be fit to return to duty, leave shall not necessarily be refused to such Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q053",
+    "document_id": "D1",
+    "question": "If a Medical Authority is unable to say with certainty that a Government servant who has acquired disability will never again be fit for service, what is the maximum leave that may be granted at a time?",
+    "answer": "Leave not exceeding twelve months at a time.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 14",
+      "Rule 20(1)(b)(i)"
+    ],
+    "required_evidence": [
+      "if the Medical Authority is unable to say with certainty that the Government servant, who has acquired a disability, will never again be fit for service, leave not exceeding twelve months at a time may be granted and such leave shall not be extended without further reference to a Medical Authority;"
+    ]
+  },
+  {
+    "id": "D1-Q054",
+    "document_id": "D1",
+    "question": "When does leave ordinarily begin and end?",
+    "answer": "Leave ordinarily begins on the day on which the transfer of charge is effected and ends on the day preceding that on which the charge is resumed.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 14",
+      "Rule 21"
+    ],
+    "required_evidence": [
+      "Except as provided in Rule 22, leave ordinarily begins on the day on which the transfer of charge is effected and ends on the day preceding that on which the charge is resumed."
+    ]
+  },
+  {
+    "id": "D1-Q055",
+    "document_id": "D1",
+    "question": "When a Government servant's leave other than medical leave is immediately preceded or followed by holidays, what is he deemed permitted to do?",
+    "answer": "To leave his station at the close of the day before, or return to it on the day following such holiday or series of holidays, provided specified conditions are met.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 14",
+      "Rule 22(1)(i)"
+    ],
+    "required_evidence": [
+      "When the day, immediately preceding the day on which a Government servant's leave (other than leave on medical certificate) begins or immediately following the day on which his leave expires, is a holiday or one of series of holidays, the Government servant shall be deemed to have been permitted (except in cases where for administrative reasons permission for prefixing/suffixing holidays to leave specifically withheld) to leave his station at the close of the day before, or return to it on the day following such holiday or series of holidays, provided that"
+    ]
+  },
+  {
+    "id": "D1-Q056",
+    "document_id": "D1",
+    "question": "In the case of leave on medical certificate, what happens to holidays immediately preceding the day the Government servant is certified medically unwell?",
+    "answer": "They shall be allowed automatically to be prefixed to leave.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 15",
+      "Rule 22(1)(ii)(a)"
+    ],
+    "required_evidence": [
+      "When a Government servant is certified medically unwell to attend office, holiday(s), if any, immediately preceding the day he is so certified shall be allowed automatically to be prefixed to leave"
+    ]
+  },
+  {
+    "id": "D1-Q057",
+    "document_id": "D1",
+    "question": "If a Government servant is recalled to duty before the expiry of his leave, how is such recall treated?",
+    "answer": "Such recall to duty shall be treated as compulsory in all cases.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 16",
+      "Rule 23(3)"
+    ],
+    "required_evidence": [
+      "In case a Government servant is recalled to duty before the expiry of his leave, such recall to duty shall be treated as compulsory in all cases and the Government servant shall be entitled"
+    ]
+  },
+  {
+    "id": "D1-Q058",
+    "document_id": "D1",
+    "question": "Can a Government servant on leave return to duty before the expiry of the period of leave granted to him?",
+    "answer": "No, unless he is permitted to do so by the authority which granted him leave.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 16",
+      "Rule 24(1)"
+    ],
+    "required_evidence": [
+      "A Government servant on leave shall not return to duty before the expiry of the period of leave granted to him unless he is permitted to do so by the authority which granted him leave."
+    ]
+  },
+  {
+    "id": "D1-Q059",
+    "document_id": "D1",
+    "question": "What certificate must a Government servant who has taken leave on medical certificate produce before returning to duty?",
+    "answer": "Medical certificate of fitness in Form 5.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 17",
+      "Rule 24(3)(a)"
+    ],
+    "required_evidence": [
+      "A Government servant who has taken leave on medical certificate may not return to duty until he has produced medical certificate of fitness in Form 5."
+    ]
+  },
+  {
+    "id": "D1-Q060",
+    "document_id": "D1",
+    "question": "If a Government servant remains absent after the end of leave without extension, what leave salary is he entitled to for the period of such absence?",
+    "answer": "No leave salary for the period of such absence.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18",
+      "Rule 25(1)"
+    ],
+    "required_evidence": [
+      "Unless the authority competent to grant leave extends the leave, a Government servant who remains absent after the end of leave is entitled to no leave salary for the period of such absence"
+    ]
+  },
+  {
+    "id": "D1-Q061",
+    "document_id": "D1",
+    "question": "How shall the period of absence after expiry of leave be debited against the leave account?",
+    "answer": "As though it were half pay leave, to the extent such leave is due, the period in excess of such leave due being treated as extraordinary leave.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18",
+      "Rule 25(1)"
+    ],
+    "required_evidence": [
+      "that period shall be debited against his leave account as though it were half pay leave, to the extent such leave is due, the period in excess of such leave due being treated as extraordinary leave."
+    ]
+  },
+  {
+    "id": "D1-Q062",
+    "document_id": "D1",
+    "question": "At what rate is earned leave credited to the leave account of a Government servant serving in a Department other than a Vacation Department?",
+    "answer": "In advance, in two installments of 15 days each on the first day of January and July of every calendar year.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18",
+      "Rule 26(1)(a)(i)"
+    ],
+    "required_evidence": [
+      "The leave account of every Government servant (other than a military officer) who is serving in a Department other than a Vacation Department, shall be credited with earned leave, in advance, in two installments of 15 days each on the first day of January and July of every calendar year."
+    ]
+  },
+  {
+    "id": "D1-Q063",
+    "document_id": "D1",
+    "question": "What is the maximum limit of earned leave that can be carried forward plus credit for the half-year?",
+    "answer": "300 days.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 18",
+      "Rule 26(1)(b)"
+    ],
+    "required_evidence": [
+      "subject to the condition that the leave so carried forward plus the credit for the half-year do not exceed the maximum limit of 300 days."
+    ]
+  },
+  {
+    "id": "D1-Q064",
+    "document_id": "D1",
+    "question": "What is the maximum earned leave that may be granted at a time to a Government servant employed in India?",
+    "answer": "180 days.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 19",
+      "Rule 26(2)(i)"
+    ],
+    "required_evidence": [
+      "180 days in the case of any Government servant employed in India, or"
+    ]
+  },
+  {
+    "id": "D1-Q065",
+    "document_id": "D1",
+    "question": "What is the maximum earned leave that may be granted at a time to a Government servant mentioned in the Exception to sub-rule (1) of Rule 26?",
+    "answer": "150 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Rule 26(2)(ii)"
+    ],
+    "required_evidence": [
+      "150 days, in the case of any Government servant mentioned in the Exception to sub-rule (1)"
+    ]
+  },
+  {
+    "id": "D1-Q066",
+    "document_id": "D1",
+    "question": "Earned leave may be granted for a period exceeding 180 days but not exceeding 300 days if the entire leave or any portion is spent outside which countries?",
+    "answer": "Outside India, Bangladesh, Bhutan, Burma, Sri Lanka, Nepal and Pakistan.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 20",
+      "Rule 26(3)"
+    ],
+    "required_evidence": [
+      "Earned leave may be granted to a Government servant in ClassI of Class II service or to a Government servant mentioned in the Exception to sub-rule (1), for a period exceeding 180 days but not exceeding 300 days if the entire leave so granted or any portion thereof is spent outside India, Bangladesh, Bhutan, Burma, Sri Lanka, Nepal and Pakistan:"
+    ]
+  },
+  {
+    "id": "D1-Q067",
+    "document_id": "D1",
+    "question": "At what rate is earned leave credited for each completed calendar month of service in a half-year?",
+    "answer": "2 1/2 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 20",
+      "Rule 27(1)"
+    ],
+    "required_evidence": [
+      "Earned leave shall be credited to the leave account of Government servant at the rate of \\(2\\frac{1}{2}\\) days for each completed calendar month of service"
+    ]
+  },
+  {
+    "id": "D1-Q068",
+    "document_id": "D1",
+    "question": "When a Government servant dies while in service, at what rate is earned leave credited?",
+    "answer": "At the rate of 2 1/2 days per completed month of service up to the date of death.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 20",
+      "Rule 27(2)(c)"
+    ],
+    "required_evidence": [
+      "When a Government servant dies while in service, credit of earned leave shall be allowed at the rate of \\(2\\frac{1}{2}\\) days per completed month of service up to the date of death of the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q069",
+    "document_id": "D1",
+    "question": "If a Government servant has availed extraordinary leave or absence treated as dies non in a half-year, by how much is the next half-year's earned leave credit reduced?",
+    "answer": "By 1/10th of the period of such leave and/or dies non subject to maximum of 15 days.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 20",
+      "Rule 27(3)"
+    ],
+    "required_evidence": [
+      "If a Government servant has availed of extraordinary leave and/or some period of absence has been treated as dies non in a half-year, the credit to be afforded to his leave account at the commencement of the next half- year shall be reduced by \\(1 / 10^{\\mathrm{th}}\\) of the period of such leave and/or dies non subject to maximum of 15 days."
+    ]
+  },
+  {
+    "id": "D1-Q070",
+    "document_id": "D1",
+    "question": "In a Vacation Department, at what rate is earned leave credited in advance?",
+    "answer": "In two instalments of five days each on the first day of January and July of every calendar year.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Rule 28(1)(a)"
+    ],
+    "required_evidence": [
+      "The leave account of every Government servant (other than a military officer) who is serving in a Vacation Department shall be credited with earned leave, in advance in two instalments of five days each on the first day of January and July of every calendar year."
+    ]
+  },
+  {
+    "id": "D1-Q071",
+    "document_id": "D1",
+    "question": "What is the maximum total earned leave credited in a calendar year for a Government servant serving in a Vacation Department?",
+    "answer": "Thirty days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Rule 28(1)(b)"
+    ],
+    "required_evidence": [
+      "provided the total earned leave credited shall not exceed thirty days in a calendar year."
+    ]
+  },
+  {
+    "id": "D1-Q072",
+    "document_id": "D1",
+    "question": "At what rate is half pay leave credited to the half pay leave account of a Government servant other than a military officer and a Government servant serving in a Vacation Department?",
+    "answer": "In advance, in two instalments of ten days each on the first day of January and July of every calendar year.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 22",
+      "Rule 29(1)"
+    ],
+    "required_evidence": [
+      "The half pay leave account of every Government servant (other than a military officer and a Government servant serving in a Vacation Department) shall be credited with half pay leave in advance, in two instalments of ten days each on the first day of January and July of every calendar year)."
+    ]
+  },
+  {
+    "id": "D1-Q073",
+    "document_id": "D1",
+    "question": "At what rate is half pay leave credited for each completed calendar month of service?",
+    "answer": "5/3 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 22",
+      "Rule 29(2)(a)"
+    ],
+    "required_evidence": [
+      "The leave shall be credited to the said leave account at the rate of 5/3 days for each completed calendar month of service"
+    ]
+  },
+  {
+    "id": "D1-Q074",
+    "document_id": "D1",
+    "question": "What is the maximum period of commuted leave that may be granted on medical certificate?",
+    "answer": "Commuted leave not exceeding half the amount of half pay leave due.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 23",
+      "Rule 30(1)"
+    ],
+    "required_evidence": [
+      "Commuted leave not exceeding half the amount of half pay leave due may be granted on medical certificate to a Government servant (other than a military officer), subject to the following conditions:-"
+    ]
+  },
+  {
+    "id": "D1-Q075",
+    "document_id": "D1",
+    "question": "When commuted leave is granted, how much is debited against the half pay leave due?",
+    "answer": "Twice the amount of such leave shall be debited against the half pay leave due.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 23",
+      "Rule 30(1)(d)"
+    ],
+    "required_evidence": [
+      "when commuted leave is granted, twice the amount of such leave shall be debited against the half pay leave due;"
+    ]
+  },
+  {
+    "id": "D1-Q076",
+    "document_id": "D1",
+    "question": "What is the maximum half pay leave that may be commuted during the entire service without production of medical certificate for an approved course of study?",
+    "answer": "180 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 23",
+      "Rule 30(1-A)"
+    ],
+    "required_evidence": [
+      "Half pay leave up to a maximum of 180 days may be allowed to be commuted during the entire service (without production of medical certificate) where such leave is utilized for an approved course of study certified to be in the public interest by the leave sanctioning authority."
+    ]
+  },
+  {
+    "id": "D1-Q077",
+    "document_id": "D1",
+    "question": "What is the maximum period of Leave Not Due that may be granted to a Government servant in permanent employ or quasi-permanent employ during the entire service?",
+    "answer": "Limited to a maximum of 360 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 24",
+      "Rule 31(1)"
+    ],
+    "required_evidence": [
+      "Leave Not Due may be granted to a Government servant in permanent employ or quasipermanent employ (other than a military officer) limited to a maximum of 360 days during the entire service on medical certificate"
+    ]
+  },
+  {
+    "id": "D1-Q078",
+    "document_id": "D1",
+    "question": "Can Leave Not Due be granted to temporary Government servants suffering from TB, Leprosy, Cancer or Mental Illness?",
+    "answer": "Yes, for a period not exceeding 360 days during entire service, subject to conditions.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 24",
+      "Rule 31(1-A)"
+    ],
+    "required_evidence": [
+      "Leave Not Due may also be granted to such of the temporary Government servants as are suffering from TB, Leprosy, Cancer or Mental Illness, for a period not exceeding 360 days during entire service, subject to fulfillment of conditions in Clauses (a) to (c) of sub- rule (1)"
+    ]
+  },
+  {
+    "id": "D1-Q079",
+    "document_id": "D1",
+    "question": "When may extraordinary leave be granted to a Government servant?",
+    "answer": "In special circumstances when no other leave is admissible; or when other leave is admissible, but the Government servant applies in writing for the grant of extraordinary leave.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 25",
+      "Rule 32(1)"
+    ],
+    "required_evidence": [
+      "Extraordinary leave may be granted to a Government servant (other than a military officer) in special circumstances-",
+      "(a) when no other leave is admissible:",
+      "(b) when other leave is admissible, but the Government servant applies in writing for the grant of extraordinary leave."
+    ]
+  },
+  {
+    "id": "D1-Q080",
+    "document_id": "D1",
+    "question": "What is the maximum extraordinary leave that may be granted on one occasion to a non-permanent Government servant who has completed one year's continuous service and is undergoing treatment for pulmonary tuberculosis in a recognized sanatorium?",
+    "answer": "Eighteen months.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 25",
+      "Rule 32(2)(d)"
+    ],
+    "required_evidence": [
+      "eighteen months, where the Government servant who has completed one year's continuous service is undergoing treatment for -",
+      "(i) Pulmonary Tuberculosis or Pleurisy of tubercular origin, in a recognized sanatorium;"
+    ]
+  },
+  {
+    "id": "D1-Q081",
+    "document_id": "D1",
+    "question": "What is the maximum extraordinary leave that may be granted for prosecuting studies certified to be in the public interest?",
+    "answer": "Twenty-four months, provided the Government servant concerned has completed three years' continuous service.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 26",
+      "Rule 32(2)(e)"
+    ],
+    "required_evidence": [
+      "twenty-four months, where the leave is required for the purpose of prosecuting studies certified to be in the public interest, provided the Government servant concerned has completed three years' continuous service on the date of expiry of leave of the kind due and admissible under these rules, including three months' extraordinary leave under Clause (a)."
+    ]
+  },
+  {
+    "id": "D1-Q082",
+    "document_id": "D1",
+    "question": "What bond must a Government servant execute when granted extraordinary leave in relaxation of Rule 32(2)(e)?",
+    "answer": "A Bond in Form 6 undertaking to refund the actual amount of expenditure incurred by the Government during such leave plus that incurred by any other agency with interest, if he does not return to duty or quits service before three years after return.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 26",
+      "Rule 32(3)(a)"
+    ],
+    "required_evidence": [
+      "Where a Government servant is granted extraordinary leave in relaxation of the provisions contained in Clause (e) of sub- rule(2), shall be required to execute a Bond in Form 6 undertaking to refund to the Government the actual amount of expenditure incurred by the Government during such leave plus that incurred by any other agency with interest thereon in the event of his not returning to duty on the expiry of such leave or quitting the service before a period of three years after return to duty."
+    ]
+  },
+  {
+    "id": "D1-Q083",
+    "document_id": "D1",
+    "question": "What leave is an apprentice entitled to on medical certificate?",
+    "answer": "Leave on medical certificate on leave salary equivalent to half pay for a period not exceeding one month in any year of apprenticeship.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Rule 33(3)(a)"
+    ],
+    "required_evidence": [
+      "An apprentice shall be entitled to",
+      "(a) leave, on medical certificate, on leave salary equivalent to half pay for a period not exceeding one month in any year of apprenticeship;"
+    ]
+  },
+  {
+    "id": "D1-Q084",
+    "document_id": "D1",
+    "question": "How do these rules apply to a person re-employed after retirement?",
+    "answer": "The provisions of these rules shall apply as if he had entered Government service for the first time on the date of his re-employment.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Rule 34"
+    ],
+    "required_evidence": [
+      "In the case of a person re- employed after retirement, the provisions of these rules shall apply as if he had entered Government service for the first time on the date of his re- employment."
+    ]
+  },
+  {
+    "id": "D1-Q085",
+    "document_id": "D1",
+    "question": "To what extent may a Government servant take leave preparatory to retirement?",
+    "answer": "To the extent of earned leave due, not exceeding 300 days together with half pay leave due, subject to the condition that such leave extends up to and includes the date of retirement.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Rule 38(1)"
+    ],
+    "required_evidence": [
+      "A Government servant may be permitted by the authority competent to grant leave to take leave preparatory to retirement to the extent of earned leave due, not exceeding 300 days together with half pay leave due, subject to the condition that such leave extends up to and includes the date of retirement."
+    ]
+  },
+  {
+    "id": "D1-Q086",
+    "document_id": "D1",
+    "question": "Does leave preparatory to retirement include extraordinary leave?",
+    "answer": "No, the leave granted as leave preparatory to retirement shall not include extraordinary leave.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 27",
+      "Rule 38(1) Note"
+    ],
+    "required_evidence": [
+      "The leave granted as leave preparatory to retirement shall not include extraordinary leave."
+    ]
+  },
+  {
+    "id": "D1-Q087",
+    "document_id": "D1",
+    "question": "How many days of earned leave may a Government servant encash at the time of availing Leave Travel Concession while in service?",
+    "answer": "Up to ten days at a time.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 28",
+      "Rule 38-A(1)"
+    ],
+    "required_evidence": [
+      "A Government servant may be permitted to encash earned leave up to ten days at the time of availing of Leave Travel Concession while in service, subject to the conditions that -"
+    ]
+  },
+  {
+    "id": "D1-Q088",
+    "document_id": "D1",
+    "question": "What is the maximum total earned leave that may be encashed during the entire career along with Leave Travel Concession while in service?",
+    "answer": "Sixty days in the aggregate.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 28",
+      "Rule 38-A(1)(b)"
+    ],
+    "required_evidence": [
+      "the total leave so encashed during the entire career does not exceed sixty days in the aggregate;"
+    ]
+  },
+  {
+    "id": "D1-Q089",
+    "document_id": "D1",
+    "question": "What is the maximum number of days for which cash equivalent of leave salary is granted on retirement for both earned leave and half pay leave?",
+    "answer": "300 days.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 30",
+      "Rule 39(2)(a)"
+    ],
+    "required_evidence": [
+      "the authority competent to grant leave shall, suo motu, issue an order granting cash equivalent of leave salary for both earned leave and half pay leave, if any, at the credit of the Government servant on the date of his retirement subject to a maximum of 300 days;"
+    ]
+  },
+  {
+    "id": "D1-Q090",
+    "document_id": "D1",
+    "question": "In case a Government servant dies while in service, what is the maximum leave salary for which cash equivalent is paid to his family?",
+    "answer": "Not exceeding leave salary for 300 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 32",
+      "Rule 39-A"
+    ],
+    "required_evidence": [
+      "the cash equivalent of the leave salary that the deceased employee would have got had he gone on earned leave that would have been due and admissible to him but for the death on the date immediately following the death and in any case, not exceeding leave salary for 300 days"
+    ]
+  },
+  {
+    "id": "D1-Q091",
+    "document_id": "D1",
+    "question": "What cash equivalent is granted to a Government servant declared completely and permanently incapacitated for further service?",
+    "answer": "Cash equivalent of leave salary in respect of both earned leave and half pay leave at credit on the date of invalidation from service, subject to a maximum of 300 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 33",
+      "Rule 39-B(1)"
+    ],
+    "required_evidence": [
+      "A Government servant who is declared by a Medical Authority to be completely and permanently incapacitated for further service may be granted, suo motu, by the authority competent to grant leave, cash equivalent of leave salary in respect of both earned leave and half pay leave, if any, at the credit of the Government servant on the date of invalidation from service, subject to a maximum of 300 days"
+    ]
+  },
+  {
+    "id": "D1-Q092",
+    "document_id": "D1",
+    "question": "To whom is cash equivalent of leave salary payable in the event of death of a male Government servant?",
+    "answer": "To the widow, and if there are more widows than one, to the eldest surviving widow.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 33",
+      "Rule 39-C(i)"
+    ],
+    "required_evidence": [
+      "to the widow, and if there are more widows than one, to the eldest surviving widow if the deceased was a male Government servant, or to the husband, if the deceased was a female Government servant;"
+    ]
+  },
+  {
+    "id": "D1-Q093",
+    "document_id": "D1",
+    "question": "What cash equivalent is granted on permanent absorption in a Public Sector Undertaking or Autonomous Body wholly or substantially owned or controlled by Central/State Government?",
+    "answer": "Cash equivalent of leave salary in respect of earned leave at credit on the date of absorption subject to a maximum of 300 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 34",
+      "Rule 39-D"
+    ],
+    "required_evidence": [
+      "A Government servant who has been permitted to be absorbed in a service or post in or under a Corporation or Company wholly or substantially owned or controlled by the Central Government or State Government or in or under a body controlled or financed by one or more than one such Government shall be granted suo motu by the authority competent to grant leave cash equivalent of leave salary in respect of earned leave at his credit on the date of absorption subject to a maximum of 300 days."
+    ]
+  },
+  {
+    "id": "D1-Q094",
+    "document_id": "D1",
+    "question": "What is the leave salary for a Government servant on earned leave?",
+    "answer": "Leave salary equal to the pay drawn immediately before proceeding on earned leave.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 34",
+      "Rule 40(1)"
+    ],
+    "required_evidence": [
+      "Except as provided in sub-rule (7), a Government servant who proceeds on earned leave is entitled to leave salary equal to the pay drawn immediately before proceeding on earned leave."
+    ]
+  },
+  {
+    "id": "D1-Q095",
+    "document_id": "D1",
+    "question": "What leave salary is a Government servant on half pay leave or leave not due entitled to?",
+    "answer": "Leave salary equal to half the amount specified in sub-rule (1).",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 34",
+      "Rule 40(3)"
+    ],
+    "required_evidence": [
+      "A Government servant on half pay leave or leave not due is entitled to leave salary equal to half the amount specified in sub-rule (1)."
+    ]
+  },
+  {
+    "id": "D1-Q096",
+    "document_id": "D1",
+    "question": "Is a Government servant on extraordinary leave entitled to any leave salary?",
+    "answer": "No, a Government servant on extraordinary leave is not entitled to any leave salary.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 35",
+      "Rule 40(5)"
+    ],
+    "required_evidence": [
+      "A Government servant on extraordinary leave is not entitled to any leave salary."
+    ]
+  },
+  {
+    "id": "D1-Q097",
+    "document_id": "D1",
+    "question": "In what currency shall leave salary payable under these rules be drawn?",
+    "answer": "In rupees in India.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 35",
+      "Rule 41"
+    ],
+    "required_evidence": [
+      "The leave salary payable under these rules shall be drawn in rupees in India."
+    ]
+  },
+  {
+    "id": "D1-Q098",
+    "document_id": "D1",
+    "question": "What advance may be allowed to a Government servant proceeding on leave for a period not less than thirty days?",
+    "answer": "An advance in lieu of leave salary up to a month's pay and allowances admissible on that leave salary subject to deductions.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 35",
+      "Rule 42"
+    ],
+    "required_evidence": [
+      "A Government servant, including a Government servant on foreign service, proceeding on leave for a period not less than thirty days may be allowed an advance in lieu of leave salary up to a month's pay and allowances admissible on that leave salary subject to deductions on account of Income Tax, Provident Fund, House Rent, Recovery of Advances, etc."
+    ]
+  },
+  {
+    "id": "D1-Q099",
+    "document_id": "D1",
+    "question": "For what period may maternity leave be granted to a female Government servant with less than two surviving children?",
+    "answer": "180 days from the date of its commencement.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 36",
+      "Rule 43(1)"
+    ],
+    "required_evidence": [
+      "A female Government servant (including an apprentice) with less than two surviving children may be granted maternity leave by an authority competent to grant leave for a period of (180 days) from the date of its commencement."
+    ]
+  },
+  {
+    "id": "D1-Q100",
+    "document_id": "D1",
+    "question": "What leave salary is paid during maternity leave?",
+    "answer": "Leave salary equal to the pay drawn immediately before proceeding on leave.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 36",
+      "Rule 43(2)"
+    ],
+    "required_evidence": [
+      "During such period, she shall be paid leave salary equal to the pay drawn immediately before proceeding on leave."
+    ]
+  },
+  {
+    "id": "D1-Q101",
+    "document_id": "D1",
+    "question": "What is the maximum period of maternity leave granted in case of miscarriage including abortion?",
+    "answer": "Not exceeding 45 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 36",
+      "Rule 43(3)"
+    ],
+    "required_evidence": [
+      "Maternity leave not exceeding 45 days may also be granted to a female Government servant (irrespective of the number of surviving children) during the entire service of that female Government in case of miscarriage including abortion on production of medical certificate as laid down in Rule 19:"
+    ]
+  },
+  {
+    "id": "D1-Q102",
+    "document_id": "D1",
+    "question": "Is maternity leave debited against the leave account?",
+    "answer": "No, maternity leave shall not be debited against the leave account.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 36",
+      "Rule 43(5)"
+    ],
+    "required_evidence": [
+      "Maternity leave shall not be debited against the leave account."
+    ]
+  },
+  {
+    "id": "D1-Q103",
+    "document_id": "D1",
+    "question": "For what period may paternity leave be granted to a male Government servant with less than two surviving children?",
+    "answer": "15 days during the confinement of his wife for childbirth, i.e., up to 15 days before, or up to six months from the date of delivery of the child.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 36",
+      "Rule 43-A(1)"
+    ],
+    "required_evidence": [
+      "A male Government servant (including an apprentice) with less than two surviving children, may be granted Paternity Leave by an authority competent to grant leave for a period of 15 days, during the confinement of his wife for childbirth, i.e., up to 15 days before, or up to six months from the date of delivery of the child."
+    ]
+  },
+  {
+    "id": "D1-Q104",
+    "document_id": "D1",
+    "question": "Is paternity leave debited against the leave account?",
+    "answer": "No, the paternity leave shall not be debited against the leave account.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 37",
+      "Rule 43-A(4)"
+    ],
+    "required_evidence": [
+      "The paternity leave shall not be debited against the leave account."
+    ]
+  },
+  {
+    "id": "D1-Q105",
+    "document_id": "D1",
+    "question": "For what period may paternity leave for child adoption be granted to a male Government servant on valid adoption of a child below the age of one year?",
+    "answer": "15 days within a period of six months from the date of valid adoption.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 37",
+      "Rule 43-AA(1)"
+    ],
+    "required_evidence": [
+      "A male Government servant (including an apprentice) with less than two surviving children, on valid adoption of a child below the age of one year, may be granted Paternity Leave for a period of 15 days within a period of six months from the date of valid adoption."
+    ]
+  },
+  {
+    "id": "D1-Q106",
+    "document_id": "D1",
+    "question": "For what period may child adoption leave be granted to a female Government servant on valid adoption of a child below the age of one year?",
+    "answer": "180 days immediately after the date of valid adoption.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Rule 43-B(1)"
+    ],
+    "required_evidence": [
+      "A female Government servant, with fewer than two surviving children, on valid adoption of a child below the age of one year may be granted child adoption leave, by an authority competent to grant leave, for a period of 180 days immediately after the date of valid adoption."
+    ]
+  },
+  {
+    "id": "D1-Q107",
+    "document_id": "D1",
+    "question": "What is the maximum period of child care leave granted to a female Government servant and single male Government servant during entire service?",
+    "answer": "Seven hundred and thirty days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Rule 43-C(1)"
+    ],
+    "required_evidence": [
+      "a female Government servant and single male Government servant may be granted child care leave by an authority competent to grant leave for a maximum period of seven hundred and thirty days during entire service"
+    ]
+  },
+  {
+    "id": "D1-Q108",
+    "document_id": "D1",
+    "question": "What percentage of salary is paid during the first 365 days of child care leave?",
+    "answer": "One hundred per cent of the salary.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 39",
+      "Rule 43-C(4)"
+    ],
+    "required_evidence": [
+      "During the period of child care leave, a female Government servant and a single male Government servant shall be paid one hundred per cent of the salary for the first three hundred and sixty-five days, and at eighty per cent of the salary for the next three hundred and sixty-five days."
+    ]
+  },
+  {
+    "id": "D1-Q109",
+    "document_id": "D1",
+    "question": "What percentage of salary is paid for the next 365 days of child care leave after the first 365 days?",
+    "answer": "Eighty per cent of the salary.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 39",
+      "Rule 43-C(4)"
+    ],
+    "required_evidence": [
+      "During the period of child care leave, a female Government servant and a single male Government servant shall be paid one hundred per cent of the salary for the first three hundred and sixty-five days, and at eighty per cent of the salary for the next three hundred and sixty-five days."
+    ]
+  },
+  {
+    "id": "D1-Q110",
+    "document_id": "D1",
+    "question": "What is Work Related Illness and Injury Leave (WRIIL)?",
+    "answer": "Leave granted to a Government servant who suffers illness or injury that is attributable to or aggravated in the performance of her or his official duties or in consequence of her or his official position.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 40",
+      "Rule 44"
+    ],
+    "required_evidence": [
+      "The authority competent to grant leave may grant Work Related Illness and Injury Leave (hereinafter referred to as WRIIL) to a Government servant (whether permanent or temporary), who suffers illness or injury that is attributable to or aggravated in the performance of her or his official duties or in consequence of her or his official position"
+    ]
+  },
+  {
+    "id": "D1-Q111",
+    "document_id": "D1",
+    "question": "During the entire period of hospitalization on account of WRIIL, what pay and allowances are granted?",
+    "answer": "Full pay and allowances.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 40",
+      "Rule 44(1)"
+    ],
+    "required_evidence": [
+      "Full pay and allowances shall be granted to all employees during the entire period of hospitalization on account of WRILL."
+    ]
+  },
+  {
+    "id": "D1-Q112",
+    "document_id": "D1",
+    "question": "For a Government servant other than a military officer, what is the period of full pay and allowances immediately following hospitalization under WRIIL?",
+    "answer": "Six months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 40",
+      "Rule 44(2)(a)"
+    ],
+    "required_evidence": [
+      "A Government servant (other than a military officer) - full pay and allowances for the six months immediately following hospitalization and Half Pay for twelve months beyond the said period of six months."
+    ]
+  },
+  {
+    "id": "D1-Q113",
+    "document_id": "D1",
+    "question": "What is the maximum period of leave on full pay for a seaman disabled in the exercise of his duty?",
+    "answer": "A maximum period not exceeding three months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 41",
+      "Rule 47(2)"
+    ],
+    "required_evidence": [
+      "A seaman disabled in the exercise of his duty may be allowed leave on leave salary equal to full pay for a maximum period not exceeding three months, if the following conditions are fulfilled, namely:-"
+    ]
+  },
+  {
+    "id": "D1-Q114",
+    "document_id": "D1",
+    "question": "What is the maximum period of special leave connected to inquiry of sexual harassment?",
+    "answer": "Up to a period of 90 days.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 41",
+      "Rule 48"
+    ],
+    "required_evidence": [
+      "Leave up to a period of 90 days may be granted to an aggrieved female Government servant on the recommendation of the Internal Committee or the Local Committee, as the case maybe, during the pendency of inquiry under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013"
+    ]
+  },
+  {
+    "id": "D1-Q115",
+    "document_id": "D1",
+    "question": "Is special leave connected to inquiry of sexual harassment debited against the leave account?",
+    "answer": "No, it shall not be debited against the leave account.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 41",
+      "Rule 48"
+    ],
+    "required_evidence": [
+      "the leave granted to the aggrieved female Government servant under this rule shall not be debited against the leave account."
+    ]
+  },
+  {
+    "id": "D1-Q116",
+    "document_id": "D1",
+    "question": "To which Government servants may Departmental Leave be granted?",
+    "answer": "Class III Government servants other than Division I staff and Clerks and Class IV Government servants in the Survey of India attached to Survey Parties with field and recess duties; and members of the seasonal staff in the Posts and Telegraphs Department whose duties are not continuous but limited to certain fixed period each year.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 41",
+      "Rule 49(1)"
+    ],
+    "required_evidence": [
+      "Departmental leave may be granted to :-",
+      "(a) Class III Government servants (other than Division I staff and Clerks) and to Class IV Government servants in the Survey of India, attached to Survey Parties with field and recess duties:",
+      "(b) members of the seasonal staff in the Posts and Telegraphs Department, whose duties are not continuous but are limited to certain fixed period in each year."
+    ]
+  },
+  {
+    "id": "D1-Q117",
+    "document_id": "D1",
+    "question": "What leave salary is paid to a Government servant on Departmental Leave with leave salary?",
+    "answer": "Equal to 25 per cent of the said salary admissible during the earned leave under sub-rule (1) of Rule 40.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 42",
+      "Rule 49(6)(a)"
+    ],
+    "required_evidence": [
+      "A Government servant on Departmental Leave with leave salary shall be paid leave salary equal to 25 per cent of the said salary admissible during the earned leave under sub-rule (1) of Rule 40."
+    ]
+  },
+  {
+    "id": "D1-Q118",
+    "document_id": "D1",
+    "question": "Does Departmental Leave count as duty?",
+    "answer": "No, Departmental leave does not count as duty and such leave shall not be debited to his leave account.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 43",
+      "Rule 49(7)"
+    ],
+    "required_evidence": [
+      "Departmental leave does not count as duty and such leave shall not be debited to his leave account."
+    ]
+  },
+  {
+    "id": "D1-Q119",
+    "document_id": "D1",
+    "question": "For what purpose may study leave be granted to a Government servant?",
+    "answer": "To enable him to undergo, in or out of India, a special course of study consisting of higher studies or specialized training in a professional or a technical subject having a direct and close connection with the sphere of his duty.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 43",
+      "Rule 50(1)"
+    ],
+    "required_evidence": [
+      "study leave may be granted to a Government servant with due regard to the exigencies of public service to enable him to undergo, in or out of India, a special course of study consisting of higher studies or specialized training in a professional or a technical subject having a direct and close connection with the sphere of his duty."
+    ]
+  },
+  {
+    "id": "D1-Q120",
+    "document_id": "D1",
+    "question": "What is the maximum amount of study leave ordinarily granted at any one time to a Government servant other than Central Health Service Officers?",
+    "answer": "Twelve months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 44",
+      "Rule 51(1)(a)"
+    ],
+    "required_evidence": [
+      "The maximum amount of study leave, which may be granted to a Government servant, other than Central Health Service Officers, shall be",
+      "(a) ordinarily twelve months at any one time, and"
+    ]
+  },
+  {
+    "id": "D1-Q121",
+    "document_id": "D1",
+    "question": "What is the maximum amount of study leave during the entire service for a Government servant other than Central Health Service Officers?",
+    "answer": "Twenty-four months in all.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 44",
+      "Rule 51(1)(b)"
+    ],
+    "required_evidence": [
+      "(b) during his entire service, twenty-four months in all (inclusive of similar kind of leave for study or training granted under any other rules)."
+    ]
+  },
+  {
+    "id": "D1-Q122",
+    "document_id": "D1",
+    "question": "For how many months may study leave be granted to Central Health Service Officers for acquiring postgraduate qualification?",
+    "answer": "Thirty-six months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 44",
+      "Rule 51(2)"
+    ],
+    "required_evidence": [
+      "In respect of Central Health Service Officers, study leave may be granted for thirty-six months for acquiring postgraduate qualification, subject to the condition that a Central Health Service Officer who has been granted such study leave shall execute a bond under sub-rule (4) of Rule 53 to serve the Government for a period of five years after completion of the study course."
+    ]
+  },
+  {
+    "id": "D1-Q123",
+    "document_id": "D1",
+    "question": "Through which channel must every application for study leave be submitted?",
+    "answer": "Through proper channel to the authority competent to grant leave.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 44",
+      "Rule 52(1)(a)"
+    ],
+    "required_evidence": [
+      "Every application for study leave shall be submitted through proper channel to the authority competent to grant leave."
+    ]
+  },
+  {
+    "id": "D1-Q124",
+    "document_id": "D1",
+    "question": "What bond must a Government servant in permanent employ execute before proceeding on study leave?",
+    "answer": "A Bond in Form 7.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 45",
+      "Rule 53(4)(a)"
+    ],
+    "required_evidence": [
+      "Every Government servant in permanent employ who has been granted study leave or extension of such study leave shall be required to execute a Bond in Form 7 or Form 8, as the case may be, before the study leave or extension of such study leave granted to him commences."
+    ]
+  },
+  {
+    "id": "D1-Q125",
+    "document_id": "D1",
+    "question": "What bond must a Government servant not in permanent employ execute before proceeding on study leave?",
+    "answer": "A bond in Form 9.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 45",
+      "Rule 53(4)(b)"
+    ],
+    "required_evidence": [
+      "Every Government servant not in permanent employ who has been granted study leave or extension of such study leave shall be required to execute a bond in Form 9 or Form 10 as the case may be, before the study leave or extension of such study leave granted to him commences."
+    ]
+  },
+  {
+    "id": "D1-Q126",
+    "document_id": "D1",
+    "question": "Is study leave debited against the leave account of the Government servant?",
+    "answer": "No, study leave shall not be debited against the leave account of the Government servant.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 46",
+      "Rule 54(1)"
+    ],
+    "required_evidence": [
+      "Study leave shall not be debited against the leave account of the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q127",
+    "document_id": "D1",
+    "question": "What is the maximum total absence from regular duties when study leave is combined with other kinds of leave, generally?",
+    "answer": "Twenty eight months generally.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 46",
+      "Rule 54(2)"
+    ],
+    "required_evidence": [
+      "Study leave may be combined with other kinds of leave, but in no case shall be grant of this leave in combination with leave, other than extraordinary leave involve a total absence of more than twenty eight months generally and thirty-six months for the courses leading to PhD. degree from the regular duties of the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q128",
+    "document_id": "D1",
+    "question": "What is the maximum total absence from regular duties when study leave is combined with other kinds of leave for courses leading to PhD degree?",
+    "answer": "Thirty-six months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 46",
+      "Rule 54(2)"
+    ],
+    "required_evidence": [
+      "Study leave may be combined with other kinds of leave, but in no case shall be grant of this leave in combination with leave, other than extraordinary leave involve a total absence of more than twenty eight months generally and thirty-six months for the courses leading to PhD. degree from the regular duties of the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q129",
+    "document_id": "D1",
+    "question": "During study leave availed outside India, what leave salary is drawn?",
+    "answer": "Leave Salary equal to the pay that the Government servant drew while on duty with Government immediately before proceeding on such leave and in addition the Dearness Allowance and House Rent Allowance.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 46",
+      "Rule 56(1)"
+    ],
+    "required_evidence": [
+      "Except as provided m sub-rule (6), during Study Leave availed of outside India, a Government servant shall draw Leave Salary equal to the pay that the Government servant drew while on duty with Government immediately before proceeding on such leave and in addition the Dearness Allowance and House Rent Allowance."
+    ]
+  },
+  {
+    "id": "D1-Q130",
+    "document_id": "D1",
+    "question": "For how many days of study leave shall House Rent Allowance be paid at the rates admissible from time to time at the station from where he proceeded on study leave?",
+    "answer": "For the first 180 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 47",
+      "Rule 60(1)"
+    ],
+    "required_evidence": [
+      "For the first (180) days of the Study Leave, House Rent Allowance shall be paid at the rates admissible to the Government servant from time to time at the station from where he proceeded on study leave."
+    ]
+  },
+  {
+    "id": "D1-Q131",
+    "document_id": "D1",
+    "question": "What allowance other than House Rent Allowance and Dearness Allowance is paid during study leave?",
+    "answer": "No other allowance shall be paid.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 47",
+      "Rule 60(2)"
+    ],
+    "required_evidence": [
+      "Except for house rent allowance as admissible under sub-rule (1) and the Dearness Allowance, where admissible, no other allowance shall be paid to a Government servant in respect of the period of study leave granted to him."
+    ]
+  },
+  {
+    "id": "D1-Q132",
+    "document_id": "D1",
+    "question": "Is a Government servant on study leave ordinarily paid Travelling Allowance?",
+    "answer": "No, he shall not ordinarily be paid Travelling Allowance but the President may in exceptional circumstances sanction payment.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 47",
+      "Rule 61"
+    ],
+    "required_evidence": [
+      "A Government servant to whom study leave has been granted shall not ordinarily be paid Travelling Allowance but the President may in exceptional circumstances sanction the payment of such allowance."
+    ]
+  },
+  {
+    "id": "D1-Q133",
+    "document_id": "D1",
+    "question": "What must a Government servant who resigns after study leave refund?",
+    "answer": "The actual amount of leave salary, cost of fees, travelling and other expenses incurred by the Government of India; and the actual amount of cost incurred by other agencies together with interest thereon.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 48",
+      "Rule 63(1)"
+    ],
+    "required_evidence": [
+      "he shall be required to refund -",
+      "(i) the actual amount of leave salary, cost of fees, travelling and other expenses, if any, incurred by the Government of India; and",
+      "(ii) the actual amount, if any, of the cost incurred by other agencies such as foreign Governments, Foundations and Trusts in connection with the course of study, together with interest thereon at rates for the time being in force on Government loans, from the date of demand, before his resignation is accepted or permission to retire is granted or his quitting service otherwise:"
+    ]
+  },
+  {
+    "id": "D1-Q134",
+    "document_id": "D1",
+    "question": "To whom shall doubts arising as to interpretation of these rules be referred?",
+    "answer": "To the Government of India in the Ministry of Personnel, Public Grievances and Pensions for decision.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 49",
+      "Rule 64"
+    ],
+    "required_evidence": [
+      "Where any doubt arises as to the interpretation of these rules, it shall be referred to the Government of India in the Ministry of Personnel, Public Grievances and Pensions for decision."
+    ]
+  },
+  {
+    "id": "D1-Q135",
+    "document_id": "D1",
+    "question": "What power does a Ministry or Department have to relax these rules?",
+    "answer": "If satisfied that operation of any rule causes undue hardship, it may dispense with or relax the requirements of that rule to such extent and subject to such exceptions and conditions as it may consider necessary, with concurrence of Ministry of Personnel, Public Grievances and Pensions.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 49",
+      "Rule 65"
+    ],
+    "required_evidence": [
+      "Where any Ministry or Department of Government of India is satisfied that the operation of any of these rules causes undue hardship in any particular case, that Ministry or Department, as the case may be, maybe order, for reasons to be recorded in writing, dispense with or relax the requirements of that rule to such extent and subject to such exceptions and conditions as it may consider necessary for dealing with the case in a just and equitable manner:"
+    ]
+  },
+  {
+    "id": "D1-Q136",
+    "document_id": "D1",
+    "question": "What happens to old rules on commencement of these rules?",
+    "answer": "Every rule, regulation or order, including Office Memorandum in force immediately before such commencement shall, in so far as it provides for any of the matters contained in these rules, cease to operate.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 50",
+      "Rule 66(1)"
+    ],
+    "required_evidence": [
+      "On the commencement of these rules, every rule, regulation or order, including Office Memorandum (hereinafter referred to in this rule as the old rule) in force immediately before such commencement shall, in so far as it provides for any of the matters contained in these rules, cease to operate."
+    ]
+  },
+  {
+    "id": "D1-Q137",
+    "document_id": "D1",
+    "question": "Which authority is competent to grant Earned Leave, Half Pay Leave, Commuted Leave, Leave not Due, Extraordinary Leave, Maternity Leave, Hospital Leave, Seamen's Sick Leave, Paternity Leave, Child Adoption Leave, Paternity Leave for Child Adoption and Child Care Leave?",
+    "answer": "Ministry/Department of the Central Government; Administrator; Comptroller and Auditor-General; Head of Department; any other authority which is the appointing authority; any subordinate authority to which the authority may delegate the power.",
+    "question_type": "table_lookup",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 53",
+      "First Schedule"
+    ],
+    "required_evidence": [
+      "(i) Ministry/ Department of the Central Government.",
+      "(ii) Administrator.",
+      "(iii) Comptroller and Auditor-General.",
+      "(iv) Head of Department.",
+      "(v) Any other authority which is the appointing authority.",
+      "(vi) Any subordinate authority to which the authority at (i) to (v) may delegate the power, subject to any condition that may be specified in the delegation."
+    ]
+  },
+  {
+    "id": "D1-Q138",
+    "document_id": "D1",
+    "question": "If a Government servant is in foreign service, which authority can grant leave?",
+    "answer": "The authority which sanctioned the transfer to foreign service; Foreign employer for earned leave not exceeding 120 days, and for leave preparatory to retirement prior concurrence of lending authority under Central Government shall be obtained.",
+    "question_type": "table_context",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 53",
+      "First Schedule Note 1"
+    ],
+    "required_evidence": [
+      "If the Government servant is in foreign service, –",
+      "(i) the authority which sanctioned the transfer to foreign service.",
+      "(ii) Foreign employer – Power to be exercised only in respect of earned leave not exceeding 120 days and while taking decision to grant or refuse leave preparatory to retirement, prior concurrence of the lending authority under the Central Government shall be obtained as provided in sub-rule (2) of Rule 38."
+    ]
+  },
+  {
+    "id": "D1-Q139",
+    "document_id": "D1",
+    "question": "What is the title of Form 1?",
+    "answer": "Application for Leave or for Extension of Leave.",
+    "question_type": "heading_context",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 55",
+      "Second Schedule Form 1"
+    ],
+    "required_evidence": [
+      "APPLICATION FOR LEAVE OR FOR EXTENSION OF LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q140",
+    "document_id": "D1",
+    "question": "What is Form 2 used for?",
+    "answer": "Form of Leave Account.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 56",
+      "Second Schedule Form 2"
+    ],
+    "required_evidence": [
+      "FORM OF LEAVE ACCOUNT"
+    ]
+  },
+  {
+    "id": "D1-Q141",
+    "document_id": "D1",
+    "question": "What is Form 3 used for?",
+    "answer": "Medical Certificate for Gazetted Officers recommended leave or extension of leave or commutation of leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 57",
+      "Second Schedule Form 3"
+    ],
+    "required_evidence": [
+      "MEDICAL CERTIFICATE FOR GAZETTED OFFICERS RECOMMENDED LEAVE OR EXTENSION OF LEAVE OR COMMUTATION OF LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q142",
+    "document_id": "D1",
+    "question": "What is Form 3-A used for?",
+    "answer": "Medical Certificate for Government servants who are to be recommended leave under Rule 20.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 57",
+      "Second Schedule Form 3-A"
+    ],
+    "required_evidence": [
+      "MEDICAL CERTIFICATE FOR GOVERNMENT SERVANTS WHO ARE TO BE RECOMMENDED LEAVE UNDER RULE 20"
+    ]
+  },
+  {
+    "id": "D1-Q143",
+    "document_id": "D1",
+    "question": "What is Form 4 used for?",
+    "answer": "Medical Certificate for Leave or Extension of Leave or Commutation of Leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 59",
+      "Second Schedule Form 4"
+    ],
+    "required_evidence": [
+      "MEDICAL CERTIFICATE FOR LEAVE OR EXTENSION OF LEAVE OR COMMUTATION OF LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q144",
+    "document_id": "D1",
+    "question": "What is Form 5 used for?",
+    "answer": "Medical Certificate of Fitness to Return to Duty.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 60",
+      "Second Schedule Form 5"
+    ],
+    "required_evidence": [
+      "MEDICAL CERTIFICATE OF FITNESS TO RETURN TO DUTY"
+    ]
+  },
+  {
+    "id": "D1-Q145",
+    "document_id": "D1",
+    "question": "What is Form 6 used for?",
+    "answer": "Bond for temporary Government servants granted extraordinary leave in relaxation of Rule 32(2)(e) for study.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 61",
+      "Second Schedule Form 6"
+    ],
+    "required_evidence": [
+      "BOND FOR TEMPORARY GOVERNMENT SERVANTS GRANTED EXTRAORDINARY LEAVE IN RELAXATION OF RULE 32 (2) (e) FOR STUDY"
+    ]
+  },
+  {
+    "id": "D1-Q146",
+    "document_id": "D1",
+    "question": "What is Form 7 used for?",
+    "answer": "Bond to be executed by a Government servant in permanent employ, when proceeding on study leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 63",
+      "Second Schedule Form 7"
+    ],
+    "required_evidence": [
+      "BOND TO BE EXECUTED BY A GOVERNMENT SERVANT IN PERMANENT EMPLOY, WHEN PROCEEDING ON STUDY LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q147",
+    "document_id": "D1",
+    "question": "What is Form 8 used for?",
+    "answer": "Bond to be executed by a Government servant in permanent employ, when granted extension of study leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 65",
+      "Second Schedule Form 8"
+    ],
+    "required_evidence": [
+      "BOND TO BE EXECUTED BY A GOVERNMENT SERVANT IN PERMANENT EMPLOY, WHEN GRANTED EXTENSION OF STUDY LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q148",
+    "document_id": "D1",
+    "question": "What is Form 9 used for?",
+    "answer": "Bond to be executed by a Government servant not in permanent employ, when proceeding on study leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 67",
+      "Second Schedule Form 9"
+    ],
+    "required_evidence": [
+      "BOND TO BE EXECUTED BY A GOVERNMENT SERVANT NOT IN PERMANENT EMPLOY, WHEN PROCEEDING ON STUDY LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q149",
+    "document_id": "D1",
+    "question": "What is Form 10 used for?",
+    "answer": "Bond to be executed by a Government servant not in permanent employ, when granted extension of study leave.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 70",
+      "Second Schedule Form 10"
+    ],
+    "required_evidence": [
+      "BOND TO BE EXECUTED BY A GOVERNMENT, SERVANT NOT IN PERMANENT EMPLOY, WHEN GRANTED EXTENSION OF STUDY LEAVE"
+    ]
+  },
+  {
+    "id": "D1-Q150",
+    "document_id": "D1",
+    "question": "What is the maximum limit of earned leave at credit together with unavailed joining time allowed to be credited?",
+    "answer": "300 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 18",
+      "Rule 26(1)(a)(ii) Proviso"
+    ],
+    "required_evidence": [
+      "Provided that the earned leave at his credit together with the unavailed joining time allowed to be so credited shall not exceed 300days."
+    ]
+  },
+  {
+    "id": "D1-Q151",
+    "document_id": "D1",
+    "question": "What is the maximum number of days of earned leave that may be granted at a time to a Government servant employed in India, subject to Rules 7 and 39?",
+    "answer": "180 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Rule 26(2)"
+    ],
+    "required_evidence": [
+      "Subject to the provisions of Rules 7 and 39 and sub-rules (1) and (3) of the rule, the maximum earned leave that may be granted at a time shall be -",
+      "(i) 180 days in the case of any Government servant employed in India, or"
+    ]
+  },
+  {
+    "id": "D1-Q152",
+    "document_id": "D1",
+    "question": "What is the maximum amount of continuous leave that may be granted to a Government servant?",
+    "answer": "Five years.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 8",
+      "Rule 12(1)"
+    ],
+    "required_evidence": [
+      "No Government servant shall be granted leave of any kind for a continuous period exceeding five years"
+    ]
+  },
+  {
+    "id": "D1-Q153",
+    "document_id": "D1",
+    "question": "What is the maximum amount of leave preparatory to retirement that may be granted?",
+    "answer": "Earned leave due not exceeding 300 days together with half pay leave due, subject to the condition that such leave extends up to and includes the date of retirement.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Rule 38(1)"
+    ],
+    "required_evidence": [
+      "A Government servant may be permitted by the authority competent to grant leave to take leave preparatory to retirement to the extent of earned leave due, not exceeding 300 days together with half pay leave due, subject to the condition that such leave extends up to and includes the date of retirement."
+    ]
+  },
+  {
+    "id": "D1-Q154",
+    "document_id": "D1",
+    "question": "What is the maximum period of study leave granted to Central Health Service Officers for acquiring postgraduate qualification?",
+    "answer": "Thirty-six months.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 44",
+      "Rule 51(2)"
+    ],
+    "required_evidence": [
+      "In respect of Central Health Service Officers, study leave may be granted for thirty-six months for acquiring postgraduate qualification"
+    ]
+  },
+  {
+    "id": "D1-Q155",
+    "document_id": "D1",
+    "question": "What is the maximum period of child care leave granted during entire service?",
+    "answer": "Seven hundred and thirty days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Rule 43-C(1)"
+    ],
+    "required_evidence": [
+      "a female Government servant and single male Government servant may be granted child care leave by an authority competent to grant leave for a maximum period of seven hundred and thirty days during entire service"
+    ]
+  },
+  {
+    "id": "D1-Q156",
+    "document_id": "D1",
+    "question": "What is the maximum period of maternity leave granted to a female Government servant with less than two surviving children?",
+    "answer": "180 days from the date of its commencement.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 36",
+      "Rule 43(1)"
+    ],
+    "required_evidence": [
+      "A female Government servant (including an apprentice) with less than two surviving children may be granted maternity leave by an authority competent to grant leave for a period of (180 days) from the date of its commencement."
+    ]
+  },
+  {
+    "id": "D1-Q157",
+    "document_id": "D1",
+    "question": "What is the maximum period of paternity leave for child adoption?",
+    "answer": "15 days within a period of six months from the date of valid adoption.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 37",
+      "Rule 43-AA(1)"
+    ],
+    "required_evidence": [
+      "A male Government servant (including an apprentice) with less than two surviving children, on valid adoption of a child below the age of one year, may be granted Paternity Leave for a period of 15 days within a period of six months from the date of valid adoption."
+    ]
+  },
+  {
+    "id": "D1-Q158",
+    "document_id": "D1",
+    "question": "What is the maximum period of child adoption leave for a female Government servant?",
+    "answer": "180 days immediately after the date of valid adoption.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 38",
+      "Rule 43-B(1)"
+    ],
+    "required_evidence": [
+      "A female Government servant, with fewer than two surviving children, on valid adoption of a child below the age of one year may be granted child adoption leave, by an authority competent to grant leave, for a period of 180 days immediately after the date of valid adoption."
+    ]
+  },
+  {
+    "id": "D1-Q159",
+    "document_id": "D1",
+    "question": "If a Government servant on leave preparatory to retirement is required to return to duty for employment under the Central Government before retirement, what happens to the unexpired portion of leave?",
+    "answer": "The unexpired portion of the leave from the date of rejoining shall be cancelled.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 9",
+      "Rule 13(3)(a)"
+    ],
+    "required_evidence": [
+      "In case a Government servant who has proceeded on leave preparatory to retirement is required, before the date of retirement for employment during such leave in any post under the Central Government in or outside India and is agreeable to return to duty, the unexpired portion of the leave from the date of rejoining shall be cancelled."
+    ]
+  },
+  {
+    "id": "D1-Q160",
+    "document_id": "D1",
+    "question": "What must the order sanctioning leave indicate regarding the leave balance?",
+    "answer": "The balance of earned leave/half pay leave at the credit of the Government servant.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 10",
+      "Rule 16(1) Note"
+    ],
+    "required_evidence": [
+      "The order sanctioning leave shall indicate the balance of earned leave/half pay leave at the credit of the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q161",
+    "document_id": "D1",
+    "question": "For what maximum period may the Audit Officer issue a provisional leave salary slip to a Gazetted Government servant?",
+    "answer": "For a period not exceeding sixty days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 11",
+      "Rule 16(2)(c)"
+    ],
+    "required_evidence": [
+      "In the case of Gazetted Government servants, the Audit Officer may, at the request of the authority competent to grant leave, issue a provisional leave salary slip for a period not exceeding sixty days."
+    ]
+  },
+  {
+    "id": "D1-Q162",
+    "document_id": "D1",
+    "question": "What undertaking must be taken from a Government servant in case of leave preparatory to retirement or cash payment in lieu of leave at credit?",
+    "answer": "An undertaking for recovery of the leave salary, if any, paid in excess.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 11",
+      "Rule 16 Note"
+    ],
+    "required_evidence": [
+      "In the case of leave preparatory to retirement or where cash payment in lieu of leave at credit is granted under Rule 39, an undertaking for recovery of the leave salary, if any, paid in excess, shall be taken from the Government servant."
+    ]
+  },
+  {
+    "id": "D1-Q163",
+    "document_id": "D1",
+    "question": "What is stated in Rule 18 of the Central Civil Services (Leave) Rules, 1972?",
+    "answer": "Deleted.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 11",
+      "Rule 18"
+    ],
+    "required_evidence": [
+      "18. Deleted."
+    ]
+  },
+  {
+    "id": "D1-Q164",
+    "document_id": "D1",
+    "question": "Who may the authority competent to grant leave request to secure a second medical opinion?",
+    "answer": "A Government Medical Officer not below the rank of a Civil Surgeon or Staff Surgeon.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Rule 19(3)"
+    ],
+    "required_evidence": [
+      "The authority competent to grant leave may, at its discretion, secure a second medical opinion by requesting a Government Medical Officer not below the rank of a Civil Surgeon or Staff Surgeon, to have the applicant medically examined on the earliest possible date."
+    ]
+  },
+  {
+    "id": "D1-Q165",
+    "document_id": "D1",
+    "question": "What is the duty of the Government Medical Officer referred to in Rule 19(3)?",
+    "answer": "To express an opinion both as regards the facts of the illness and as regards the necessity for the amount of leave recommended.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Rule 19(4)"
+    ],
+    "required_evidence": [
+      "It shall be the duty of the Government Medical Officer referred to in sub-rule (3) to express an opinion both as regards the facts of the illness and as regards the necessity for the amount of leave recommended and for that purpose may either require the applicant to appear before himself or before a Medical Officer nominated by himself."
+    ]
+  },
+  {
+    "id": "D1-Q166",
+    "document_id": "D1",
+    "question": "Does the grant of a medical certificate under Rule 19 confer any right to leave upon the Government servant?",
+    "answer": "No, it does not in itself confer any right to leave.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Rule 19(5)"
+    ],
+    "required_evidence": [
+      "The grant of medical certificate under this rule does not in itself confer upon the Government servant concerned any right to leave; the medical certificate shall be forwarded to the authority competent to grant leave and orders of that authority awaited."
+    ]
+  },
+  {
+    "id": "D1-Q167",
+    "document_id": "D1",
+    "question": "For what maximum period may the authority competent to grant leave waive the production of a medical certificate?",
+    "answer": "For a period not exceeding three days at a time.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Rule 19(6)"
+    ],
+    "required_evidence": [
+      "The authority competent to grant leave may, in its discretion, waive the production of a medical certificate in case of an application for leave for a period not exceeding three days at a time."
+    ]
+  },
+  {
+    "id": "D1-Q168",
+    "document_id": "D1",
+    "question": "How shall leave be treated when the production of a medical certificate has been waived?",
+    "answer": "It shall not be treated as leave on medical certificate and shall be debited against leave other than leave on medical grounds.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 13",
+      "Rule 19(6)"
+    ],
+    "required_evidence": [
+      "Such leave shall not, however, be treated as leave on medical certificate and shall be debited against leave other than leave on medical grounds."
+    ]
+  },
+  {
+    "id": "D1-Q169",
+    "document_id": "D1",
+    "question": "Who may waive the application of Clause (a) of the proviso to Rule 22(1) on condition that the departing Government servant remains responsible for moneys in his charge?",
+    "answer": "The Head of Department.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 15",
+      "Rule 22(2)"
+    ],
+    "required_evidence": [
+      "On condition that the departing Government servant remains responsible for the moneys in this charge, the Head of Department may, in any particular case, waive the application of Clause (a) of the proviso to subrule (1)."
+    ]
+  },
+  {
+    "id": "D1-Q170",
+    "document_id": "D1",
+    "question": "If holidays are prefixed to leave, from when do the leave and any consequent rearrangement of pay and allowances take effect?",
+    "answer": "From the day after the holidays.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 15",
+      "Rule 22(3)(a)"
+    ],
+    "required_evidence": [
+      "if holidays are prefixed to leave, the leave and any consequent rearrangement of pay and allowances take effect from the day after the holidays; and"
+    ]
+  },
+  {
+    "id": "D1-Q171",
+    "document_id": "D1",
+    "question": "If holidays are suffixed to leave, from when is the leave treated as having terminated and pay and allowances rearranged?",
+    "answer": "From the day on which the leave would have ended if holidays had not been suffixed.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 15",
+      "Rule 22(3)(b)"
+    ],
+    "required_evidence": [
+      "if holidays are suffixed to leave, the leave is treated as having terminated and any consequent rearrangement of pay and allowances take effect from the day on which the leave would have ended if holidays had not been suffixed."
+    ]
+  },
+  {
+    "id": "D1-Q172",
+    "document_id": "D1",
+    "question": "What may be treated as a holiday for the purpose of combining holidays with leave under Rule 22?",
+    "answer": "A compensatory leave granted in lieu of duty performed by a Government servant on Sunday or a holiday for a full day.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 15",
+      "Rule 22 Note"
+    ],
+    "required_evidence": [
+      "A compensatory leave granted in lieu of duty performed by a Government servant on Sunday or a holiday for a full day may be treated as a holiday for the above purpose."
+    ]
+  },
+  {
+    "id": "D1-Q173",
+    "document_id": "D1",
+    "question": "When a Government servant is recalled to duty from leave in India, from what date is he treated as on duty and what is he entitled to draw?",
+    "answer": "He is treated as on duty from the date on which he starts for the station to which he is ordered, and is entitled to travelling allowance for the journey and leave salary until he joins his post at the same rate as but for recall.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 16",
+      "Rule 23(3)(a)"
+    ],
+    "required_evidence": [
+      "if the leave from which he is recalled is in India, to be treated as on duty from the date on which he starts for the station to which he is ordered, and to draw - (i) travelling allowance under rules made in this behalf for the journey; and (ii) leave salary, until he joins his post, at the same rate at which he would have drawn it but for recall to duty;"
+    ]
+  },
+  {
+    "id": "D1-Q174",
+    "document_id": "D1",
+    "question": "When a Government servant is recalled from leave out of India, under what condition is he entitled to refund of his passage from India?",
+    "answer": "If he has not completed half the period of his leave by the date of leaving for India on recall or three months, whichever is shorter.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 16",
+      "Rule 23(3)(b)(iii)"
+    ],
+    "required_evidence": [
+      "refund of his passage from India if he has not completed half the period of his leave by the date of leaving for India on recall or three months, whichever is shorter;"
+    ]
+  },
+  {
+    "id": "D1-Q175",
+    "document_id": "D1",
+    "question": "Can a Government servant on leave preparatory to retirement return to duty without consent?",
+    "answer": "No, he is precluded from returning to duty save with the consent of the authority competent to appoint him to the post from which he proceeded on leave preparatory to retirement.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 16",
+      "Rule 24(2)"
+    ],
+    "required_evidence": [
+      "Notwithstanding anything contained in sub-rule (1), a Government servant on leave preparatory to retirement shall be precluded from returning to duty, save with the consent of the authority competent to appoint him to the post from which he proceeded on leave preparatory to retirement."
+    ]
+  },
+  {
+    "id": "D1-Q176",
+    "document_id": "D1",
+    "question": "From whom must a Gazetted officer obtain a medical certificate of fitness to return to duty?",
+    "answer": "From a Medical Board, except in specified cases.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 17",
+      "Rule 24(3)(b)"
+    ],
+    "required_evidence": [
+      "If the Government servant is a gazetted officer the certificate under clause (a) shall be obtained from a Medical Board, except in the following cases:- (i) Cases in which the leave is for not more than three months; (ii) Cases in which leave is for more than three months or leave for three months or less is extended beyond three months, and the medical Board states, at the time of granting the original certificate or the certificate for extension, that the Government servant need not appear before another Medical Board for obtaining the certificate of fitness."
+    ]
+  },
+  {
+    "id": "D1-Q177",
+    "document_id": "D1",
+    "question": "Who may sign the fitness certificate for a non-Gazetted Government servant returning from leave?",
+    "answer": "A Registered Medical Practitioner.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 17",
+      "Rule 24(3)(d)"
+    ],
+    "required_evidence": [
+      "In the case of a non-Gazetted Government servant, the authority under which the Government servant is employed on return from leave may, in its discretion, accept a certificate signed by a Registered Medical Practitioner."
+    ]
+  },
+  {
+    "id": "D1-Q178",
+    "document_id": "D1",
+    "question": "Is a Government servant returning from leave entitled to resume the post he held before going on leave as a matter of course?",
+    "answer": "No, he is not entitled in the absence of specific orders to that effect.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 17",
+      "Rule 24(4)(a)"
+    ],
+    "required_evidence": [
+      "A Government servant returning from leave is not entitled, in the absence of specific orders to that effect, to resume as a matter of course the post which he held before going on leave."
+    ]
+  },
+  {
+    "id": "D1-Q179",
+    "document_id": "D1",
+    "question": "What note is given regarding a Government servant who had been suffering from Tuberculosis?",
+    "answer": "He may be allowed to resume duty on the basis of a fitness certificate which recommends light work for him.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 17",
+      "Rule 24 Note"
+    ],
+    "required_evidence": [
+      "A Government servant who had been suffering from Tuberculosis may be allowed to resume duty on the basis of fitness certificate which recommends light work for him."
+    ]
+  },
+  {
+    "id": "D1-Q180",
+    "document_id": "D1",
+    "question": "What is the consequence of wilful absence from duty after the expiry of leave?",
+    "answer": "It renders a Government servant liable to disciplinary action.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 18",
+      "Rule 25(2)"
+    ],
+    "required_evidence": [
+      "Wilful absence from duty after the expiry of leave renders a Government servant liable to disciplinary action."
+    ]
+  },
+  {
+    "id": "D1-Q181",
+    "document_id": "D1",
+    "question": "What is credited to the leave account of a Government servant not in permanent employ who is appointed substantively to a permanent post without interruption of service?",
+    "answer": "The earned leave which would have been admissible if his previous duty had been rendered as a Government servant in permanent employ, diminished by any earned leave already taken.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 19",
+      "Rule 26(1)(c)(i)"
+    ],
+    "required_evidence": [
+      "Where a Government servant not in permanent employ or quasi- permanent employ is appointed without interruption of service substantively to a permanent post or declared as quasi permanent, his leave account shall be credited with the earned leave which would have been admissible, if his previous duty had been rendered as a Government servant in permanent employ diminished by any earned leave already taken."
+    ]
+  },
+  {
+    "id": "D1-Q182",
+    "document_id": "D1",
+    "question": "Into what may extraordinary leave be converted when a Government servant had availed it since the date of permanent or quasi-permanent appointment?",
+    "answer": "It may be converted into earned leave to the extent it is due and admissible as a result of recasting of his leave account.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 19",
+      "Rule 26(1)(c)(ii)"
+    ],
+    "required_evidence": [
+      "Where a Government servant had availed of extraordinary leave since the date of permanent appointment or quasi- permanent appointment, such leave may, subject to the provisions of rule 10, be converted into earned leave to the extent it is due and admissible as a result of recasting of his leave account."
+    ]
+  },
+  {
+    "id": "D1-Q183",
+    "document_id": "D1",
+    "question": "When does a period spent in foreign service count as duty for the purpose of earned leave under Rule 26?",
+    "answer": "If contribution towards leave salary is paid on account of such period.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Rule 26(1)(d)"
+    ],
+    "required_evidence": [
+      "A period spent in foreign service shall count as duty for purposes of this rule, if contribution towards leave salary is paid on account of such period."
+    ]
+  },
+  {
+    "id": "D1-Q184",
+    "document_id": "D1",
+    "question": "What is the earned leave admissible to a Government servant of non-Asiatic domicile recruited in India before 1st February, 1949 and entitled to leave passage?",
+    "answer": "One-seventh of the period spent on duty, and he ceases to earn such leave when the earned leave due amounts to 180 days.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 19",
+      "Rule 26 Exception"
+    ],
+    "required_evidence": [
+      "The earned leave admissible to a Government servant of non- Asiatic domicile recruited in India, who is in continuous service from a date prior to the 1st February, 1949 and is entitled to leave passage, is one- seventh of the period spent on duty and he ceases to earn such leave when the earned leave due amounts to 180 days."
+    ]
+  },
+  {
+    "id": "D1-Q185",
+    "document_id": "D1",
+    "question": "How are fractions of a day rounded off while affording credit of earned leave?",
+    "answer": "To the nearest day.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 20",
+      "Rule 27(4)"
+    ],
+    "required_evidence": [
+      "While affording credit of earned leave, fractions of a day shall be rounded off to the nearest day."
+    ]
+  },
+  {
+    "id": "D1-Q186",
+    "document_id": "D1",
+    "question": "If a Government servant serving in a Vacation Department does not avail any vacation in a year, how is earned leave calculated?",
+    "answer": "As per Rule 26 instead of Clauses (a) and (b).",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Rule 28(1)(c)"
+    ],
+    "required_evidence": [
+      "If, in any year, the Government servant does not avail any vacation, earned leave will be as per Rule 26 instead of Clauses (a) and (b)."
+    ]
+  },
+  {
+    "id": "D1-Q187",
+    "document_id": "D1",
+    "question": "What is the limit on total duration of vacation and earned leave taken in conjunction under Rule 28?",
+    "answer": "It shall not exceed the amount of earned leave due and admissible at a time under Rule 26.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 21",
+      "Rule 28(2) Proviso"
+    ],
+    "required_evidence": [
+      "Provided that the total duration of vacation and earned leave taken in conjunction, whether the earned leave is taken in combination with or in continuation of other leave or not, shall not exceed the amount of earned leave due and admissible to the Government at a time under Rule 26."
+    ]
+  },
+  {
+    "id": "D1-Q188",
+    "document_id": "D1",
+    "question": "What is the entitlement of a Government servant eligible for Departmental leave under Rule 49?",
+    "answer": "Half pay leave of twenty days on completion of twelve months of actual duty.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 22",
+      "Rule 29(3)"
+    ],
+    "required_evidence": [
+      "A Government servant who is eligible for Departmental leave under Rule 49, shall be entitled to half pay leave of twenty days on completion of twelve months of actual duty."
+    ]
+  },
+  {
+    "id": "D1-Q189",
+    "document_id": "D1",
+    "question": "On what grounds may half pay leave be granted under Rule 29?",
+    "answer": "On medical certificate or on private affairs.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 23",
+      "Rule 29(4)"
+    ],
+    "required_evidence": [
+      "The leave under this rule may be granted on medical certificate or on private affairs."
+    ]
+  },
+  {
+    "id": "D1-Q190",
+    "document_id": "D1",
+    "question": "If a Government servant who has been granted commuted leave resigns without returning to duty, how is the commuted leave treated?",
+    "answer": "It shall be treated as half pay leave and the difference between leave salary for commuted leave and half pay leave shall be recovered.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 23",
+      "Rule 30(2)"
+    ],
+    "required_evidence": [
+      "Where a Government servant who has been granted commuted leave resigns from service or at his request permitted to retire voluntarily without returning to duty, the commuted leave shall be treated as half pay leave and the difference between the leave salary in respect of commuted leave and half pay leave shall be recovered:"
+    ]
+  },
+  {
+    "id": "D1-Q191",
+    "document_id": "D1",
+    "question": "What happens if a Government servant who has been granted Leave Not Due resigns without returning to duty?",
+    "answer": "The Leave Not Due shall be cancelled, his resignation or retirement takes effect from the date the leave commenced, and the leave salary shall be recovered.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 24",
+      "Rule 31(2)(a)"
+    ],
+    "required_evidence": [
+      "Where a Government servant who has been granted Leave Not Due resigns form service or at his request permitted to retire voluntarily without returning to duty, the Leave Not Due shall be cancelled, his resignation or retirement taking effect from the date on which such leave had commenced, and the leave salary shall be recovered."
+    ]
+  },
+  {
+    "id": "D1-Q192",
+    "document_id": "D1",
+    "question": "Which Government servants may be granted extraordinary leave for attending the Pre-Examination Training Course?",
+    "answer": "Government servants belonging to the Scheduled Castes or the Scheduled Tribes.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 26",
+      "Rule 32(4)"
+    ],
+    "required_evidence": [
+      "Government servants belonging to the Scheduled Castes or the Scheduled tribes may, for the purpose of attending the Pre- Examination Training Course at the centers notified by the Government from time to time, be granted extraordinary leave by Head of Department in relaxation of the provisions of sub-rule (2)."
+    ]
+  },
+  {
+    "id": "D1-Q193",
+    "document_id": "D1",
+    "question": "How are two spells of extraordinary leave treated if intervened by any other kind of leave?",
+    "answer": "They shall be treated as one continuous spell of extraordinary leave for the purposes of sub-rule (2).",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 26",
+      "Rule 32(5)"
+    ],
+    "required_evidence": [
+      "Two spells of extraordinary leave, if intervened by any other kind of leave, shall be treated as one continuous spell of extraordinary leave for the purposes of sub-rule (2)."
+    ]
+  },
+  {
+    "id": "D1-Q194",
+    "document_id": "D1",
+    "question": "What may the authority competent to grant leave commute retrospectively?",
+    "answer": "Periods of absence without leave into extraordinary leave.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 26",
+      "Rule 32(6)"
+    ],
+    "required_evidence": [
+      "The authority competent to grant leave may commute retrospectively periods of absence without leave into extraordinary leave."
+    ]
+  },
+  {
+    "id": "D1-Q195",
+    "document_id": "D1",
+    "question": "If it is proposed to terminate the services of a probationer, beyond what date shall any leave granted to him not extend?",
+    "answer": "It shall not extend beyond the date on which the probationary period as already sanctioned or extended expires, or beyond any earlier date on which his services are terminated by order of the appointing authority.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 26",
+      "Rule 33(1)(b)"
+    ],
+    "required_evidence": [
+      "If, for any reason, it is proposed to terminate the services of a probationer, any leave which may be granted to him shall not extend - (i) beyond the date on which the probationary period as already sanctioned or extended expires, or (ii) beyond any earlier date on which his services are terminated by the orders of an authority competent to appoint him."
+    ]
+  },
+  {
+    "id": "D1-Q196",
+    "document_id": "D1",
+    "question": "How is a person appointed to a post on probation entitled to leave under these rules?",
+    "answer": "As a temporary or a permanent Government servant according as his appointment is against a temporary or a permanent post.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 27",
+      "Rule 33(2)"
+    ],
+    "required_evidence": [
+      "A person appointed to a post on probation shall be entitled to leave under these rules as a temporary or a permanent Government servant according as his appointment is against a temporary or a permanent post:"
+    ]
+  },
+  {
+    "id": "D1-Q197",
+    "document_id": "D1",
+    "question": "Who decides whether to grant or refuse leave preparatory to retirement to a Government servant on foreign service in a local body?",
+    "answer": "The foreign employer with the concurrence of the lending authority under the Central Government.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 28",
+      "Rule 38(2)(a)"
+    ],
+    "required_evidence": [
+      "Where a Government servant who is on foreign service in or under any Local Authority or a Corporation or Company wholly or substantially owned or controlled by the Government or a Body controlled or financed by the Government (hereinafter referred to as the local body) applies for leave preparatory to retirement, the decision to grant or refuse such leave shall be taken by foreign employer with the concurrence of the lending authority under Central Government."
+    ]
+  },
+  {
+    "id": "D1-Q198",
+    "document_id": "D1",
+    "question": "When is leave preparatory to retirement admissible to a Government servant on foreign service under a local body other than the one mentioned in Rule 38(2)(a)?",
+    "answer": "Only when he quits duty under the foreign employer.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 28",
+      "Rule 38(3)"
+    ],
+    "required_evidence": [
+      "Where a Government servant is on foreign service in or under a local body other than the one mentioned in Clause (a) of sub-rule (2), leave preparatory to retirement shall be admissible to him only when he quits duty under the foreign employer:"
+    ]
+  },
+  {
+    "id": "D1-Q199",
+    "document_id": "D1",
+    "question": "Under what circumstances may the authority competent to grant leave withhold whole or part of cash equivalent of earned leave on retirement?",
+    "answer": "If the Government servant retires while under suspension or while disciplinary or criminal proceedings are pending, and there is a possibility of money becoming recoverable from him.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 31",
+      "Rule 39(3)"
+    ],
+    "required_evidence": [
+      "The authority competent to grant leave may withhold whole or part of cash equivalent of earned leave in the case of a Government servant who retires from service on attaining the age of retirement while under suspension or while disciplinary or criminal proceedings are pending against him, if in the view of such authority there is a possibility of some money becoming recoverable from him on conclusion of the proceedings against him on conclusion of the proceedings, he will become eligible to the amount so withheld after adjustment of Government dues, if any."
+    ]
+  },
+  {
+    "id": "D1-Q200",
+    "document_id": "D1",
+    "question": "During the period of extension of service beyond retirement in public interest, what earned leave may be granted?",
+    "answer": "Any earned leave due in respect of the period of extension plus the earned leave at credit on the date of retirement, subject to a maximum of 180 days or 300 days as prescribed in Rule 26.",
+    "question_type": "numerical",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 31",
+      "Rule 39(4)(a)(i)"
+    ],
+    "required_evidence": [
+      "Where the service of a Government servant has been extended, in the interest of public service beyond the date of his retirement, he may be granted - (i) during the period of extension, any earned leave due in respect of the period of such extension plus the earned leave which was at his credit on the date of his retirement subject to a maximum of 180 days / 300 days as the case may be, as prescribed in Rule 26."
+    ]
+  }
+]

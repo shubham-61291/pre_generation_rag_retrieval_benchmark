@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "D2-Q001",
+    "document_id": "D2",
+    "question": "What are the Central Civil Services (Conduct) Rules, 1964 called?",
+    "answer": "Central Civil Services (Conduct) Rules, 1964.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "These rules may be called the Central Civil Services (Conduct) Rules, 1964."
+    ]
+  },
+  {
+    "id": "D2-Q002",
+    "document_id": "D2",
+    "question": "When shall the Central Civil Services (Conduct) Rules, 1964 come into force?",
+    "answer": "At once.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "They shall come into force at once."
+    ]
+  },
+  {
+    "id": "D2-Q003",
+    "document_id": "D2",
+    "question": "To which persons do the Central Civil Services (Conduct) Rules, 1964 apply?",
+    "answer": "Every person appointed to a civil service or post (including a civilian in Defence Service) in connection with the affairs of the Union.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "these rules shall apply to every person appointed to a civil service or post (including a civilian in Defence Service) in connection with the affairs of the Union"
+    ]
+  },
+  {
+    "id": "D2-Q004",
+    "document_id": "D2",
+    "question": "Do these rules apply to a railway servant as defined in Section 3 of the Indian Railways Act, 1890?",
+    "answer": "No.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "nothing in these rules shall apply to any Government servant who is - (a) (i) a railway servant as defined in Section 3 of the Indian Railways Act, 1890"
+    ]
+  },
+  {
+    "id": "D2-Q005",
+    "document_id": "D2",
+    "question": "Do these rules apply to a member of an All India Service?",
+    "answer": "No.",
+    "question_type": "negative_query",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "a member of an All India Service"
+    ]
+  },
+  {
+    "id": "D2-Q006",
+    "document_id": "D2",
+    "question": "Which rules shall not apply to a Government servant who draws pay not exceeding Rs.500 per mensem and holds a non-gazetted post in specified establishments?",
+    "answer": "Rules 4, 6, 7, 12, 14, sub-rule (3) of Rule 15, Rule 16, sub-rules (1), (2) and (3) of Rule 18, Rules 19, 20 and 21.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "Rules 4,6,7,12,14, sub- rule (3) of Rule 15, Rule 16, sub- rules (1), (2) and (3) of Rule 18, Rules 19, 20 and 21 shall not apply"
+    ]
+  },
+  {
+    "id": "D2-Q007",
+    "document_id": "D2",
+    "question": "What does the expression 'establishment' not include for the purposes of the second proviso to Rule 1?",
+    "answer": "Any railway establishment or any office mainly concerned with administrative, managerial, supervisory, security or welfare functions.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 1",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the expression 'establishment' shall not include any railway establishment or any office mainly concerned with administrative, managerial, supervisory, security or welfare functions."
+    ]
+  },
+  {
+    "id": "D2-Q008",
+    "document_id": "D2",
+    "question": "What does 'The Government' mean under the CCS (Conduct) Rules, 1964?",
+    "answer": "The Central Government.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "means the Central Government"
+    ]
+  },
+  {
+    "id": "D2-Q009",
+    "document_id": "D2",
+    "question": "Who is a 'Government servant' under these rules?",
+    "answer": "Any person appointed by Government to any civil service or post in connection with the affairs of the Union and includes a civilian in a Defence Service.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "any person appointed by Government to any civil service or post in connection with the affairs of the Union and includes a civilian in a Defence Service"
+    ]
+  },
+  {
+    "id": "D2-Q010",
+    "document_id": "D2",
+    "question": "How is a Government servant whose services are placed at the disposal of a company, corporation, organisation or local authority treated under these rules?",
+    "answer": "Deemed to be a Government servant serving under the Government.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "shall, for the purpose of these rules, be deemed to be a Government servant serving under the Government"
+    ]
+  },
+  {
+    "id": "D2-Q011",
+    "document_id": "D2",
+    "question": "Does 'members of family' include the wife or husband whether residing with the Government servant or not?",
+    "answer": "Yes, whether residing with the Government servant or not.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "whether residing with the Government servant or not"
+    ]
+  },
+  {
+    "id": "D2-Q012",
+    "document_id": "D2",
+    "question": "Does 'members of family' include a wife or husband separated by a decree or order of a competent Court?",
+    "answer": "No.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "but does not include a wife or husband, as the case may be, separated from the Government servant by a decree or order of a competent Court"
+    ]
+  },
+  {
+    "id": "D2-Q013",
+    "document_id": "D2",
+    "question": "Does 'members of family' include a son or daughter wholly dependent on the Government servant?",
+    "answer": "Yes.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "son or daughter or step- son or step- daughter of the Government servant and wholly dependent on him"
+    ]
+  },
+  {
+    "id": "D2-Q014",
+    "document_id": "D2",
+    "question": "Does 'members of family' include any other person related by blood or marriage and wholly dependent on the Government servant?",
+    "answer": "Yes.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 2",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "any other person related, whether by blood or marriage to the Government servant or to the Government servant's wife or husband, and wholly dependent on the Government servant."
+    ]
+  },
+  {
+    "id": "D2-Q015",
+    "document_id": "D2",
+    "question": "What are the three general duties of every Government servant under Rule 3(1)(i) to (iii)?",
+    "answer": "Maintain absolute integrity, maintain devotion to duty, and do nothing which is unbecoming of a Government servant.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "maintain absolute integrity; (ii) maintain devotion to duty; and (iii) do nothing which is unbecoming of a Government servant."
+    ]
+  },
+  {
+    "id": "D2-Q016",
+    "document_id": "D2",
+    "question": "What does Rule 3(1)(iv) require regarding the Constitution?",
+    "answer": "Commit himself to and uphold the supremacy of the Constitution and democratic values.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "commit himself to and uphold the supremacy of the Constitution and democratic values"
+    ]
+  },
+  {
+    "id": "D2-Q017",
+    "document_id": "D2",
+    "question": "What does Rule 3(1)(v) require a Government servant to defend and uphold?",
+    "answer": "Sovereignty and integrity of India, the security of the State, public order, decency and morality.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "defend and uphold the sovereignty and integrity of India, the security of the State, public order, decency and morality"
+    ]
+  },
+  {
+    "id": "D2-Q018",
+    "document_id": "D2",
+    "question": "What does Rule 3(1)(vii) require a Government servant to maintain?",
+    "answer": "Political neutrality.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "maintain political neutrality"
+    ]
+  },
+  {
+    "id": "D2-Q019",
+    "document_id": "D2",
+    "question": "To whom must a Government servant maintain responsiveness under Rule 3(1)(x)?",
+    "answer": "The public, particularly the weaker section.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "maintain responsiveness to the public, particularly to the weaker section"
+    ]
+  },
+  {
+    "id": "D2-Q020",
+    "document_id": "D2",
+    "question": "Under Rule 3(1)(xii), in whose interest shall decisions be taken?",
+    "answer": "Solely in public interest.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "take decisions solely in public interest"
+    ]
+  },
+  {
+    "id": "D2-Q021",
+    "document_id": "D2",
+    "question": "Under Rule 3(1)(xvii), against whom should a Government servant not discriminate?",
+    "answer": "Anyone, particularly the poor and the under-privileged sections of society.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "act with fairness and impartiality and not discriminate against anyone, particularly the poor and the under- privileged sections of society"
+    ]
+  },
+  {
+    "id": "D2-Q022",
+    "document_id": "D2",
+    "question": "What does Rule 3(1)(xx) require regarding confidentiality?",
+    "answer": "Maintain confidentiality in the performance of official duties as required by laws in force.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "maintain confidentiality in the performance of his official duties as required by any laws for the time being in force"
+    ]
+  },
+  {
+    "id": "D2-Q023",
+    "document_id": "D2",
+    "question": "What must a Government servant holding a supervisory post do under Rule 3(2)(i)?",
+    "answer": "Take all possible steps to ensure the integrity and devotion to duty of all Government servants under his control and authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "take all possible steps to ensure the integrity and devotion to duty of all Government servants for the time being under his control and authority"
+    ]
+  },
+  {
+    "id": "D2-Q024",
+    "document_id": "D2",
+    "question": "When may a Government servant act otherwise than in his best judgement under Rule 3(2)(ii)?",
+    "answer": "When he is acting under the direction of his official superior.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "act otherwise than in his best judgement except when he is acting under the direction of his official superior"
+    ]
+  },
+  {
+    "id": "D2-Q025",
+    "document_id": "D2",
+    "question": "In what form shall the direction of an official superior ordinarily be?",
+    "answer": "In writing.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "The direction of the official superior shall ordinarily be in writing."
+    ]
+  },
+  {
+    "id": "D2-Q026",
+    "document_id": "D2",
+    "question": "How should oral directions to subordinates be treated?",
+    "answer": "They shall be avoided as far as possible.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "Oral direction to subordinates shall be avoided, as far as possible."
+    ]
+  },
+  {
+    "id": "D2-Q027",
+    "document_id": "D2",
+    "question": "What must an official superior do if an oral direction is unavoidable?",
+    "answer": "Confirm it in writing immediately thereafter.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "the official superior shall confirm it in writing immediately thereafter"
+    ]
+  },
+  {
+    "id": "D2-Q028",
+    "document_id": "D2",
+    "question": "What is a Government servant deemed to be if he habitually fails to perform the assigned task within the time set and with expected quality?",
+    "answer": "Lacking in devotion to duty.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "shall be deemed to be lacking in devotion to duty"
+    ]
+  },
+  {
+    "id": "D2-Q029",
+    "document_id": "D2",
+    "question": "What does Rule 3-A prohibit in the performance of official duties?",
+    "answer": "Acting in a discourteous manner.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3-A",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "in the performance of his official duties, act in a discourteous manner"
+    ]
+  },
+  {
+    "id": "D2-Q030",
+    "document_id": "D2",
+    "question": "What dilatory tactics does Rule 3-A prohibit?",
+    "answer": "Adopting dilatory tactics or wilfully causing delays in disposal of work assigned.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3-A",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "adopt dilatory tactics or wilfully cause delays in disposal of the work assigned to him"
+    ]
+  },
+  {
+    "id": "D2-Q031",
+    "document_id": "D2",
+    "question": "Which Government policies must every Government servant act in accordance with under Rule 3-B?",
+    "answer": "Age of marriage, preservation of environment, protection of wildlife and cultural heritage.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3-B",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "act in accordance with the Government's policies regarding age of marriage, preservation of environment, protection of wildlife and cultural heritage"
+    ]
+  },
+  {
+    "id": "D2-Q032",
+    "document_id": "D2",
+    "question": "Which Government policies must be observed under Rule 3-B regarding crime?",
+    "answer": "Prevention of crime against women.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3-B",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "observe the Government's policies regarding prevention of crime against women"
+    ]
+  },
+  {
+    "id": "D2-Q033",
+    "document_id": "D2",
+    "question": "What does Rule 3-C prohibit a Government servant from indulging in at any work place?",
+    "answer": "Sexual harassment of any woman.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "No Government servant shall indulge in any act of sexual harassment of any woman at any work place."
+    ]
+  },
+  {
+    "id": "D2-Q034",
+    "document_id": "D2",
+    "question": "What must a Government servant in charge of a work place do under Rule 3-C(2)?",
+    "answer": "Take appropriate steps to prevent sexual harassment to any woman at the work place.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "take appropriate steps to prevent sexual harassment to any woman at the work place"
+    ]
+  },
+  {
+    "id": "D2-Q035",
+    "document_id": "D2",
+    "question": "What acts or behaviour are included in 'sexual harassment' under Rule 3-C?",
+    "answer": "Physical contact and advances; demand or request for sexual favours; sexually coloured remarks; showing pornography; any other unwelcome physical, verbal, non-verbal conduct of a sexual nature.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "physical contact and advances; or (ii) a demand or request for sexual favours; or (iii) making sexually coloured remarks; or (iv) showing pornography; or (i) any other unwelcome physical, verbal, non-verbal conduct of a sexual nature."
+    ]
+  },
+  {
+    "id": "D2-Q036",
+    "document_id": "D2",
+    "question": "What departments, organisations or units are included in 'workplace' under Rule 3-C?",
+    "answer": "Any department, organisation, undertaking, establishment, enterprise, institution, office, branch or unit established, owned, controlled or wholly or substantially financed by funds provided directly or indirectly by the Central Government.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "any department, organisation, undertaking, establishment, enterprise, institution, office, branch or unit which is established, owned, controlled or wholly or substantially financed by funds provided directly or indirectly by the Central Government"
+    ]
+  },
+  {
+    "id": "D2-Q037",
+    "document_id": "D2",
+    "question": "What does Rule 4(1) prohibit a Government servant from using his position or influence to secure?",
+    "answer": "Employment for any member of his family in any company or firm.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "No Government servant shall use his position or influence directly or indirectly to secure employment for any member of his family in any 16company or firm"
+    ]
+  },
+  {
+    "id": "D2-Q038",
+    "document_id": "D2",
+    "question": "Under Rule 4(2)(i), what is required for a Class I Officer to permit his son, daughter or other dependant to accept employment in a company or firm with official dealings?",
+    "answer": "Previous sanction of the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "No Class I Officer shall, except with the previous sanction of the Government, permit his son, daughter or other dependant, to accept employment in any 16company or firm with which he has official dealings"
+    ]
+  },
+  {
+    "id": "D2-Q039",
+    "document_id": "D2",
+    "question": "If acceptance of employment cannot await prior permission of the Government, what must be done?",
+    "answer": "The matter shall be reported to the Government, and the employment may be accepted provisionally subject to the permission of the Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "the matter shall be reported to the Government; and the employment may be accepted provisionally subject to the permission of the Government."
+    ]
+  },
+  {
+    "id": "D2-Q040",
+    "document_id": "D2",
+    "question": "To whom must a Government servant intimate acceptance by a family member of employment in a company or firm?",
+    "answer": "The prescribed authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "intimate such acceptance to the prescribed authority"
+    ]
+  },
+  {
+    "id": "D2-Q041",
+    "document_id": "D2",
+    "question": "What must a Government servant do if a matter or contract involves a company or firm in which a family member is employed?",
+    "answer": "Refer every such matter or contract to his official superior.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "the Government servant shall refer every such matter or contract to his official superior"
+    ]
+  },
+  {
+    "id": "D2-Q042",
+    "document_id": "D2",
+    "question": "What does Rule 5(1) prohibit a Government servant from being a member of or associated with?",
+    "answer": "Any political party or any organisation which takes part in politics.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 5",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "No Government servant shall be a member of, or be otherwise associated with, any political party or any organisation which takes part in politics"
+    ]
+  },
+  {
+    "id": "D2-Q043",
+    "document_id": "D2",
+    "question": "What is the duty of every Government servant under Rule 5(2) regarding family members?",
+    "answer": "To endeavour to prevent any member of his family from taking part in activities subversive of the Government as by law established.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 5",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "It shall be the duty of every Government servant to endeavour to prevent any member of his family from taking part in"
+    ]
+  },
+  {
+    "id": "D2-Q044",
+    "document_id": "D2",
+    "question": "What does Rule 5(4) prohibit a Government servant from doing in connection with an election to any legislature or local authority?",
+    "answer": "Canvassing or otherwise interfering with, using his influence in connection with, or taking part in the election.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 5",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "No Government servant shall canvass or otherwise interfere with, or use his influence in connection with or take part in an election to any legislature or local authority"
+    ]
+  },
+  {
+    "id": "D2-Q045",
+    "document_id": "D2",
+    "question": "Can a Government servant qualified to vote exercise his right to vote under Rule 5(4)?",
+    "answer": "Yes, but he shall give no indication of the manner in which he proposes to vote or has voted.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 5",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "a Government servant qualified to vote at such election may exercise his right to vote, but where he does so, he shall give no indication of the manner in which he proposes to vote or has voted"
+    ]
+  },
+  {
+    "id": "D2-Q046",
+    "document_id": "D2",
+    "question": "What does the display of an electoral symbol by a Government servant amount to under Rule 5?",
+    "answer": "Using his influence in connection with an election.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 5",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "The display by a Government servant on his person, vehicle or residence of any electoral symbol shall amount to using his influence in connection with an election"
+    ]
+  },
+  {
+    "id": "D2-Q047",
+    "document_id": "D2",
+    "question": "What kind of association is a Government servant prohibited from joining or continuing as a member of under Rule 6?",
+    "answer": "An association whose objects or activities are prejudicial to the interests of the sovereignty and integrity of India, or public order or morality.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 6",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "No Government servant shall join or continue to be a member of, an association the objects or activities of which are prejudicial to the interests of the sovereignty and integrity of India, or public order or morality."
+    ]
+  },
+  {
+    "id": "D2-Q048",
+    "document_id": "D2",
+    "question": "What demonstrations is a Government servant prohibited from engaging in under Rule 7(i)?",
+    "answer": "Demonstrations prejudicial to the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign States, public order, decency or morality, or which involve contempt of court, defamation or incitement to an offence.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 7",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "engage himself or participate in any demonstration which is prejudicial to the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign States, public order, decency or morality, or which involves contempt of court, defamation or incitement to an offence"
+    ]
+  },
+  {
+    "id": "D2-Q049",
+    "document_id": "D2",
+    "question": "What forms of strike-related action are prohibited for Government servants under Rule 7(ii)?",
+    "answer": "Resorting to or abetting any form of strike, coercion or physical duress in connection with any matter pertaining to his service or the service of any other Government servant.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 7",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "resort to or in any way abet any form of strike 10or coercion or physical duress in connection with any matter pertaining to his service or the service of any other Government servant."
+    ]
+  },
+  {
+    "id": "D2-Q050",
+    "document_id": "D2",
+    "question": "Under Rule 8(1), what previous sanction is required for owning or participating in the editing or management of a newspaper or electronic media?",
+    "answer": "Previous sanction of the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 8",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "No Government servant shall, except with the previous sanction of the Government, own wholly or in part, or conduct or participate in the editing or management of, any newspaper or other periodical publication or electronic media."
+    ]
+  },
+  {
+    "id": "D2-Q051",
+    "document_id": "D2",
+    "question": "What exception to Rule 8(1) is provided for a Government servant in bonafide discharge of official duties?",
+    "answer": "Publishing a book or participating in a public media.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 8",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "Nothing in sub-rule (1) shall apply in case a Government servant in the bonafide discharge of his official duties publishes a book or participates in a public media."
+    ]
+  },
+  {
+    "id": "D2-Q052",
+    "document_id": "D2",
+    "question": "What must a Government servant make clear when publishing a book or participating in public media under Rule 8(3)?",
+    "answer": "That the views expressed by him are his own and not that of Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 8",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "shall at all times make it clear that the views expressed by him are his own and not that of Government."
+    ]
+  },
+  {
+    "id": "D2-Q053",
+    "document_id": "D2",
+    "question": "What adverse criticism of policy or action does Rule 9 prohibit a Government servant from making?",
+    "answer": "Adverse criticism of any current or recent policy or action of the Central Government or a State Government.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 9",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "which has the effect of an adverse criticism of any current or recent policy or action of the Central Government or a State Government"
+    ]
+  },
+  {
+    "id": "D2-Q054",
+    "document_id": "D2",
+    "question": "What is the proviso to Rule 9 regarding bonafide expression of views by an office-bearer of a trade union?",
+    "answer": "It applies to bonafide expression of views for safeguarding conditions of service or securing an improvement thereof.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 9",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "bonafide expression of views by him as an office- bearer of a trade union or association of Government servants for the purpose of safeguarding the conditions of service of such Government servants or for securing an improvement thereof"
+    ]
+  },
+  {
+    "id": "D2-Q055",
+    "document_id": "D2",
+    "question": "What kind of statements capable of embarrassing relations between the Central Government and other Governments does Rule 9 prohibit?",
+    "answer": "Statements capable of embarrassing relations between the Central Government and the Government of any State or the Government of any foreign State.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 9",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "which is capable of embarrassing the relations between the Central Government and the Government of any State; or (iii) which is capable of embarrassing the relations between the Central Government and the Government of any foreign State"
+    ]
+  },
+  {
+    "id": "D2-Q056",
+    "document_id": "D2",
+    "question": "Under Rule 10(1), when may a Government servant give evidence in connection with an enquiry conducted by any person, committee or authority?",
+    "answer": "Except with the previous sanction of the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 10",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "no Government servant shall, except with the previous sanction of the Government, give evidence in connection with any enquiry conducted by any person, committee or authority."
+    ]
+  },
+  {
+    "id": "D2-Q057",
+    "document_id": "D2",
+    "question": "What is a Government servant giving evidence under sanction prohibited from criticising under Rule 10(2)?",
+    "answer": "The policy or any action of the Central Government or of a State Government.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 10",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "no Government servant giving such evidence shall criticise the policy or any action of the Central Government or of a State Government."
+    ]
+  },
+  {
+    "id": "D2-Q058",
+    "document_id": "D2",
+    "question": "To which evidence does Rule 10 not apply under Rule 10(3)(a)?",
+    "answer": "Evidence given at an enquiry before an authority appointed by the Government, Parliament or a State Legislature.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 10",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "evidence given at an enquiry before an authority appointed by the Government, Parliament or a State Legislature"
+    ]
+  },
+  {
+    "id": "D2-Q059",
+    "document_id": "D2",
+    "question": "In accordance with which Act shall every Government servant communicate information in performance of duties in good faith under Rule 11?",
+    "answer": "The Right to Information Act, 2005 (22 of 2005) and the rules made thereunder.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 11",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "communicate information to a person in accordance with the Right to Information Act, 2005 (22 of 2005) and the rules made thereunder"
+    ]
+  },
+  {
+    "id": "D2-Q060",
+    "document_id": "D2",
+    "question": "What does the proviso to Rule 11 prohibit communicating except in accordance with general or special order or in good faith performance of duties?",
+    "answer": "Any official document or any part thereof or classified information to any Government servant or any other person to whom he is not authorized to communicate such document or classified information.",
+    "question_type": "negation",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 11",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "no Government servant shall, except in accordance with any general or special order of the Government or in performance in good faith of the duties assigned to him, communicate, directly or indirectly, any official document"
+    ]
+  },
+  {
+    "id": "D2-Q061",
+    "document_id": "D2",
+    "question": "Under Rule 12, what previous sanction is required to ask for or accept contributions or associate with raising funds?",
+    "answer": "Previous sanction of the Government or of the prescribed authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 12",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "No Government servant shall, except with the previous sanction of the Government or of the prescribed authority, ask for or accept contributions"
+    ]
+  },
+  {
+    "id": "D2-Q062",
+    "document_id": "D2",
+    "question": "What does Rule 13 generally prohibit a Government servant from accepting?",
+    "answer": "Any gift.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "Save as provided in these rules, no Government servant shall accept, or permit any member of his family or any other person acting on his behalf to accept, any gift."
+    ]
+  },
+  {
+    "id": "D2-Q063",
+    "document_id": "D2",
+    "question": "What does the expression 'gift' include under the Explanation to Rule 13?",
+    "answer": "Free transport, boarding, lodging or other service or any other pecuniary advantage when provided by any person other than a near relative or personal friend having no official dealings with the Government servant.",
+    "question_type": "paraphrase",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "The expression 'gift' shall include free transport, boarding, lodging or other service or any other pecuniary advantage"
+    ]
+  },
+  {
+    "id": "D2-Q064",
+    "document_id": "D2",
+    "question": "Is a casual meal, lift or other social hospitality deemed to be a gift under Rule 13?",
+    "answer": "No.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "A casual meal, lift or other social hospitality shall not be deemed to be a gift"
+    ]
+  },
+  {
+    "id": "D2-Q065",
+    "document_id": "D2",
+    "question": "What is the gift reporting threshold for a Government servant holding any Group 'A' post on occasions such as weddings, anniversaries, funerals or religious functions?",
+    "answer": "Rupees twenty five thousand.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "rupees twenty five thousand in the case of a Government servant holding any Group 'A' post"
+    ]
+  },
+  {
+    "id": "D2-Q066",
+    "document_id": "D2",
+    "question": "What is the gift reporting threshold for a Government servant holding any Group 'B' post on occasions such as weddings, anniversaries, funerals or religious functions?",
+    "answer": "Rupees fifteen thousand.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "rupees fifteen thousand in the case of a Government servant holding any Group 'B' post"
+    ]
+  },
+  {
+    "id": "D2-Q067",
+    "document_id": "D2",
+    "question": "What is the gift reporting threshold for a Government servant holding any Group 'C' post on occasions such as weddings, anniversaries, funerals or religious functions?",
+    "answer": "Rupees seven thousand five hundred.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "rupees seven thousand five hundred in the case of a Government servant holding any Group 'C' post"
+    ]
+  },
+  {
+    "id": "D2-Q068",
+    "document_id": "D2",
+    "question": "In any other case, what is the gift value limit above which a Group 'A' or Group 'B' Government servant cannot accept a gift without sanction?",
+    "answer": "Rupees one thousand five hundred.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "rupees one thousand five hundred in the case of a Government servant holding any Group 'A' or Group 'B' post"
+    ]
+  },
+  {
+    "id": "D2-Q069",
+    "document_id": "D2",
+    "question": "In any other case, what is the gift value limit above which a Group 'C' or Group 'D' Government servant cannot accept a gift without sanction?",
+    "answer": "Rupees five hundred.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "rupees five hundred in the case of a Government servant holding any Group 'C' or Group 'D' post"
+    ]
+  },
+  {
+    "id": "D2-Q070",
+    "document_id": "D2",
+    "question": "What is the market value limit for gifts from foreign dignitaries that a Government servant may receive and retain on one occasion?",
+    "answer": "Rupees one thousand.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "market value of gifts received on one occasion does not exceed rupees one thousand"
+    ]
+  },
+  {
+    "id": "D2-Q071",
+    "document_id": "D2",
+    "question": "Can a Government servant accept gifts from a foreign firm which is contracting with the Government of India?",
+    "answer": "No.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "A Government servant shall not accept any gifts from any foreign firm which is either contracting with the Government of India"
+    ]
+  },
+  {
+    "id": "D2-Q072",
+    "document_id": "D2",
+    "question": "What does Rule 13-A prohibit regarding dowry?",
+    "answer": "Giving or taking or abetting the giving or taking of dowry.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 13-A",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "No Government servant shall (i) give or take or abet the giving or taking of dowry"
+    ]
+  },
+  {
+    "id": "D2-Q073",
+    "document_id": "D2",
+    "question": "What does Rule 13-A prohibit demanding from the parent or guardian of a bride or bridegroom?",
+    "answer": "Any dowry, directly or indirectly.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13-A",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "demand directly or indirectly, from the parent or guardian of a bride or bridegroom, as the case may be, any dowry."
+    ]
+  },
+  {
+    "id": "D2-Q074",
+    "document_id": "D2",
+    "question": "Under Rule 14, when may a Government servant receive a complimentary or valedictory address?",
+    "answer": "Except with the previous sanction of the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 14",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "No Government servant shall, except with the previous sanction of the Government, receive any complimentary or valedictory address"
+    ]
+  },
+  {
+    "id": "D2-Q075",
+    "document_id": "D2",
+    "question": "What kind of farewell entertainment is exempted from the prohibition in Rule 14?",
+    "answer": "A farewell entertainment of a substantially private and informal character held on the occasion of retirement or transfer.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 14",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "a farewell entertainment of a substantially private and informal character held in honour of a Government servant or any other Government servant on the occasion of his retirement or transfer"
+    ]
+  },
+  {
+    "id": "D2-Q076",
+    "document_id": "D2",
+    "question": "What does the Note to Rule 14 forbid regarding collection of subscriptions from Class III or Class IV employees?",
+    "answer": "Collection of subscriptions from Class III or Class IV employees under any circumstances for the entertainment of any Government servant not belonging to Class III or Class IV.",
+    "question_type": "negation",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 14",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "the collection of subscriptions from Class III or Class IV employees under any circumstances for the entertainment of any Government servant not belonging to Class III or Class IV, is forbidden."
+    ]
+  },
+  {
+    "id": "D2-Q077",
+    "document_id": "D2",
+    "question": "Under Rule 15(1), what is required for a Government servant to engage directly or indirectly in any trade or business?",
+    "answer": "Previous sanction of the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "no Government servant shall, except with the previous sanction of the Government (a) engage directly or indirectly in any trade or business"
+    ]
+  },
+  {
+    "id": "D2-Q078",
+    "document_id": "D2",
+    "question": "What does Rule 15(1)(b) prohibit without previous sanction?",
+    "answer": "Negotiating for or undertaking any other employment.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "negotiate for, or undertake, any other employment"
+    ]
+  },
+  {
+    "id": "D2-Q079",
+    "document_id": "D2",
+    "question": "What honorary work may a Government servant undertake without previous sanction under Rule 15(2)(a)?",
+    "answer": "Honorary work of a social or charitable nature.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "undertake honorary work of a social or charitable nature"
+    ]
+  },
+  {
+    "id": "D2-Q080",
+    "document_id": "D2",
+    "question": "What occasional work of a literary, artistic or scientific character may a Government servant undertake without previous sanction?",
+    "answer": "Occasional work of a literary, artistic or scientific character.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "undertake occasional work of a literary, artistic or scientific character"
+    ]
+  },
+  {
+    "id": "D2-Q081",
+    "document_id": "D2",
+    "question": "In what capacity may a Government servant participate in sports activities without previous sanction?",
+    "answer": "As an amateur.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 15",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "participate in sports activities as an amateur"
+    ]
+  },
+  {
+    "id": "D2-Q082",
+    "document_id": "D2",
+    "question": "Under the proviso to Rule 15(2), when must a Government servant discontinue taking part in permitted activities?",
+    "answer": "If so directed by the Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "he shall discontinue taking part in such activities, if so directed by the Government"
+    ]
+  },
+  {
+    "id": "D2-Q083",
+    "document_id": "D2",
+    "question": "What must a Government servant report under Rule 15(3) regarding a family member?",
+    "answer": "If any member of his family is engaged in a trade or business or owns or manages an insurance agency or commission agency.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "Every Government servant shall report to the Government if any member of his family is engaged in a trade or business or owns or manages an insurance agency or commission agency."
+    ]
+  },
+  {
+    "id": "D2-Q084",
+    "document_id": "D2",
+    "question": "Under Rule 15(4), what is required for a Government servant to accept a fee for work done for a private or public body or private person?",
+    "answer": "Sanction of the prescribed authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "no Government servant may accept any fee for any work done by him for any private or public body or any private person without the sanction of the prescribed authority."
+    ]
+  },
+  {
+    "id": "D2-Q085",
+    "document_id": "D2",
+    "question": "What does Rule 15-A(1) prohibit regarding Government accommodation allotted to a Government servant?",
+    "answer": "Sub-letting, leasing or otherwise allowing occupation by any other person.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15-A",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "no Government servant shall sub-let, lease or otherwise allow occupation by any other person of Government accommodation which has been allotted to him."
+    ]
+  },
+  {
+    "id": "D2-Q086",
+    "document_id": "D2",
+    "question": "Within what time must a Government servant vacate Government accommodation after cancellation of allotment under Rule 15-A(2)?",
+    "answer": "Within the time-limit prescribed by the allotting authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 15-A",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "vacate the same within the time-limit prescribed by the allotting authority."
+    ]
+  },
+  {
+    "id": "D2-Q087",
+    "document_id": "D2",
+    "question": "What does Rule 16(1) prohibit a Government servant from speculating in?",
+    "answer": "Any stock, share or other investment.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 16",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "No Government servant shall speculate in any stock, share or other investment"
+    ]
+  },
+  {
+    "id": "D2-Q088",
+    "document_id": "D2",
+    "question": "What does the Explanation to Rule 16(1) deem frequent purchase or sale of shares, securities or other investments to be?",
+    "answer": "Speculation.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 16",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "Frequent purchase or sale or both, of shares, securities or other investments shall be deemed to be speculation"
+    ]
+  },
+  {
+    "id": "D2-Q089",
+    "document_id": "D2",
+    "question": "What kind of investment is a Government servant prohibited from making or permitting under Rule 16(2)(i)?",
+    "answer": "Any investment which is likely to embarrass or influence him in the discharge of his official duties.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 16",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "any investment which is likely to embarrass or influence him in the discharge of his official duties"
+    ]
+  },
+  {
+    "id": "D2-Q090",
+    "document_id": "D2",
+    "question": "What is prohibited for a Government servant involved in the decision-making process of fixation of price of an Initial Public Offering or Follow-up Public Offering of a Central Public Sector Enterprise?",
+    "answer": "Applying for allotment of shares in the IPO or FPO of such Central Public Sector Enterprise, either himself or through family or any other person acting on his behalf.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 16",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "shall apply, either himself or through any member of his family or through any other person acting on his behalf, for allotment of shares in the Initial Public Offerings or Follow- up Public Offerings of such Central Public Sector Enterprise."
+    ]
+  },
+  {
+    "id": "D2-Q091",
+    "document_id": "D2",
+    "question": "What lending or borrowing does Rule 16(4)(i) prohibit with a person or firm within the local limits of authority?",
+    "answer": "Lending or borrowing or depositing money, as a principal or agent, to, from or with any person or firm or private limited company within the local limits of his authority.",
+    "question_type": "exact_fact",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 16",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "lend or borrow or deposit money, as a principal or an agent to, or from or with, any person or firm or private limited company within the local limits of his authority"
+    ]
+  },
+  {
+    "id": "D2-Q092",
+    "document_id": "D2",
+    "question": "What purely temporary loan may a Government servant give to or accept from a relative or personal friend under the proviso to Rule 16(4)(i)?",
+    "answer": "A purely temporary loan of a small amount free of interest.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 16",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "a Government servant may, give to, or accept from a relative or a personal friend, a purely temporary loan of a small amount free of interest"
+    ]
+  },
+  {
+    "id": "D2-Q093",
+    "document_id": "D2",
+    "question": "How must a Government servant manage his private affairs under Rule 17?",
+    "answer": "So as to avoid habitual indebtedness or insolvency.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 17",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "A Government servant shall so manage his private affairs as to avoid habitual indebtedness or insolvency."
+    ]
+  },
+  {
+    "id": "D2-Q094",
+    "document_id": "D2",
+    "question": "What must a Government servant do if legal proceedings are instituted for recovery of a debt due from him or for adjudging him as an insolvent?",
+    "answer": "Forthwith report the full facts of the legal proceedings to the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 17",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "shall forthwith report the full facts of the legal proceedings to the Government."
+    ]
+  },
+  {
+    "id": "D2-Q095",
+    "document_id": "D2",
+    "question": "What must every Government servant submit on his first appointment to any service or post under Rule 18(1)(i)?",
+    "answer": "A return of his assets and liabilities.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "Every Government servant shall on his first appointment to any service or post submit a return of his assets and liabilities"
+    ]
+  },
+  {
+    "id": "D2-Q096",
+    "document_id": "D2",
+    "question": "To which Group of Government servants does Rule 18(1) ordinarily not apply?",
+    "answer": "Group 'D' servants.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "Sub- rule (1) shall not ordinarily apply to Group 'D' servants"
+    ]
+  },
+  {
+    "id": "D2-Q097",
+    "document_id": "D2",
+    "question": "Under Note II to Rule 18, values of items of movable property worth less than what amount may be added and shown as a lump sum?",
+    "answer": "Rs.33,10,000/-.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "the values of items of movable property worth less than Rs.3310,000/- may be added and shown as a lump sum"
+    ]
+  },
+  {
+    "id": "D2-Q098",
+    "document_id": "D2",
+    "question": "What annual return must every Government servant belonging to Group 'A' and Group 'B' submit under Rule 18(1)(ii)?",
+    "answer": "An annual return giving full particulars regarding immovable property inherited, owned, acquired or held on lease or mortgage.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "shall submit an annual return in such form as may be prescribed by the Government in this regard giving full particulars regarding the immovable property"
+    ]
+  },
+  {
+    "id": "D2-Q099",
+    "document_id": "D2",
+    "question": "Under Rule 18(2), what is required for a Government servant to acquire or dispose of any immovable property by lease, mortgage, purchase, sale, gift or otherwise?",
+    "answer": "Previous knowledge of the prescribed authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "No Government servant shall, except with the previous knowledge of the prescribed authority, acquire or dispose of any immovable property"
+    ]
+  },
+  {
+    "id": "D2-Q100",
+    "document_id": "D2",
+    "question": "Under the proviso to Rule 18(2), when is previous sanction of the prescribed authority required for a transaction in immovable property?",
+    "answer": "If the transaction is with a person having official dealing with him.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "the previous sanction of the prescribed authority shall be obtained by the Government servant if any such transaction is with a person having official dealing with him."
+    ]
+  },
+  {
+    "id": "D2-Q101",
+    "document_id": "D2",
+    "question": "Within what period must a Government servant report a movable property transaction under Rule 18(3)?",
+    "answer": "Within one month from the date of such transaction.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "within one month from the date of such transaction, report the same to the prescribed authority"
+    ]
+  },
+  {
+    "id": "D2-Q102",
+    "document_id": "D2",
+    "question": "Under Rule 18(3), a movable property transaction must be reported if its value exceeds what?",
+    "answer": "Two months' basic pay of the Government servant.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "if the value of such property exceeds two months' basic pay of the Government servant"
+    ]
+  },
+  {
+    "id": "D2-Q103",
+    "document_id": "D2",
+    "question": "From which provision of Rule 18 can the Government not exempt Group 'C' or Group 'D' Government servants?",
+    "answer": "Sub-rule (4).",
+    "question_type": "negation",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "The Government may exempt any category of Government servants belonging to Group 'C' or Group 'D' from any of the provisions of this rule except sub-rule (4)."
+    ]
+  },
+  {
+    "id": "D2-Q104",
+    "document_id": "D2",
+    "question": "What movable property items are included in the Explanation I to Rule 18?",
+    "answer": "Jewellery, insurance policies, shares, securities, debentures, loans, motor cars, motor cycles, horses or other means of conveyance, refrigerators, radios, radiograms and television sets.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 18",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "jewellery, insurance policies, the annual premia of which exceeds Rs. 42 two months' basic pay of the Government servant, shares, securities and debentures"
+    ]
+  },
+  {
+    "id": "D2-Q105",
+    "document_id": "D2",
+    "question": "Who is the prescribed authority for a Government servant holding any Group 'A' post under Rule 18?",
+    "answer": "The Government.",
+    "question_type": "table_lookup",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "the Government, in the case of a Government servant holding any Group 'A' post"
+    ]
+  },
+  {
+    "id": "D2-Q106",
+    "document_id": "D2",
+    "question": "Who is the prescribed authority for a Government servant holding any Group 'B' post under Rule 18?",
+    "answer": "Head of Department.",
+    "question_type": "table_lookup",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "Head of Department, in the case of a Government servant holding any Group 'B' post"
+    ]
+  },
+  {
+    "id": "D2-Q107",
+    "document_id": "D2",
+    "question": "Who is the prescribed authority for a Government servant holding any Group 'C' or Group 'D' post under Rule 18?",
+    "answer": "Head of Office.",
+    "question_type": "table_lookup",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "Head of Office, in the case of a Government servant holding any Group 'C' or Group 'D' post"
+    ]
+  },
+  {
+    "id": "D2-Q108",
+    "document_id": "D2",
+    "question": "What does 'lease' mean for the purpose of Rule 18 under Explanation II?",
+    "answer": "A lease of immovable property from year to year or for any term exceeding one year or reserving a yearly rent, except where it is obtained from or granted to a person having official dealings with the Government servant.",
+    "question_type": "paraphrase",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 18",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "a lease of immovable property from year to year or for any term exceeding one year or reserving a yearly rent"
+    ]
+  },
+  {
+    "id": "D2-Q109",
+    "document_id": "D2",
+    "question": "Under Rule 18-A, what is required for a Government servant to acquire immovable property situated outside India?",
+    "answer": "Previous sanction of the prescribed authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18-A",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "no Government servant shall, except with the previous sanction of the prescribed authority, - (a) acquire, by purchase, mortgage, lease, gift or otherwise, either in his own name or in the name of any member of his family, any immovable property situated outside India"
+    ]
+  },
+  {
+    "id": "D2-Q110",
+    "document_id": "D2",
+    "question": "What transactions with a foreigner, foreign Government, foreign organisation or concern are restricted by Rule 18-A?",
+    "answer": "Transactions for acquisition or disposal of immovable property.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18-A",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "enter into any transaction with any foreigner, foreign Government, foreign organisation or concern"
+    ]
+  },
+  {
+    "id": "D2-Q111",
+    "document_id": "D2",
+    "question": "Under Rule 19(1), what is required for a Government servant to have recourse to any Court or the Press for vindication of an official act?",
+    "answer": "Previous sanction of the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 19",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "No Government servant shall, except with the previous sanction of the Government, have recourse to any Court or to the Press for the vindication of any official act"
+    ]
+  },
+  {
+    "id": "D2-Q112",
+    "document_id": "D2",
+    "question": "Under the proviso to Rule 19(1), if no sanction is received within what period may the Government servant assume permission has been granted?",
+    "answer": "Three months from the date of receipt of his request by the Government.",
+    "question_type": "temporal",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 19",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "if no such sanction is received by the Government servant within a period of three months from the date of receipt of his request by the Government, he shall be free to assume that the permission as sought for has been granted to him."
+    ]
+  },
+  {
+    "id": "D2-Q113",
+    "document_id": "D2",
+    "question": "What must a Government servant do when taking action for vindicating his private character or any act done in private capacity?",
+    "answer": "Submit a report to the prescribed authority regarding such action.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 19",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "the Government servant shall submit a report to the prescribed authority regarding such action."
+    ]
+  },
+  {
+    "id": "D2-Q114",
+    "document_id": "D2",
+    "question": "What does Rule 20 prohibit a Government servant from bringing to bear upon any superior authority?",
+    "answer": "Any political or other outside influence to further his interests in respect of matters pertaining to his service under the Government.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 20",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "No Government servant shall bring or attempt to bring any political or other outside influence to bear upon any superior authority to further his interests in respect of matters pertaining to his service under the Government."
+    ]
+  },
+  {
+    "id": "D2-Q115",
+    "document_id": "D2",
+    "question": "Under Rule 21(1), with whom is a Government servant prohibited from entering into or contracting a marriage?",
+    "answer": "A person having a spouse living.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 21",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "No Government servant shall enter into, or contract, a marriage with a person having a spouse living"
+    ]
+  },
+  {
+    "id": "D2-Q116",
+    "document_id": "D2",
+    "question": "Under Rule 21(2), what is prohibited for a Government servant having a spouse living?",
+    "answer": "Entering into or contracting a marriage with any person.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 21",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "No Government servant, having a spouse living, shall enter into, or contract, a marriage with any person"
+    ]
+  },
+  {
+    "id": "D2-Q117",
+    "document_id": "D2",
+    "question": "On what grounds may the Central Government permit a marriage referred to in Rule 21(1) or (2)?",
+    "answer": "If the marriage is permissible under the personal law applicable to the Government servant and the other party, and there are other grounds for so doing.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 21",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "such marriage is permissible under the personal law applicable to such Government servant and the other party to the marriage; and(b) there are other grounds for so doing."
+    ]
+  },
+  {
+    "id": "D2-Q118",
+    "document_id": "D2",
+    "question": "What must a Government servant do if he has married or marries a person other than of India Nationality?",
+    "answer": "Forthwith intimate the fact to the Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 21",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "A Government servant who has married or marries a person other than of India Nationality shall forthwith intimate the fact to the Government."
+    ]
+  },
+  {
+    "id": "D2-Q119",
+    "document_id": "D2",
+    "question": "What law must a Government servant strictly abide by under Rule 22(a)?",
+    "answer": "Any law relating to intoxicating drinks or drugs in force in any area in which he may happen to be for the time being.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 22",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "strictly abide by any law relating to intoxicating drinks or drugs in force in any area"
+    ]
+  },
+  {
+    "id": "D2-Q120",
+    "document_id": "D2",
+    "question": "Under Rule 22(b), what state is prohibited for a Government servant during the course of his duty?",
+    "answer": "Being under the influence of any intoxicating drink or drug.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 22",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "not be under influence of any intoxicating drink or drug during the course of his duty"
+    ]
+  },
+  {
+    "id": "D2-Q121",
+    "document_id": "D2",
+    "question": "Where is a Government servant prohibited from consuming any intoxicating drink or drug under Rule 22(b)?",
+    "answer": "In a public place.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 22",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "refrain from consuming any intoxicating drink or drug in a public place"
+    ]
+  },
+  {
+    "id": "D2-Q122",
+    "document_id": "D2",
+    "question": "What appearance in a public place is prohibited for a Government servant under Rule 22(c)?",
+    "answer": "Appearing in a public place in a state of intoxication.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 22",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "not appear in a public place in a state of intoxication"
+    ]
+  },
+  {
+    "id": "D2-Q123",
+    "document_id": "D2",
+    "question": "How is 'public place' defined in the Explanation to Rule 22?",
+    "answer": "Any place or premises (including a conveyance) to which the public have, or are permitted to have, access, whether on payment or otherwise.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 22",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "any place or premises (including a conveyance) to which the public have, or are permitted to have, access, whether on payment or otherwise."
+    ]
+  },
+  {
+    "id": "D2-Q124",
+    "document_id": "D2",
+    "question": "What does Rule 22-A prohibit a Government servant from doing regarding children?",
+    "answer": "Employing to work any child below the age of 14 years.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 22-A",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "No Government servant shall employ to work any child below the age of 14 years."
+    ]
+  },
+  {
+    "id": "D2-Q125",
+    "document_id": "D2",
+    "question": "To whom shall any question relating to the interpretation of these rules be referred under Rule 23?",
+    "answer": "The Government, whose decision shall be final.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 23",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "it shall be referred to the Government whose decision thereon shall be final."
+    ]
+  },
+  {
+    "id": "D2-Q126",
+    "document_id": "D2",
+    "question": "Which powers are excepted from delegation under Rule 24?",
+    "answer": "Powers under Rule 23 and Rule 24 itself.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 24",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "except the powers under Rule 23 and this rule"
+    ]
+  },
+  {
+    "id": "D2-Q127",
+    "document_id": "D2",
+    "question": "Under Rule 25, any order made or action taken under repealed rules shall be deemed to have been made or taken under what?",
+    "answer": "The corresponding provisions of these rules.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 25",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "any order made or action taken under the rules so repealed shall be deemed to have been made or taken under the corresponding provisions of these rules."
+    ]
+  },
+  {
+    "id": "D2-Q128",
+    "document_id": "D2",
+    "question": "Under Rule 25, a contravention of any repealed rule shall be punishable as if it were a contravention of what?",
+    "answer": "These rules.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 25",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "a contravention of any of the said rules shall be punishable as if it were a contravention of these rules."
+    ]
+  },
+  {
+    "id": "D2-Q129",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 1?",
+    "answer": "Short title, commencement and application.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Short title, commencement and application"
+    ]
+  },
+  {
+    "id": "D2-Q130",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 3-C?",
+    "answer": "Prohibition of sexual harassment of working women.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Prohibition of sexual harassment of working women"
+    ]
+  },
+  {
+    "id": "D2-Q131",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 13-A?",
+    "answer": "Dowry.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Dowry"
+    ]
+  },
+  {
+    "id": "D2-Q132",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 18-A?",
+    "answer": "Restrictions in relation to acquisition and disposal of immovable property outside India and transactions with foreigners, etc.",
+    "question_type": "table_lookup",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Restrictions in relation to acquisition and disposal of immovable property outside India and transactions with foreigners, etc."
+    ]
+  },
+  {
+    "id": "D2-Q133",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 22-A?",
+    "answer": "Prohibition regarding employment of children below 14 years of age.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Prohibition regarding employment of children below 14 years of age"
+    ]
+  },
+  {
+    "id": "D2-Q134",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 24?",
+    "answer": "Delegation of Powers.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Delegation of Powers"
+    ]
+  },
+  {
+    "id": "D2-Q135",
+    "document_id": "D2",
+    "question": "In the table of rules, what is the title of Rule 25?",
+    "answer": "Repeal and Saving.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 1",
+      "Table of Rules"
+    ],
+    "required_evidence": [
+      "Repeal and Saving"
+    ]
+  },
+  {
+    "id": "D2-Q136",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. No. 3 dated 6th January, 1979 according to the table of amendments?",
+    "answer": "Rule 3.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Rules in the CCS (Conduct) Rules, 1964 and their respective amendments"
+    ],
+    "required_evidence": [
+      "S.O. No. 3 dated 6th January, 1979"
+    ]
+  },
+  {
+    "id": "D2-Q137",
+    "document_id": "D2",
+    "question": "Which rule was amended by G.S.R No845(E)dated 27th November, 2014?",
+    "answer": "Rule 3.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Rules in the CCS (Conduct) Rules, 1964 and their respective amendments"
+    ],
+    "required_evidence": [
+      "G.S.R No845(E)dated 27th November, 2014"
+    ]
+  },
+  {
+    "id": "D2-Q138",
+    "document_id": "D2",
+    "question": "Which rules were amended by GSR 355, dated the 29th July, 1995?",
+    "answer": "Rules 3-A, 3-B, 8, 9, and 19.",
+    "question_type": "table_context",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 355, dated the 29th July, 1995"
+    ]
+  },
+  {
+    "id": "D2-Q139",
+    "document_id": "D2",
+    "question": "Which amendment amended Rule 13-A?",
+    "answer": "S.O. No. 846 dated 28th February, 1976.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 19",
+      "Rules in the CCS (Conduct) Rules, 1964 and their respective amendments"
+    ],
+    "required_evidence": [
+      "S.O. No. 846 dated 28th February, 1976"
+    ]
+  },
+  {
+    "id": "D2-Q140",
+    "document_id": "D2",
+    "question": "Which rules were amended by GSR 367, dated the 31st August, 1996?",
+    "answer": "Rules 13, 15, 15-A, 16, and 18.",
+    "question_type": "table_context",
+    "difficulty": "hard",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 367, dated the 31st August, 1996"
+    ]
+  },
+  {
+    "id": "D2-Q141",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 49, dated the 7th March, 1998?",
+    "answer": "Rule 3-C.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 49, dated the 7th March, 1998"
+    ]
+  },
+  {
+    "id": "D2-Q142",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 342, dated the 23rd October, 1999?",
+    "answer": "Rule 22-A.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 342, dated the 23rd October, 1999"
+    ]
+  },
+  {
+    "id": "D2-Q143",
+    "document_id": "D2",
+    "question": "Which rules were amended by GSR 458, dated the 27th December, 2003?",
+    "answer": "Rules 13 and 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 458, dated the 27th December, 2003"
+    ]
+  },
+  {
+    "id": "D2-Q144",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 376, dated the 22nd October, 2005?",
+    "answer": "Rule 11.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 376, dated the 22nd October, 2005"
+    ]
+  },
+  {
+    "id": "D2-Q145",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 8, dated the 31st January, 2009?",
+    "answer": "Rule 16.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 8, dated the 31st January, 2009"
+    ]
+  },
+  {
+    "id": "D2-Q146",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 370(E), dated the 9th May, 2011?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 370(E), dated the 9th May, 2011"
+    ]
+  },
+  {
+    "id": "D2-Q147",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 149(E), dated the 4th March, 2014?",
+    "answer": "Rule 13.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 149(E), dated the 4th March, 2014"
+    ]
+  },
+  {
+    "id": "D2-Q148",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 823(E), dated the 19th November, 2014?",
+    "answer": "Rule 3-C.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 823(E), dated the 19th November, 2014"
+    ]
+  },
+  {
+    "id": "D2-Q149",
+    "document_id": "D2",
+    "question": "Which rule was amended by GSR 845(E), dated the 27th November, 2014?",
+    "answer": "Rule 3.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "GSR 845(E), dated the 27th November, 2014"
+    ]
+  },
+  {
+    "id": "D2-Q150",
+    "document_id": "D2",
+    "question": "What is the date of the Principal Rules according to the amendments table?",
+    "answer": "12th December, 1964.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. No. 4177 dated 12th December, 1964 (Principal Rules)"
+    ]
+  },
+  {
+    "id": "D2-Q151",
+    "document_id": "D2",
+    "question": "Which rules were amended by Notification No. 25/46/64-Ests(A) dated 22nd June, 1965?",
+    "answer": "Rules 16 and 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "Notification No. 25/46/64-Ests(A) dated 22nd June, 1965"
+    ]
+  },
+  {
+    "id": "D2-Q152",
+    "document_id": "D2",
+    "question": "Which rule was amended by Notification No. 25/3/66-Ests(A) dated 3rd March, 1966?",
+    "answer": "Rule 11.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "Notification No. 25/3/66-Ests (A) dated 3rd March, 1966"
+    ]
+  },
+  {
+    "id": "D2-Q153",
+    "document_id": "D2",
+    "question": "Which rule was amended by Notification No. 25/10/67-Ests(A) dated 23rd November, 1967?",
+    "answer": "Rule 8.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "Notification No. 25/10/67-Ests(A) dated 23rd November, 1967"
+    ]
+  },
+  {
+    "id": "D2-Q154",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. No. 3424 dated 28th September, 1968?",
+    "answer": "Rule 21.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. No. 3424 dated 28th September, 1968"
+    ]
+  },
+  {
+    "id": "D2-Q155",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. No. 951 dated 15th March, 1969?",
+    "answer": "Rule 25.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. No. 951 dated 15th March, 1969"
+    ]
+  },
+  {
+    "id": "D2-Q156",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. No. 1511 dated 24th April, 1969?",
+    "answer": "Rule 25.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. No. 1511 dated 24th April, 1969"
+    ]
+  },
+  {
+    "id": "D2-Q157",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 482 dated 14th February, 1970?",
+    "answer": "Rule 22.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 482 dated 14th February, 1970"
+    ]
+  },
+  {
+    "id": "D2-Q158",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 1207 dated 4th April, 1970?",
+    "answer": "Rule 16.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 1207, dated 4th April, 1970"
+    ]
+  },
+  {
+    "id": "D2-Q159",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 2683 dated 15th August, 1970?",
+    "answer": "Rule 7.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2683, dated 15th August, 1970"
+    ]
+  },
+  {
+    "id": "D2-Q160",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3129 dated 26th September, 1970?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3129, dated 26th September, 1970"
+    ]
+  },
+  {
+    "id": "D2-Q161",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3943 dated 19th November, 1970?",
+    "answer": "Rule 21.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3943, dated 19th November, 1970"
+    ]
+  },
+  {
+    "id": "D2-Q162",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3643 dated 4th November, 1972?",
+    "answer": "Rule 22.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3643, dated the 4th November, 1972"
+    ]
+  },
+  {
+    "id": "D2-Q163",
+    "document_id": "D2",
+    "question": "Which rules were amended by S.O. 83 dated 13th January, 1973?",
+    "answer": "Rules 18 and 18-A.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 83, dated the 13th January, 1973"
+    ]
+  },
+  {
+    "id": "D2-Q164",
+    "document_id": "D2",
+    "question": "Which rules were amended by S.O. 2099 dated 4th August, 1973?",
+    "answer": "Rules 15 and 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2099, dated 4th August, 1973"
+    ]
+  },
+  {
+    "id": "D2-Q165",
+    "document_id": "D2",
+    "question": "Which rules were amended by S.O. 846 dated 28th February, 1976?",
+    "answer": "Rules 4, 13, and 13-A.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 846, dated the 28th February, 1976"
+    ]
+  },
+  {
+    "id": "D2-Q166",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 2563 dated 17th July, 1976?",
+    "answer": "Rule 4.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2563, dated the 17th July, 1976"
+    ]
+  },
+  {
+    "id": "D2-Q167",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 2691 dated 24th July, 1976?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2691, dated the 24th July, 1976"
+    ]
+  },
+  {
+    "id": "D2-Q168",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3385 dated 25th September, 1976?",
+    "answer": "Rule 21-A.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3385, dated the 25th September, 1976"
+    ]
+  },
+  {
+    "id": "D2-Q169",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 4663 dated 11th December, 1976?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 4663, dated the 11th December, 1976"
+    ]
+  },
+  {
+    "id": "D2-Q170",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 2859 dated 17th September, 1977?",
+    "answer": "Rule 21-A(deleted).",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2859, dated the 17th September, 1977"
+    ]
+  },
+  {
+    "id": "D2-Q171",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 2859 dated 30th September, 1978?",
+    "answer": "Rule 15.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2859, dated the 30th September, 1978"
+    ]
+  },
+  {
+    "id": "D2-Q172",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3 dated 6th January, 1979?",
+    "answer": "Rule 3.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3, dated the 6th January, 1979"
+    ]
+  },
+  {
+    "id": "D2-Q173",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 1270 dated 10th May, 1980?",
+    "answer": "Rule 15.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 1270, dated the 10th May, 1980"
+    ]
+  },
+  {
+    "id": "D2-Q174",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 4812 dated 19th October, 1985?",
+    "answer": "Rule 13.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 4812, dated the 19th October, 1985"
+    ]
+  },
+  {
+    "id": "D2-Q175",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 935 dated 8th March, 1986?",
+    "answer": "Rule 3.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 935, dated the 8th March, 1986"
+    ]
+  },
+  {
+    "id": "D2-Q176",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 1124 dated 22nd March, 1986?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 1124, dated the 22nd March, 1986"
+    ]
+  },
+  {
+    "id": "D2-Q177",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3159 dated 20th September, 1986?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3159, dated the 20th September, 1986"
+    ]
+  },
+  {
+    "id": "D2-Q178",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3280 dated 27th September, 1986?",
+    "answer": "Rule 15.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3280, dated the 27th September, 1986"
+    ]
+  },
+  {
+    "id": "D2-Q179",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 1965 dated 8th August, 1987?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 1965, dated the 8th August, 1987"
+    ]
+  },
+  {
+    "id": "D2-Q180",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 1454 dated 14th May, 1988?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 1454, dated the 14th May, 1988"
+    ]
+  },
+  {
+    "id": "D2-Q181",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 2582 dated 6th October, 1990?",
+    "answer": "Rule 13.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 2582, dated the 6th October, 1990"
+    ]
+  },
+  {
+    "id": "D2-Q182",
+    "document_id": "D2",
+    "question": "Which rule was amended by S.O. 3132 dated 26th December, 1992?",
+    "answer": "Rule 18.",
+    "question_type": "table_context",
+    "difficulty": "medium",
+    "source_location": [
+      "Page 21",
+      "Amendments and their respective rules"
+    ],
+    "required_evidence": [
+      "S.O. 3132, dated the 26th December, 1992"
+    ]
+  },
+  {
+    "id": "D2-Q183",
+    "document_id": "D2",
+    "question": "What is the duty of every Government servant who is incharge of a work place under Rule 3-C(2)?",
+    "answer": "To take appropriate steps to prevent sexual harassment to any woman at the work place.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "take appropriate steps to prevent sexual harassment to any woman at the work place"
+    ]
+  },
+  {
+    "id": "D2-Q184",
+    "document_id": "D2",
+    "question": "What circumstances among others may amount to sexual harassment under the Explanation to Rule 3-C?",
+    "answer": "Implied or explicit promise of preferential treatment in employment; implied or explicit threat of detrimental treatment in employment; implied or explicit threat about present or future employment status; interference with work or creating an intimidating or offensive or hostile work environment; humiliating treatment likely to affect health or safety.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "implied or explicit promise of preferential treatment in employment"
+    ]
+  },
+  {
+    "id": "D2-Q185",
+    "document_id": "D2",
+    "question": "Does 'workplace' under Rule 3-C include hospitals or nursing homes?",
+    "answer": "Yes.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3-C",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "hospitals or nursing homes"
+    ]
+  },
+  {
+    "id": "D2-Q186",
+    "document_id": "D2",
+    "question": "Does 'workplace' under Rule 3-C include any sports institute, stadium, sports complex or competition or games venue?",
+    "answer": "Yes.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3-C",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "any sports institute, stadium, sports complex or competition or games venue"
+    ]
+  },
+  {
+    "id": "D2-Q187",
+    "document_id": "D2",
+    "question": "Does 'workplace' under Rule 3-C include transportation provided by the employer for undertaking a journey arising out of or during employment?",
+    "answer": "Yes.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 3-C",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "any place visited by the employee arising out of or during the course of employment including transportation provided by the employer for undertaking such journey"
+    ]
+  },
+  {
+    "id": "D2-Q188",
+    "document_id": "D2",
+    "question": "Does 'workplace' under Rule 3-C include a dwelling place or a house?",
+    "answer": "Yes.",
+    "question_type": "list_membership",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 3-C",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "a dwelling place or a house"
+    ]
+  },
+  {
+    "id": "D2-Q189",
+    "document_id": "D2",
+    "question": "Under the proviso to Rule 4(2)(i), how may employment be accepted if prior permission of the Government cannot be awaited?",
+    "answer": "Provisionally, subject to the permission of the Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "the employment may be accepted provisionally subject to the permission of the Government"
+    ]
+  },
+  {
+    "id": "D2-Q190",
+    "document_id": "D2",
+    "question": "Under the proviso to Rule 4(2)(ii), when is intimation not necessary for a Class I officer?",
+    "answer": "If he has already obtained the sanction of, or sent a report to, the Government under clause (i).",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 4",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "no such intimation shall be necessary in the case of a Class I officer if he has already obtained the sanction of, or sent a report to the Government under clause (i)."
+    ]
+  },
+  {
+    "id": "D2-Q191",
+    "document_id": "D2",
+    "question": "Under Rule 5(3), whose decision is final on whether a party is a political party or an organisation takes part in politics?",
+    "answer": "The Government.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 5",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "the decision of the Government thereon shall be final."
+    ]
+  },
+  {
+    "id": "D2-Q192",
+    "document_id": "D2",
+    "question": "Under Rule 7(ii), in connection with what matters is abetting any form of strike prohibited?",
+    "answer": "Any matter pertaining to his service or the service of any other Government servant.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 7",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "in connection with any matter pertaining to his service or the service of any other Government servant."
+    ]
+  },
+  {
+    "id": "D2-Q193",
+    "document_id": "D2",
+    "question": "What does Rule 8(1) require previous sanction for regarding newspaper or electronic media?",
+    "answer": "Owning wholly or in part, or conducting or participating in the editing or management of, any newspaper or other periodical publication or electronic media.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 8",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "own wholly or in part, or conduct or participate in the editing or management of, any newspaper or other periodical publication or electronic media"
+    ]
+  },
+  {
+    "id": "D2-Q194",
+    "document_id": "D2",
+    "question": "Under the proviso to Rule 9, to what statements or views does the rule not apply?",
+    "answer": "Statements made or views expressed by a Government servant in his official capacity or in due performance of duties assigned to him.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 9",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "nothing in this rule shall apply to any statements made or views expressed by a Government servant in his official capacity or in the due performance of the duties assigned to him."
+    ]
+  },
+  {
+    "id": "D2-Q195",
+    "document_id": "D2",
+    "question": "Under Rule 10(3)(c), to what departmental enquiry does the rule not apply?",
+    "answer": "Evidence given at any departmental enquiry ordered by authorities subordinate to the Government.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 10",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "evidence given at any departmental enquiry ordered by authorities subordinate to the Government."
+    ]
+  },
+  {
+    "id": "D2-Q196",
+    "document_id": "D2",
+    "question": "Which Act is mentioned in Rule 11 for communicating information in performance of duties in good faith?",
+    "answer": "Right to Information Act, 2005 (22 of 2005).",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Rule 11",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "Right to Information Act, 2005 (22 of 2005)"
+    ]
+  },
+  {
+    "id": "D2-Q197",
+    "document_id": "D2",
+    "question": "From whom may a Government servant accept gifts on occasions such as weddings, anniversaries, funerals or religious functions under Rule 13(2)?",
+    "answer": "From his near relatives or from his personal friends having no official dealings with him.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "a Government servant may accept gifts from his near relatives or from his personal friends having no official dealings with him"
+    ]
+  },
+  {
+    "id": "D2-Q198",
+    "document_id": "D2",
+    "question": "Under Rule 13(4), what gifts from foreign dignitaries may a Government servant receive and retain if the market value on one occasion does not exceed rupees one thousand?",
+    "answer": "Gifts from foreign dignitaries.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 13",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "may receive and retain gifts from foreign dignitaries if the market value of gifts received on one occasion does not exceed rupees one thousand"
+    ]
+  },
+  {
+    "id": "D2-Q199",
+    "document_id": "D2",
+    "question": "What does the Note to Rule 14 forbid regarding exercise of pressure or influence for farewell entertainment?",
+    "answer": "Exercise of pressure or influence of any sort on any Government servant to induce him to subscribe towards any farewell entertainment if it is of a substantially private or informal character.",
+    "question_type": "negation",
+    "difficulty": "hard",
+    "source_location": [
+      "Rule 14",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "Exercise of pressure or influence of any sort on any Government servant to induce him to subscribe towards any farewell entertainment if it is of a substantially private or informal character"
+    ]
+  },
+  {
+    "id": "D2-Q200",
+    "document_id": "D2",
+    "question": "Under Rule 18(4), what may the Government or prescribed authority require a Government servant to furnish?",
+    "answer": "A full and complete statement of such movable or immovable property held or acquired by him or on his behalf or by any member of his family as may be specified in the order.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Rule 18",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "a full and complete statement of such movable or immovable property held or acquired by him or on his behalf or by any member of his family"
+    ]
+  }
+]

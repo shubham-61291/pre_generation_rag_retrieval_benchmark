@@ -1,0 +1,3187 @@
+[
+  {
+    "id": "D4-Q001",
+    "document_id": "D4",
+    "question": "What is the short title of the Act?",
+    "answer": "The Right to Information Act, 2005.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 1(1)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "This Act may be called the Right to Information Act, 2005."
+    ]
+  },
+  {
+    "id": "D4-Q002",
+    "document_id": "D4",
+    "question": "To what extent does the Right to Information Act, 2005 apply?",
+    "answer": "It extends to the whole of India except the State of Jammu and Kashmir.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 1(2)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "It extends to the whole of India except the State of Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "D4-Q003",
+    "document_id": "D4",
+    "question": "When did the remaining provisions of the Act come into force?",
+    "answer": "On the one hundred and twentieth day of its enactment.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 1(3)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the remaining provisions of this Act shall come into force on the one hundred and twentieth day of its enactment."
+    ]
+  },
+  {
+    "id": "D4-Q004",
+    "document_id": "D4",
+    "question": "Which sections of the Act came into force at once?",
+    "answer": "Sub-section (1) of section 4, sub-sections (1) and (2) of section 5, sections 12, 13, 15, 16, 24, 27 and 28.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter I",
+      "Section 1(3)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "The provisions of sub-section (1) of section 4, sub-sections (1) and (2) of section 5, sections 12, 13, 15,16, 24, 27 and 28 shall come into force at once"
+    ]
+  },
+  {
+    "id": "D4-Q005",
+    "document_id": "D4",
+    "question": "What does \"appropriate Government\" mean in relation to a public authority established by the Central Government?",
+    "answer": "The Central Government.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(a)(i)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "by the Central Government or the Union territory administration, the Central Government;"
+    ]
+  },
+  {
+    "id": "D4-Q006",
+    "document_id": "D4",
+    "question": "What does \"Central Information Commission\" mean?",
+    "answer": "The Central Information Commission constituted under sub-section (1) of section 12.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(b)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "\"Central Information Commission\" means the Central Information Commission constituted under sub-section (1) of section 12;"
+    ]
+  },
+  {
+    "id": "D4-Q007",
+    "document_id": "D4",
+    "question": "Who is included in the definition of \"Central Public Information Officer\"?",
+    "answer": "A Central Public Information Officer designated under sub-section (1) and includes a Central Assistant Public Information Officer designated as such under sub-section (2) of section 5.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter I",
+      "Section 2(c)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "\"Central Public Information Officer\" means the Central Public Information Officer designated under sub-section (1) and includes a Central Assistant Public Information Officer designated as such under sub-section (2) of section 5;"
+    ]
+  },
+  {
+    "id": "D4-Q008",
+    "document_id": "D4",
+    "question": "Who is the competent authority in the case of the Supreme Court?",
+    "answer": "The Chief Justice of India.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(e)(ii)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the Chief Justice of India in the case of the Supreme Court;"
+    ]
+  },
+  {
+    "id": "D4-Q009",
+    "document_id": "D4",
+    "question": "What does \"information\" include according to the Act?",
+    "answer": "Any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form and information relating to any private body which can be accessed by a public authority under any other law for the time being in force.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter I",
+      "Section 2(f)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "\"information\" means any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form"
+    ]
+  },
+  {
+    "id": "D4-Q010",
+    "document_id": "D4",
+    "question": "What does \"public authority\" mean?",
+    "answer": "Any authority or body or institution of self-government established or constituted by or under the Constitution, by any other law made by Parliament, by any other law made by State Legislature, by notification issued or order made by the appropriate Government, and includes any body owned, controlled or substantially financed and non-Government organisation substantially financed directly or indirectly by funds provided by the appropriate Government.",
+    "question_type": "exact_fact",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter I",
+      "Section 2(h)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"public authority\" means any authority or body or institution of self-government established or constituted"
+    ]
+  },
+  {
+    "id": "D4-Q011",
+    "document_id": "D4",
+    "question": "What does \"record\" include?",
+    "answer": "Any document, manuscript and file; any microfilm, microfiche and facsimile copy of a document; any reproduction of image or images embodied in such microfilm (whether enlarged or not); and any other material produced by a computer or any other device.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter I",
+      "Section 2(i)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"record\" includes"
+    ]
+  },
+  {
+    "id": "D4-Q012",
+    "document_id": "D4",
+    "question": "What does \"right to information\" include?",
+    "answer": "Inspection of work, documents, records; taking notes, extracts or certified copies of documents or records; taking certified samples of material; obtaining information in the form of diskettes, floppies, tapes, video cassettes or in any other electronic mode or through printouts where such information is stored in a computer or in any other device.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter I",
+      "Section 2(j)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"right to information\" means the right to information accessible under this Act"
+    ]
+  },
+  {
+    "id": "D4-Q013",
+    "document_id": "D4",
+    "question": "What does \"third party\" mean?",
+    "answer": "A person other than the citizen making a request for information and includes a public authority.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(n)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"third party\" means a person other than the citizen making a request for information and includes a public authority."
+    ]
+  },
+  {
+    "id": "D4-Q014",
+    "document_id": "D4",
+    "question": "Who is the competent authority in the case of the House of the People?",
+    "answer": "The Speaker.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(e)(i)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the Speaker in the case of the House of the People"
+    ]
+  },
+  {
+    "id": "D4-Q015",
+    "document_id": "D4",
+    "question": "What does \"prescribed\" mean?",
+    "answer": "Prescribed by rules made under this Act by the appropriate Government or the competent authority, as the case may be.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(g)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"prescribed\" means prescribed by rules made under this Act by the appropriate Government or the competent authority, as the case may be;"
+    ]
+  },
+  {
+    "id": "D4-Q016",
+    "document_id": "D4",
+    "question": "What does \"State Information Commission\" mean?",
+    "answer": "The State Information Commission constituted under sub-section (1) of section 15.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(k)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"State Information Commission\" means the State Information Commission constituted under sub- section (1) of section 15;"
+    ]
+  },
+  {
+    "id": "D4-Q017",
+    "document_id": "D4",
+    "question": "What does \"State Public Information Officer\" include?",
+    "answer": "A State Public Information Officer designated under sub-section (1) and includes a State Assistant Public Information Officer designated as such under sub-section (2) of section 5.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter I",
+      "Section 2(m)",
+      "Page 3"
+    ],
+    "required_evidence": [
+      "\"State Public Information Officer\" means the State Public Information Officer designated under sub-section (1) and includes a State Assistant Public Information Officer designated as such under sub-section (2) of section 5;"
+    ]
+  },
+  {
+    "id": "D4-Q018",
+    "document_id": "D4",
+    "question": "Who is the competent authority in the case of a High Court?",
+    "answer": "The Chief Justice of the High Court.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(e)(iii)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the Chief Justice of the High Court in the case of a High Court;"
+    ]
+  },
+  {
+    "id": "D4-Q019",
+    "document_id": "D4",
+    "question": "Who is the competent authority for other authorities established or constituted by or under the Constitution?",
+    "answer": "The President or the Governor, as the case may be.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(e)(iv)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the President or the Governor, as the case may be, in the case of other authorities established or constituted by or under the Constitution;"
+    ]
+  },
+  {
+    "id": "D4-Q020",
+    "document_id": "D4",
+    "question": "Who is the competent authority appointed under article 239 of the Constitution?",
+    "answer": "The administrator.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter I",
+      "Section 2(e)(v)",
+      "Page 2"
+    ],
+    "required_evidence": [
+      "the administrator appointed under article 239 of the Constitution;"
+    ]
+  },
+  {
+    "id": "D4-Q021",
+    "document_id": "D4",
+    "question": "Who has the right to information under the Act?",
+    "answer": "All citizens.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 3",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "Subject to the provisions of this Act, all citizens shall have the right to information."
+    ]
+  },
+  {
+    "id": "D4-Q022",
+    "document_id": "D4",
+    "question": "What is the obligation of every public authority regarding maintenance of records?",
+    "answer": "To maintain all its records duly catalogued and indexed in a manner and the form which facilitates the right to information under this Act and ensure that all records that are appropriate to be computerised are computerised and connected through a network all over the country.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(a)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "maintain all its records duly catalogued and indexed in a manner and the form which facilitates the right to information under this Act and ensure that all records that are appropriate to be computerised are, within a reasonable time and subject to availability of resources, computerised and connected through a network all over the country on different systems so that access to such records is facilitated;"
+    ]
+  },
+  {
+    "id": "D4-Q023",
+    "document_id": "D4",
+    "question": "Within how many days from the enactment of the Act must a public authority publish the specified categories of information?",
+    "answer": "One hundred and twenty days.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "publish within one hundred and twenty days from the enactment of this Act"
+    ]
+  },
+  {
+    "id": "D4-Q024",
+    "document_id": "D4",
+    "question": "What are the particulars of the organization, functions and duties that a public authority must publish?",
+    "answer": "The particulars of its organisation, functions and duties.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(i)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(i) the particulars of its organisation, functions and duties;"
+    ]
+  },
+  {
+    "id": "D4-Q025",
+    "document_id": "D4",
+    "question": "What information regarding officers and employees must be published by a public authority?",
+    "answer": "The powers and duties of its officers and employees.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(ii)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(ii) the powers and duties of its officers and employees;"
+    ]
+  },
+  {
+    "id": "D4-Q026",
+    "document_id": "D4",
+    "question": "What must a public authority publish regarding its decision-making process?",
+    "answer": "The procedure followed in the decision making process, including channels of supervision and accountability.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(iii)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(iii) the procedure followed in the decision making process, including channels of supervision and accountability;"
+    ]
+  },
+  {
+    "id": "D4-Q027",
+    "document_id": "D4",
+    "question": "What does a public authority need to publish about the norms for discharge of its functions?",
+    "answer": "The norms set by it for the discharge of its functions.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(iv)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(iv) the norms set by it for the discharge of its functions;"
+    ]
+  },
+  {
+    "id": "D4-Q028",
+    "document_id": "D4",
+    "question": "What rules, regulations, instructions, manuals and records must a public authority publish?",
+    "answer": "The rules, regulations, instructions, manuals and records, held by it or under its control or used by its employees for discharging its functions.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(v)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(v) the rules, regulations, instructions, manuals and records, held by it or under its control or used by its employees for discharging its functions;"
+    ]
+  },
+  {
+    "id": "D4-Q029",
+    "document_id": "D4",
+    "question": "What statement about documents must a public authority publish?",
+    "answer": "A statement of the categories of documents that are held by it or under its control.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(vi)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(vi) a statement of the categories of documents that are held by it or under its control;"
+    ]
+  },
+  {
+    "id": "D4-Q030",
+    "document_id": "D4",
+    "question": "What must a public authority publish regarding consultation with the public?",
+    "answer": "The particulars of any arrangement that exists for consultation with, or representation by, the members of the public in relation to the formulation of its policy or implementation thereof.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(vii)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(vii) the particulars of any arrangement that exists for consultation with, or representation by, the members of the public in relation to the formulation of its policy or implementation thereof;"
+    ]
+  },
+  {
+    "id": "D4-Q031",
+    "document_id": "D4",
+    "question": "What statement must be published regarding boards, councils, committees and other bodies?",
+    "answer": "A statement of the boards, councils, committees and other bodies consisting of two or more persons constituted as its part or for the purpose of its advice, and as to whether meetings of those boards, councils, committees and other bodies are open to the public, or the minutes of such meetings are accessible for public.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(viii)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(viii) a statement of the boards, councils, committees and other bodies consisting of two or more persons constituted as its part or for the purpose of its advice, and as to whether meetings of those boards, councils, committees and other bodies are open to the public, or the minutes of such meetings are accessible for public;"
+    ]
+  },
+  {
+    "id": "D4-Q032",
+    "document_id": "D4",
+    "question": "What directory must a public authority publish?",
+    "answer": "A directory of its officers and employees.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(ix)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(ix) a directory of its officers and employees;"
+    ]
+  },
+  {
+    "id": "D4-Q033",
+    "document_id": "D4",
+    "question": "What must be published about monthly remuneration of officers and employees?",
+    "answer": "The monthly remuneration received by each of its officers and employees, including the system of compensation as provided in its regulations.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(x)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(x) the monthly remuneration received by each of its officers and employees, including the system of compensation as provided in its regulations;"
+    ]
+  },
+  {
+    "id": "D4-Q034",
+    "document_id": "D4",
+    "question": "What budget information must a public authority publish?",
+    "answer": "The budget allocated to each of its agency, indicating the particulars of all plans, proposed expenditures and reports on disbursements made.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(xi)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(xi) the budget allocated to each of its agency, indicating the particulars of all plans, proposed expenditures and reports on disbursements made;"
+    ]
+  },
+  {
+    "id": "D4-Q035",
+    "document_id": "D4",
+    "question": "What must be published about subsidy programmes?",
+    "answer": "The manner of execution of subsidy programmes, including the amounts allocated and the details of beneficiaries of such programmes.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(xii)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(xii) the manner of execution of subsidy programmes, including the amounts allocated and the details of beneficiaries of such programmes;"
+    ]
+  },
+  {
+    "id": "D4-Q036",
+    "document_id": "D4",
+    "question": "What must be published about concessions, permits or authorisations?",
+    "answer": "Particulars of recipients of concessions, permits or authorisations granted by it.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(xiii)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(xiii) particulars of recipients of concessions, permits or authorisations granted by it;"
+    ]
+  },
+  {
+    "id": "D4-Q037",
+    "document_id": "D4",
+    "question": "What details must be published about information held in electronic form?",
+    "answer": "Details in respect of the information, available to or held by it, reduced in an electronic form.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(xiv)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(xiv) details in respect of the information, available to or held by it, reduced in an electronic form;"
+    ]
+  },
+  {
+    "id": "D4-Q038",
+    "document_id": "D4",
+    "question": "What facilities available to citizens for obtaining information must be published?",
+    "answer": "The particulars of facilities available to citizens for obtaining information, including the working hours of a library or reading room, if maintained for public use.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(xv)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(xv) the particulars of facilities available to citizens for obtaining information, including the working hours of a library or reading room, if maintained for public use;"
+    ]
+  },
+  {
+    "id": "D4-Q039",
+    "document_id": "D4",
+    "question": "What must be published about Public Information Officers?",
+    "answer": "The names, designations and other particulars of the Public Information Officers.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)(xvi)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "(xvi) the names, designations and other particulars of the Public Information Officers;"
+    ]
+  },
+  {
+    "id": "D4-Q040",
+    "document_id": "D4",
+    "question": "How often must the publications under Section 4(1)(b) be updated?",
+    "answer": "Every year.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(b)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "and thereafter update these publications every year;"
+    ]
+  },
+  {
+    "id": "D4-Q041",
+    "document_id": "D4",
+    "question": "What must a public authority publish while formulating important policies or announcing decisions affecting the public?",
+    "answer": "All relevant facts.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(c)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "publish all relevant facts while formulating important policies or announcing the decisions which affect public;"
+    ]
+  },
+  {
+    "id": "D4-Q042",
+    "document_id": "D4",
+    "question": "What must a public authority provide to affected persons regarding its administrative or quasi-judicial decisions?",
+    "answer": "Reasons for its administrative or quasi-judicial decisions.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 4(1)(d)",
+      "Page 4"
+    ],
+    "required_evidence": [
+      "provide reasons for its administrative or quasi- judicial decisions to affected persons."
+    ]
+  },
+  {
+    "id": "D4-Q043",
+    "document_id": "D4",
+    "question": "What does the Act say about suo motu disclosure by public authorities?",
+    "answer": "It shall be a constant endeavour of every public authority to take steps to provide as much information suo motu to the public at regular intervals through various means of communications, including internet, so that the public have minimum resort to the use of this Act to obtain information.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4(2)",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "It shall be a constant endeavour of every public authority to take steps in accordance with the requirements of clause (b) of sub-section (1) to provide as much information suo motu to the public at regular intervals through various means of communications, including internet, so that the public have minimum resort to the use of this Act to obtain information."
+    ]
+  },
+  {
+    "id": "D4-Q044",
+    "document_id": "D4",
+    "question": "What does \"disseminated\" mean for the purposes of sub-sections (3) and (4) of Section 4?",
+    "answer": "Making known or communicated the information to the public through notice boards, newspapers, public announcements, media broadcasts, the internet or any other means, including inspection of offices of any public authority.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 4",
+      "Explanation",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "\"disseminated\" means making known or communicated the information to the public through notice boards, newspapers, public announcements, media broadcasts, the internet or any other means, including inspection of offices of any public authority."
+    ]
+  },
+  {
+    "id": "D4-Q045",
+    "document_id": "D4",
+    "question": "Within how many days of the enactment must every public authority designate Central Public Information Officers?",
+    "answer": "One hundred days.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 5(1)",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "Every public authority shall, within one hundred days of the enactment of this Act, designate as many officers as the Central Public Information Officers or State Public Information Officers"
+    ]
+  },
+  {
+    "id": "D4-Q046",
+    "document_id": "D4",
+    "question": "Where must Assistant Public Information Officers be designated?",
+    "answer": "At each sub-divisional level or other sub-district level.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 5(2)",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "every public authority shall designate an officer, within one hundred days of the enactment of this Act, at each sub-divisional level or other sub-district level as a Central Assistant Public Information Officer or a State Assistant Public Information Officer"
+    ]
+  },
+  {
+    "id": "D4-Q047",
+    "document_id": "D4",
+    "question": "What is the additional time period when an application is given to an Assistant Public Information Officer?",
+    "answer": "Five days shall be added in computing the period for response.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 5(2) proviso",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "a period of five days shall be added in computing the period for response specified under sub- section (1) of section 7."
+    ]
+  },
+  {
+    "id": "D4-Q048",
+    "document_id": "D4",
+    "question": "What duty does a Public Information Officer have regarding persons seeking information?",
+    "answer": "To deal with requests from persons seeking information and render reasonable assistance to the persons seeking such information.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 5(3)",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "Every Central Public Information Officer or State Public Information Officer, as the case may be, shall deal with requests from persons seeking information and render reasonable assistance to the persons seeking such information."
+    ]
+  },
+  {
+    "id": "D4-Q049",
+    "document_id": "D4",
+    "question": "Can a Public Information Officer seek assistance from other officers?",
+    "answer": "Yes, the Central Public Information Officer or State Public Information Officer may seek the assistance of any other officer as he or she considers necessary for the proper discharge of his or her duties.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 5(4)",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "The Central Public Information Officer or State Public Information Officer, as the case may be, may seek the assistance of any other officer as he or she considers it necessary for the proper discharge of his or her duties."
+    ]
+  },
+  {
+    "id": "D4-Q050",
+    "document_id": "D4",
+    "question": "How is an officer whose assistance has been sought treated for the purposes of contravention of the Act?",
+    "answer": "Such other officer shall be treated as a Central Public Information Officer or State Public Information Officer, as the case may be.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 5(5)",
+      "Page 5"
+    ],
+    "required_evidence": [
+      "for the purposes of any contravention of the provisions of this Act, such other officer shall be treated as a Central Public Information Officer or State Public Information Officer, as the case may be."
+    ]
+  },
+  {
+    "id": "D4-Q051",
+    "document_id": "D4",
+    "question": "In what languages can a request for information be made?",
+    "answer": "In English or Hindi or in the official language of the area in which the application is being made.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 6(1)",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "shall make a request in writing or through electronic means in English or Hindi or in the official language of the area in which the application is being made"
+    ]
+  },
+  {
+    "id": "D4-Q052",
+    "document_id": "D4",
+    "question": "Is an applicant required to give reasons for requesting information?",
+    "answer": "No.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 6(2)",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "An applicant making request for information shall not be required to give any reason for requesting the information or any other personal details except those that may be necessary for contacting him."
+    ]
+  },
+  {
+    "id": "D4-Q053",
+    "document_id": "D4",
+    "question": "What must a public authority do if the information requested is held by another public authority?",
+    "answer": "Transfer the application or such part of it as may be appropriate to that other public authority and inform the applicant immediately about such transfer.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 6(3)",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "the public authority, to which such application is made, shall transfer the application or such part of it as may be appropriate to that other public authority and inform the applicant immediately about such transfer"
+    ]
+  },
+  {
+    "id": "D4-Q054",
+    "document_id": "D4",
+    "question": "Within how many days must an application be transferred to another public authority?",
+    "answer": "No later than five days from the date of receipt of the application.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 6(3) proviso",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "the transfer of an application pursuant to this sub- section shall be made as soon as practicable but in no case later than five days from the date of receipt of the application."
+    ]
+  },
+  {
+    "id": "D4-Q055",
+    "document_id": "D4",
+    "question": "Within how many days must a Public Information Officer provide information in normal course?",
+    "answer": "Within thirty days of the receipt of the request.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 7(1)",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed or reject the request"
+    ]
+  },
+  {
+    "id": "D4-Q056",
+    "document_id": "D4",
+    "question": "Within how many hours must information concerning the life or liberty of a person be provided?",
+    "answer": "Forty-eight hours.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 7(1) proviso",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "where the information sought for concerns the life or liberty of a person, the same shall be provided within forty- eight hours of the receipt of the request."
+    ]
+  },
+  {
+    "id": "D4-Q057",
+    "document_id": "D4",
+    "question": "What happens if the Public Information Officer fails to give a decision within the specified period?",
+    "answer": "The Public Information Officer shall be deemed to have refused the request.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(2)",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "If the Central Public Information Officer or State Public Information Officer, as the case may be, fails to give decision on the request for information within the period specified under sub-section (1), the Central Public Information Officer or State Public Information Officer, as the case may be, shall be deemed to have refused the request."
+    ]
+  },
+  {
+    "id": "D4-Q058",
+    "document_id": "D4",
+    "question": "What details must be included in an intimation when further fees are required?",
+    "answer": "The details of further fees representing the cost of providing the information as determined by him, together with the calculations made to arrive at the amount in accordance with fee prescribed under sub-section (1), requesting him to deposit that fees.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(3)(a)",
+      "Page 6"
+    ],
+    "required_evidence": [
+      "the details of further fees representing the cost of providing the information as determined by him"
+    ]
+  },
+  {
+    "id": "D4-Q059",
+    "document_id": "D4",
+    "question": "What right does a person have regarding review of the decision as to the amount of fees charged?",
+    "answer": "Information concerning his or her right with respect to review the decision as to the amount of fees charged or the form of access provided, including the particulars of the appellate authority, time limit, process and any other forms.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(3)(b)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "information concerning his or her right with respect to review the decision as to the amount of fees charged or the form of access provided, including the particulars of the appellate authority, time limit, process and any other forms."
+    ]
+  },
+  {
+    "id": "D4-Q060",
+    "document_id": "D4",
+    "question": "What assistance must be provided to a sensorily disabled person seeking access to records?",
+    "answer": "The Central Public Information Officer or State Public Information Officer shall provide assistance to enable access to the information, including providing such assistance as may be appropriate for the inspection.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(4)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "the Central Public Information Officer or State Public Information Officer, as the case may be, shall provide assistance to enable access to the information, including providing such assistance as may be appropriate for the inspection."
+    ]
+  },
+  {
+    "id": "D4-Q061",
+    "document_id": "D4",
+    "question": "Who is exempt from paying fees under the Act?",
+    "answer": "Persons who are of below poverty line as may be determined by the appropriate Government.",
+    "question_type": "negative_query",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 7(5) proviso",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "no such fee shall be charged from the persons who are of below poverty line as may be determined by the appropriate Government."
+    ]
+  },
+  {
+    "id": "D4-Q062",
+    "document_id": "D4",
+    "question": "When is information provided free of charge?",
+    "answer": "Where a public authority fails to comply with the time limits specified in sub-section (1).",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(6)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "the person making request for the information shall be provided the information free of charge where a public authority fails to comply with the time limits specified in sub-section (1)."
+    ]
+  },
+  {
+    "id": "D4-Q063",
+    "document_id": "D4",
+    "question": "What must be communicated to a person when a request is rejected?",
+    "answer": "The reasons for such rejection; the period within which an appeal against such rejection may be preferred; and the particulars of the appellate authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(8)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "the Central Public Information Officer or State Public Information Officer, as the case may be, shall communicate to the person making the request,— (i) the reasons for such rejection; (ii) the period within which an appeal against such rejection may be preferred; and (iii) the particulars of the appellate authority."
+    ]
+  },
+  {
+    "id": "D4-Q064",
+    "document_id": "D4",
+    "question": "In what form shall information ordinarily be provided?",
+    "answer": "In the form in which it is sought unless it would disproportionately divert the resources of the public authority or would be detrimental to the safety or preservation of the record in question.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 7(9)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "An information shall ordinarily be provided in the form in which it is sought unless it would disproportionately divert the resources of the public authority or would be detrimental to the safety or preservation of the record in question."
+    ]
+  },
+  {
+    "id": "D4-Q065",
+    "document_id": "D4",
+    "question": "What categories of information are exempt from disclosure under Section 8(1)(a)?",
+    "answer": "Information, disclosure of which would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State, relation with foreign State or lead to incitement of an offence.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(a)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "(a) information, disclosure of which would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State, relation with foreign State or lead to incitement of an offence;"
+    ]
+  },
+  {
+    "id": "D4-Q066",
+    "document_id": "D4",
+    "question": "What information is exempt under Section 8(1)(b)?",
+    "answer": "Information which has been expressly forbidden to be published by any court of law or tribunal or the disclosure of which may constitute contempt of court.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(b)",
+      "Page 7"
+    ],
+    "required_evidence": [
+      "(b) information which has been expressly forbidden to be published by any court of law or tribunal or the disclosure of which may constitute contempt of court;"
+    ]
+  },
+  {
+    "id": "D4-Q067",
+    "document_id": "D4",
+    "question": "What information is exempt under Section 8(1)(c)?",
+    "answer": "Information, the disclosure of which would cause a breach of privilege of Parliament or the State Legislature.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(c)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(c) information, the disclosure of which would cause a breach of privilege of Parliament or the State Legislature;"
+    ]
+  },
+  {
+    "id": "D4-Q068",
+    "document_id": "D4",
+    "question": "Under what condition can information including commercial confidence, trade secrets or intellectual property be disclosed?",
+    "answer": "Unless the competent authority is satisfied that larger public interest warrants the disclosure of such information.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(d)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(d) information including commercial confidence, trade secrets or intellectual property, the disclosure of which would harm the competitive position of a third party, unless the competent authority is satisfied that larger public interest warrants the disclosure of such information;"
+    ]
+  },
+  {
+    "id": "D4-Q069",
+    "document_id": "D4",
+    "question": "What information is exempt under Section 8(1)(e)?",
+    "answer": "Information available to a person in his fiduciary relationship, unless the competent authority is satisfied that the larger public interest warrants the disclosure of such information.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(e)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(e) information available to a person in his fiduciary relationship, unless the competent authority is satisfied that the larger public interest warrants the disclosure of such information;"
+    ]
+  },
+  {
+    "id": "D4-Q070",
+    "document_id": "D4",
+    "question": "What information is exempt under Section 8(1)(f)?",
+    "answer": "Information received in confidence from foreign Government.",
+    "question_type": "negative_query",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(f)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(f) information received in confidence from foreign Government;"
+    ]
+  },
+  {
+    "id": "D4-Q071",
+    "document_id": "D4",
+    "question": "What information is exempt under Section 8(1)(g)?",
+    "answer": "Information, the disclosure of which would endanger the life or physical safety of any person or identify the source of information or assistance given in confidence for law enforcement or security purposes.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(g)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(g) information, the disclosure of which would endanger the life or physical safety of any person or identify the source of information or assistance given in confidence for law enforcement or security purposes;"
+    ]
+  },
+  {
+    "id": "D4-Q072",
+    "document_id": "D4",
+    "question": "What information is exempt under Section 8(1)(h)?",
+    "answer": "Information which would impede the process of investigation or apprehension or prosecution of offenders.",
+    "question_type": "negative_query",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(h)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(h) information which would impede the process of investigation or apprehension or prosecution of offenders;"
+    ]
+  },
+  {
+    "id": "D4-Q073",
+    "document_id": "D4",
+    "question": "What is the exemption regarding cabinet papers under Section 8(1)(i)?",
+    "answer": "Cabinet papers including records of deliberations of the Council of Ministers, Secretaries and other officers.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(i)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(i) cabinet papers including records of deliberations of the Council of Ministers, Secretaries and other officers:"
+    ]
+  },
+  {
+    "id": "D4-Q074",
+    "document_id": "D4",
+    "question": "When can decisions of the Council of Ministers and the reasons thereof be made public?",
+    "answer": "After the decision has been taken, and the matter is complete, or over.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(i) proviso",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "Provided that the decisions of Council of Ministers, the reasons thereof, and the material on the basis of which the decisions were taken shall be made public after the decision has been taken, and the matter is complete, or over"
+    ]
+  },
+  {
+    "id": "D4-Q075",
+    "document_id": "D4",
+    "question": "What personal information is exempt from disclosure under Section 8(1)(j)?",
+    "answer": "Information which relates to personal information the disclosure of which has no relationship to any public activity or interest, or which would cause unwarranted invasion of the privacy of the individual unless the Central Public Information Officer or the State Public Information Officer or the appellate authority is satisfied that the larger public interest justifies the disclosure of such information.",
+    "question_type": "negative_query",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(j)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "(j) information which relates to personal information the disclosure of which has no relationship to any public activity or interest, or which would cause unwarranted invasion of the privacy of the individual unless the Central Public Information Officer or the State Public Information Officer or the appellate authority, as the case may be, is satisfied that the larger public interest justifies the disclosure of such information:"
+    ]
+  },
+  {
+    "id": "D4-Q076",
+    "document_id": "D4",
+    "question": "Can information be denied to Parliament or a State Legislature?",
+    "answer": "No, the information which cannot be denied to the Parliament or a State Legislature shall not be denied to any person.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(1)(j) proviso",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "Provided that the information which cannot be denied to the Parliament or a State Legislature shall not be denied to any person."
+    ]
+  },
+  {
+    "id": "D4-Q077",
+    "document_id": "D4",
+    "question": "Notwithstanding the Official Secrets Act, 1923, when may a public authority allow access to information?",
+    "answer": "If public interest in disclosure outweighs the harm to the protected interests.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(2)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "a public authority may allow access to information, if public interest in disclosure outweighs the harm to the protected interests."
+    ]
+  },
+  {
+    "id": "D4-Q078",
+    "document_id": "D4",
+    "question": "After how many years is information relating to any occurrence, event or matter provided?",
+    "answer": "Twenty years before the date on which any request is made.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(3)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "any information relating to any occurrence, event or matter which has taken place, occurred or happened twenty years before the date on which any request is made under section 6 shall be provided to any person making a request under that section"
+    ]
+  },
+  {
+    "id": "D4-Q079",
+    "document_id": "D4",
+    "question": "What is the exception to the twenty-year rule under Section 8(3)?",
+    "answer": "Subject to the provisions of clauses (a), (c) and (i) of sub-section (1).",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 8(3)",
+      "Page 8"
+    ],
+    "required_evidence": [
+      "Subject to the provisions of clauses (a), (c) and (i) of sub-section (1)"
+    ]
+  },
+  {
+    "id": "D4-Q080",
+    "document_id": "D4",
+    "question": "When may a Public Information Officer reject a request for information under Section 9?",
+    "answer": "Where such a request for providing access would involve an infringement of copyright subsisting in a person other than the State.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 9",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "a Central Public Information Officer or a State Public Information Officer, as the case may be, may reject a request for information where such a request for providing access would involve an infringement of copyright subsisting in a person other than the State."
+    ]
+  },
+  {
+    "id": "D4-Q081",
+    "document_id": "D4",
+    "question": "What is severability under Section 10?",
+    "answer": "Where a request for access to information is rejected on the ground that it is in relation to information which is exempt from disclosure, access may be provided to that part of the record which does not contain any information which is exempt from disclosure under this Act and which can reasonably be severed from any part that contains exempt information.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter II",
+      "Section 10(1)",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "access may be provided to that part of the record which does not contain any information which is exempt from disclosure under this Act and which can reasonably be severed from any part that contains exempt information."
+    ]
+  },
+  {
+    "id": "D4-Q082",
+    "document_id": "D4",
+    "question": "What must a notice to the applicant include when access is granted to a part of the record?",
+    "answer": "That only part of the record requested, after severance of the record containing information which is exempt from disclosure, is being provided; the reasons for the decision; the name and designation of the person giving the decision; the details of the fees calculated; and his or her rights with respect to review of the decision.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter II",
+      "Section 10(2)",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "the Central Public Information Officer or State Public Information Officer, as the case may be, shall give a notice to the applicant, informing— (a) that only part of the record requested, after severance of the record containing information which is exempt from disclosure, is being provided;"
+    ]
+  },
+  {
+    "id": "D4-Q083",
+    "document_id": "D4",
+    "question": "Within how many days must a written notice be given to a third party when the Public Information Officer intends to disclose third party information?",
+    "answer": "Within five days from the receipt of the request.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 11(1)",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "the Central Public Information Officer or State Public Information Officer, as the case may be, shall, within five days from the receipt of the request, give a written notice to such third party"
+    ]
+  },
+  {
+    "id": "D4-Q084",
+    "document_id": "D4",
+    "question": "How many days does a third party have to make representation against proposed disclosure?",
+    "answer": "Ten days from the date of receipt of such notice.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 11(2)",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "the third party shall, within ten days from the date of receipt of such notice, be given the opportunity to make representation against the proposed disclosure."
+    ]
+  },
+  {
+    "id": "D4-Q085",
+    "document_id": "D4",
+    "question": "Within how many days must the Public Information Officer make a decision on third party information?",
+    "answer": "Within forty days after receipt of the request under section 6.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 11(3)",
+      "Page 9"
+    ],
+    "required_evidence": [
+      "the Central Public Information Officer or State Public Information Officer, as the case may be, shall, within forty days after receipt of the request under section 6, if the third party has been given an opportunity to make representation under sub-section (2), make a decision as to whether or not to disclose the information or record or part thereof"
+    ]
+  },
+  {
+    "id": "D4-Q086",
+    "document_id": "D4",
+    "question": "What must a notice to a third party under Section 11(3) include?",
+    "answer": "A statement that the third party to whom the notice is given is entitled to prefer an appeal under section 19 against the decision.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter II",
+      "Section 11(4)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "A notice given under sub-section (3) shall include a statement that the third party to whom the notice is given is entitled to prefer an appeal under section 19 against the decision."
+    ]
+  },
+  {
+    "id": "D4-Q087",
+    "document_id": "D4",
+    "question": "By what means does the Central Government constitute the Central Information Commission?",
+    "answer": "By notification in the Official Gazette.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 12(1)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "constitute a body to be known as the Central Information Commission"
+    ]
+  },
+  {
+    "id": "D4-Q088",
+    "document_id": "D4",
+    "question": "What is the composition of the Central Information Commission?",
+    "answer": "The Chief Information Commissioner and such number of Central Information Commissioners, not exceeding ten, as may be deemed necessary.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 12(2)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "The Central Information Commission shall consist of"
+    ]
+  },
+  {
+    "id": "D4-Q089",
+    "document_id": "D4",
+    "question": "Who appoints the Chief Information Commissioner and Information Commissioners?",
+    "answer": "The President.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 12(3)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner and Information Commissioners shall be appointed by the President on the recommendation of a committee"
+    ]
+  },
+  {
+    "id": "D4-Q090",
+    "document_id": "D4",
+    "question": "What is the composition of the committee that recommends appointments to the Central Information Commission?",
+    "answer": "The Prime Minister, who shall be the Chairperson of the committee; the Leader of Opposition in the Lok Sabha; and a Union Cabinet Minister to be nominated by the Prime Minister.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 12(3)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "a committee consisting of— (i) the Prime Minister, who shall be the Chairperson of the committee; (ii) the Leader of Opposition in the Lok Sabha; and (iii) a Union Cabinet Minister to be nominated by the Prime Minister."
+    ]
+  },
+  {
+    "id": "D4-Q091",
+    "document_id": "D4",
+    "question": "Who is deemed to be the Leader of Opposition if no Leader of Opposition is recognised in the House of the People?",
+    "answer": "The Leader of the single largest group in opposition of the Government in the House of the People.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 12(3) Explanation",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "where the Leader of Opposition in the House of the People has not been recognised as such, the Leader of the single largest group in opposition of the Government in the House of the People shall be deemed to be the Leader of Opposition."
+    ]
+  },
+  {
+    "id": "D4-Q092",
+    "document_id": "D4",
+    "question": "What qualifications must the Chief Information Commissioner and Information Commissioners possess?",
+    "answer": "Persons of eminence in public life with wide knowledge and experience in law, science and technology, social service, management, journalism, mass media or administration and governance.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 12(5)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner and Information Commissioners shall be persons of eminence in public life with wide knowledge and experience in law, science and technology, social service, management, journalism, mass media or administration and governance."
+    ]
+  },
+  {
+    "id": "D4-Q093",
+    "document_id": "D4",
+    "question": "What restrictions are placed on the Chief Information Commissioner or an Information Commissioner?",
+    "answer": "Shall not be a Member of Parliament or Member of the Legislature of any State or Union territory, or hold any other office of profit or connected with any political party or carrying on any business or pursuing any profession.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 12(6)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner or an Information Commissioner shall not be a Member of Parliament or Member of the Legislature of any State or Union territory, as the case may be, or hold any other office of profit or connected with any political party or carrying on any business or pursuing any profession."
+    ]
+  },
+  {
+    "id": "D4-Q094",
+    "document_id": "D4",
+    "question": "Where is the headquarters of the Central Information Commission?",
+    "answer": "Delhi.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 12(7)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "The headquarters of the Central Information Commission shall be at Delhi"
+    ]
+  },
+  {
+    "id": "D4-Q095",
+    "document_id": "D4",
+    "question": "For what term does the Chief Information Commissioner hold office?",
+    "answer": "Five years from the date on which he enters upon his office.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(1)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner shall hold office for a term of five years from the date on which he enters upon his office and shall not be eligible for reappointment"
+    ]
+  },
+  {
+    "id": "D4-Q096",
+    "document_id": "D4",
+    "question": "What is the maximum age for the Chief Information Commissioner to hold office?",
+    "answer": "Sixty-five years.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(1) proviso",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "Provided that no Chief Information Commissioner shall hold office as such after he has attained the age of sixty- five years."
+    ]
+  },
+  {
+    "id": "D4-Q097",
+    "document_id": "D4",
+    "question": "For what term does an Information Commissioner hold office?",
+    "answer": "Five years from the date on which he enters upon his office or till he attains the age of sixty-five years, whichever is earlier.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 13(2)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "Every Information Commissioner shall hold office for a term of five years from the date on which he enters upon his office or till he attains the age of sixty-five years, whichever is earlier"
+    ]
+  },
+  {
+    "id": "D4-Q098",
+    "document_id": "D4",
+    "question": "Can an Information Commissioner be reappointed as an Information Commissioner?",
+    "answer": "No, he shall not be eligible for reappointment as such Information Commissioner.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(2)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "shall not be eligible for reappointment as such Information Commissioner"
+    ]
+  },
+  {
+    "id": "D4-Q099",
+    "document_id": "D4",
+    "question": "What is the maximum aggregate term if an Information Commissioner is appointed as the Chief Information Commissioner?",
+    "answer": "Not more than five years in aggregate as the Information Commissioner and the Chief Information Commissioner.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 13(2) second proviso",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "where the Information Commissioner is appointed as the Chief Information Commissioner, his term of office shall not be more than five years in aggregate as the Information Commissioner and the Chief Information Commissioner."
+    ]
+  },
+  {
+    "id": "D4-Q100",
+    "document_id": "D4",
+    "question": "Before whom must the Chief Information Commissioner make an oath or affirmation?",
+    "answer": "The President or some other person appointed by him in that behalf.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 13(3)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner or an Information Commissioner shall before he enters upon his office make and subscribe before the President or some other person appointed by him in that behalf, an oath or affirmation"
+    ]
+  },
+  {
+    "id": "D4-Q101",
+    "document_id": "D4",
+    "question": "To whom may the Chief Information Commissioner address his resignation?",
+    "answer": "The President.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(4)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner or an Information Commissioner may, at any time, by writing under his hand addressed to the President, resign from his office"
+    ]
+  },
+  {
+    "id": "D4-Q102",
+    "document_id": "D4",
+    "question": "What are the salaries and allowances of the Chief Information Commissioner equivalent to?",
+    "answer": "The Chief Election Commissioner.",
+    "question_type": "comparison",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(5)(a)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "the Chief Information Commissioner shall be the same as that of the Chief Election Commissioner;"
+    ]
+  },
+  {
+    "id": "D4-Q103",
+    "document_id": "D4",
+    "question": "What are the salaries and allowances of an Information Commissioner equivalent to?",
+    "answer": "An Election Commissioner.",
+    "question_type": "comparison",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(5)(b)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "an Information Commissioner shall be the same as that of an Election Commissioner"
+    ]
+  },
+  {
+    "id": "D4-Q104",
+    "document_id": "D4",
+    "question": "Can the salaries and allowances of the Chief Information Commissioner be varied to their disadvantage after appointment?",
+    "answer": "No.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 13(5) third proviso",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "the salaries, allowances and other conditions of service of the Chief Information Commissioner and the Information Commissioners shall not be varied to their disadvantage after their appointment."
+    ]
+  },
+  {
+    "id": "D4-Q105",
+    "document_id": "D4",
+    "question": "On what grounds can the Chief Information Commissioner be removed from office?",
+    "answer": "On the ground of proved misbehaviour or incapacity after the Supreme Court, on a reference made to it by the President, has, on inquiry, reported that the Chief Information Commissioner ought on such ground be removed.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter III",
+      "Section 14(1)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "the Chief Information Commissioner or any Information Commissioner shall be removed from his office only by order of the President on the ground of proved misbehaviour or incapacity after the Supreme Court, on a reference made to it by the President, has, on inquiry, reported that the Chief Information Commissioner or any Information Commissioner, as the case may be, ought on such ground be removed."
+    ]
+  },
+  {
+    "id": "D4-Q106",
+    "document_id": "D4",
+    "question": "What can the President do during an inquiry into the Chief Information Commissioner?",
+    "answer": "Suspend from office, and if deemed necessary prohibit also from attending the office during inquiry.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter III",
+      "Section 14(2)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "The President may suspend from office, and if deem necessary prohibit also from attending the office during inquiry, the Chief Information Commissioner or Information Commissioner"
+    ]
+  },
+  {
+    "id": "D4-Q107",
+    "document_id": "D4",
+    "question": "Under what circumstances can the President remove the Chief Information Commissioner without a Supreme Court inquiry?",
+    "answer": "If the Chief Information Commissioner is adjudged an insolvent; has been convicted of an offence involving moral turpitude; engages during his term of office in any paid employment outside the duties of his office; is unfit to continue in office by reason of infirmity of mind or body; or has acquired such financial or other interest as is likely to affect prejudicially his functions.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter III",
+      "Section 14(3)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "the President may by order remove from office the Chief Information Commissioner or any Information Commissioner if the Chief Information Commissioner or a Information Commissioner, as the case may be,— (a) is adjudged an insolvent; or (b) has been convicted of an offence which, in the opinion of the President, involves moral turpitude; or (c) engages during his term of office in any paid employment outside the duties of his office; or (d) is, in the opinion of the President, unfit to continue in office by reason of infirmity of mind or body; or (e) has acquired such financial or other interest as is likely to affect prejudicially his functions"
+    ]
+  },
+  {
+    "id": "D4-Q108",
+    "document_id": "D4",
+    "question": "What constitutes misbehaviour for the purposes of Section 14(1)?",
+    "answer": "If the Chief Information Commissioner or an Information Commissioner is in any way concerned or interested in any contract or agreement made by or on behalf of the Government of India or participates in any way in the profit thereof or in any benefit or emolument arising therefrom otherwise than as a member and in common with the other members of an incorporated company.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter III",
+      "Section 14(4)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "If the Chief Information Commissioner or a Information Commissioner in any way, concerned or interested in any contract or agreement made by or on behalf of the Government of India or participates in any way in the profit thereof or in any benefit or emolument arising therefrom otherwise than as a member and in common with the other members of an incorporated company, he shall, for the purposes of sub-section (1), be deemed to be guilty of misbehaviour."
+    ]
+  },
+  {
+    "id": "D4-Q109",
+    "document_id": "D4",
+    "question": "By what means does every State Government constitute the State Information Commission?",
+    "answer": "By notification in the Official Gazette.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(1)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "constitute a body to be known as the ......... (name of the State) Information Commission"
+    ]
+  },
+  {
+    "id": "D4-Q110",
+    "document_id": "D4",
+    "question": "What is the composition of the State Information Commission?",
+    "answer": "The State Chief Information Commissioner and such number of State Information Commissioners, not exceeding ten, as may be deemed necessary.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(2)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "The State Information Commission shall consist of— (a) the State Chief Information Commissioner, and (b) such number of State Information Commissioners, not exceeding ten, as may be deemed necessary."
+    ]
+  },
+  {
+    "id": "D4-Q111",
+    "document_id": "D4",
+    "question": "Who appoints the State Chief Information Commissioner and State Information Commissioners?",
+    "answer": "The Governor.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(3)",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "The State Chief Information Commissioner and the State Information Commissioners shall be appointed by the Governor on the recommendation of a committee"
+    ]
+  },
+  {
+    "id": "D4-Q112",
+    "document_id": "D4",
+    "question": "What is the composition of the committee that recommends appointments to the State Information Commission?",
+    "answer": "The Chief Minister, who shall be the Chairperson of the committee; the Leader of Opposition in the Legislative Assembly; and a Cabinet Minister to be nominated by the Chief Minister.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(3)",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "a committee consisting of— (i) the Chief Minister, who shall be the Chairperson of the committee; (ii) the Leader of Opposition in the Legislative Assembly; and (iii) a Cabinet Minister to be nominated by the Chief Minister"
+    ]
+  },
+  {
+    "id": "D4-Q113",
+    "document_id": "D4",
+    "question": "Who is deemed to be the Leader of Opposition if no Leader of Opposition is recognised in the Legislative Assembly?",
+    "answer": "The Leader of the single largest group in opposition of the Government in the Legislative Assembly.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(3) Explanation",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "where the Leader of Opposition in the Legislative Assembly has not been recognised as such, the Leader of the single largest group in opposition of the Government in the Legislative Assembly shall be deemed to be the Leader of Opposition."
+    ]
+  },
+  {
+    "id": "D4-Q114",
+    "document_id": "D4",
+    "question": "What qualifications must the State Chief Information Commissioner and State Information Commissioners possess?",
+    "answer": "Persons of eminence in public life with wide knowledge and experience in law, science and technology, social service, management, journalism, mass media or administration and governance.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(5)",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "The State Chief Information Commissioner and the State Information Commissioners shall be persons of eminence in public life with wide knowledge and experience in law, science and technology, social service, management, journalism, mass media or administration and governance."
+    ]
+  },
+  {
+    "id": "D4-Q115",
+    "document_id": "D4",
+    "question": "For what term does the State Chief Information Commissioner hold office?",
+    "answer": "Five years from the date on which he enters upon his office.",
+    "question_type": "temporal",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 16(1)",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "The State Chief Information Commissioner shall hold office for a term of five years from the date on which he enters upon his office and shall not be eligible for reappointment"
+    ]
+  },
+  {
+    "id": "D4-Q116",
+    "document_id": "D4",
+    "question": "What are the salaries and allowances of the State Chief Information Commissioner equivalent to?",
+    "answer": "An Election Commissioner.",
+    "question_type": "comparison",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 16(5)(a)",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "the State Chief Information Commissioner shall be the same as that of an Election Commissioner;"
+    ]
+  },
+  {
+    "id": "D4-Q117",
+    "document_id": "D4",
+    "question": "What are the salaries and allowances of the State Information Commissioner equivalent to?",
+    "answer": "The Chief Secretary to the State Government.",
+    "question_type": "comparison",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 16(5)(b)",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "the State Information Commissioner shall be the same as that of the Chief Secretary to the State Government"
+    ]
+  },
+  {
+    "id": "D4-Q118",
+    "document_id": "D4",
+    "question": "On what grounds can the State Chief Information Commissioner be removed from office?",
+    "answer": "On the ground of proved misbehaviour or incapacity after the Supreme Court, on a reference made to it by the Governor, has on inquiry, reported that the State Chief Information Commissioner ought on such ground be removed.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter IV",
+      "Section 17(1)",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "the State Chief Information Commissioner or a State Information Commissioner shall be removed from his office only by order of the Governor on the ground of proved misbehaviour or incapacity",
+      "has on inquiry, reported that the State Chief Information Commissioner or a State Information Commissioner"
+    ]
+  },
+  {
+    "id": "D4-Q119",
+    "document_id": "D4",
+    "question": "What is the duty of the Central Information Commission or State Information Commission regarding complaints?",
+    "answer": "To receive and inquire into a complaint from any person.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter V",
+      "Section 18(1)",
+      "Page 15"
+    ],
+    "required_evidence": [
+      "it shall be the duty of the Central Information Commission or State Information Commission, as the case may be, to receive and inquire into a complaint from any person"
+    ]
+  },
+  {
+    "id": "D4-Q120",
+    "document_id": "D4",
+    "question": "What powers does the Information Commission have while inquiring into any matter?",
+    "answer": "The same powers as are vested in a civil court while trying a suit under the Code of Civil Procedure, 1908.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 18(3)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "The Central Information Commission or State Information Commission, as the case may be, shall, while inquiring into any matter under this section, have the same powers as are vested in a civil court while trying a suit under the Code of Civil Procedure, 1908"
+    ]
+  },
+  {
+    "id": "D4-Q121",
+    "document_id": "D4",
+    "question": "Can any record be withheld from the Information Commission during an inquiry?",
+    "answer": "No, no such record may be withheld from it on any grounds.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 18(4)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "no such record may be withheld from it on any grounds."
+    ]
+  },
+  {
+    "id": "D4-Q122",
+    "document_id": "D4",
+    "question": "Within how many days can a first appeal be preferred?",
+    "answer": "Within thirty days from the expiry of such period or from the receipt of such a decision.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(1)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "may within thirty days from the expiry of such period or from the receipt of such a decision prefer an appeal to such officer who is senior in rank to the Central Public Information Officer or State Public Information Officer"
+    ]
+  },
+  {
+    "id": "D4-Q123",
+    "document_id": "D4",
+    "question": "Can a first appeal be admitted after the expiry of thirty days?",
+    "answer": "Yes, if the officer is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(1) proviso",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "such officer may admit the appeal after the expiry of the period of thirty days if he or she is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time."
+    ]
+  },
+  {
+    "id": "D4-Q124",
+    "document_id": "D4",
+    "question": "Within how many days can a second appeal be filed with the Information Commission?",
+    "answer": "Within ninety days from the date on which the decision should have been made or was actually received.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(3)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "A second appeal against the decision under sub-section (1) shall lie within ninety days from the date on which the decision should have been made or was actually received, with the Central Information Commission or the State Information Commission"
+    ]
+  },
+  {
+    "id": "D4-Q125",
+    "document_id": "D4",
+    "question": "On whom does the onus lie to prove that a denial of a request was justified?",
+    "answer": "On the Central Public Information Officer or State Public Information Officer who denied the request.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(5)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "the onus to prove that a denial of a request was justified shall be on the Central Public Information Officer or State Public Information Officer, as the case may be, who denied the request."
+    ]
+  },
+  {
+    "id": "D4-Q126",
+    "document_id": "D4",
+    "question": "Within how many days must an appeal under Section 19(1) or (2) be disposed of?",
+    "answer": "Within thirty days of the receipt of the appeal or within such extended period not exceeding a total of forty-five days from the date of filing thereof.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(6)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "An appeal under sub-section (1) or sub-section (2) shall be disposed of within thirty days of the receipt of the appeal or within such extended period not exceeding a total of forty-five days from the date of filing thereof"
+    ]
+  },
+  {
+    "id": "D4-Q127",
+    "document_id": "D4",
+    "question": "What is the nature of the decision of the Information Commission?",
+    "answer": "Binding.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter V",
+      "Section 19(7)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "The decision of the Central Information Commission or State Information Commission, as the case may be, shall be binding."
+    ]
+  },
+  {
+    "id": "D4-Q128",
+    "document_id": "D4",
+    "question": "What powers does the Information Commission have in its decision?",
+    "answer": "To require the public authority to take necessary steps to secure compliance with the provisions of this Act; require the public authority to compensate the complainant for any loss or other detriment suffered; impose any of the penalties provided under this Act; reject the application.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(8)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "require the public authority to take any such steps as may be necessary to secure compliance with the provisions of this Act",
+      "require the public authority to compensate the complainant for any loss or other detriment suffered",
+      "impose any of the penalties provided under this Act",
+      "reject the application."
+    ]
+  },
+  {
+    "id": "D4-Q129",
+    "document_id": "D4",
+    "question": "What is the penalty for refusing to receive an application without reasonable cause?",
+    "answer": "Two hundred and fifty rupees each day till application is received or information is furnished, subject to a maximum of twenty-five thousand rupees.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 20(1)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "it shall impose a penalty of two hundred and fifty rupees each day till application is received or information is furnished, so however, the total amount of such penalty shall not exceed twenty-five thousand rupees"
+    ]
+  },
+  {
+    "id": "D4-Q130",
+    "document_id": "D4",
+    "question": "What is the maximum penalty that can be imposed under Section 20(1)?",
+    "answer": "Twenty-five thousand rupees.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter V",
+      "Section 20(1)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "the total amount of such penalty shall not exceed twenty-five thousand rupees"
+    ]
+  },
+  {
+    "id": "D4-Q131",
+    "document_id": "D4",
+    "question": "What must be given before any penalty is imposed on a Public Information Officer?",
+    "answer": "A reasonable opportunity of being heard.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 20(1) proviso",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "the Central Public Information Officer or the State Public Information Officer, as the case may be, shall be given a reasonable opportunity of being heard before any penalty is imposed on him"
+    ]
+  },
+  {
+    "id": "D4-Q132",
+    "document_id": "D4",
+    "question": "On whom does the burden of proving that he acted reasonably and diligently lie?",
+    "answer": "On the Central Public Information Officer or the State Public Information Officer.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 20(1) second proviso",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "the burden of proving that he acted reasonably and diligently shall be on the Central Public Information Officer or the State Public Information Officer, as the case may be."
+    ]
+  },
+  {
+    "id": "D4-Q133",
+    "document_id": "D4",
+    "question": "When can disciplinary action be recommended against a Public Information Officer?",
+    "answer": "Where the Information Commission is of the opinion that the Public Information Officer has, without any reasonable cause and persistently, failed to receive an application or has not furnished information within the time specified or malafidely denied the request or knowingly given incorrect, incomplete or misleading information or destroyed information or obstructed in any manner in furnishing the information.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter V",
+      "Section 20(2)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "failed to receive an application for information or has not furnished information within the time specified under sub-section (1) of section 7 or malafidely denied the request for information",
+      "knowingly given incorrect, incomplete or misleading information or destroyed information which was the subject of the request or obstructed in any manner in furnishing the information",
+      "it shall recommend for disciplinary action against the Central Public Information Officer or the State Public Information Officer"
+    ]
+  },
+  {
+    "id": "D4-Q134",
+    "document_id": "D4",
+    "question": "What protection is provided under Section 21?",
+    "answer": "No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act or any rule made thereunder.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 21",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act or any rule made thereunder."
+    ]
+  },
+  {
+    "id": "D4-Q135",
+    "document_id": "D4",
+    "question": "What is the overriding effect of the Act?",
+    "answer": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Official Secrets Act, 1923, and any other law for the time being in force.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 22",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Official Secrets Act, 1923"
+    ]
+  },
+  {
+    "id": "D4-Q136",
+    "document_id": "D4",
+    "question": "Can a court entertain any suit in respect of any order made under this Act?",
+    "answer": "No, no court shall entertain any suit, application or other proceeding in respect of any order made under this Act.",
+    "question_type": "negation",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 23",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "No court shall entertain any suit, application or other proceeding in respect of any order made under this Act and no such order shall be called in question otherwise than by way of an appeal under this Act."
+    ]
+  },
+  {
+    "id": "D4-Q137",
+    "document_id": "D4",
+    "question": "To which organizations does the Act not apply?",
+    "answer": "The intelligence and security organisations specified in the Second Schedule.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(1)",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "Nothing contained in this Act shall apply to the intelligence and security organisations specified in the Second Schedule"
+    ]
+  },
+  {
+    "id": "D4-Q138",
+    "document_id": "D4",
+    "question": "What information pertaining to intelligence and security organisations is not excluded from the Act?",
+    "answer": "Information pertaining to the allegations of corruption and human rights violations.",
+    "question_type": "negative_query",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(1) proviso",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "the information pertaining to the allegations of corruption and human rights violations shall not be excluded under this sub- section"
+    ]
+  },
+  {
+    "id": "D4-Q139",
+    "document_id": "D4",
+    "question": "Within how many days must information regarding human rights violations be provided by intelligence organisations?",
+    "answer": "Within forty-five days from the date of the receipt of request.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(1) second proviso",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "such information shall be provided within forty- five days from the date of the receipt of request."
+    ]
+  },
+  {
+    "id": "D4-Q140",
+    "document_id": "D4",
+    "question": "What approval is required before providing information regarding human rights violations by intelligence organisations?",
+    "answer": "The approval of the Central Information Commission.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(1) second proviso",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "the information shall only be provided after the approval of the Central Information Commission"
+    ]
+  },
+  {
+    "id": "D4-Q141",
+    "document_id": "D4",
+    "question": "What reports must the Information Commission prepare?",
+    "answer": "A report on the implementation of the provisions of this Act during that year.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 25(1)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "prepare a report on the implementation of the provisions of this Act during that year and forward a copy thereof to the appropriate Government."
+    ]
+  },
+  {
+    "id": "D4-Q142",
+    "document_id": "D4",
+    "question": "What must each report state regarding the number of requests made?",
+    "answer": "The number of requests made to each public authority.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 25(3)(a)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "(a) the number of requests made to each public authority;"
+    ]
+  },
+  {
+    "id": "D4-Q143",
+    "document_id": "D4",
+    "question": "What must each report state regarding disciplinary action?",
+    "answer": "Particulars of any disciplinary action taken against any officer in respect of the administration of this Act.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 25(3)(d)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "(d) particulars of any disciplinary action taken against any officer in respect of the administration of this Act;"
+    ]
+  },
+  {
+    "id": "D4-Q144",
+    "document_id": "D4",
+    "question": "What must each report state regarding charges collected?",
+    "answer": "The amount of charges collected by each public authority under this Act.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 25(3)(e)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "(e) the amount of charges collected by each public authority under this Act;"
+    ]
+  },
+  {
+    "id": "D4-Q145",
+    "document_id": "D4",
+    "question": "What educational programmes must the appropriate Government develop?",
+    "answer": "Educational programmes to advance the understanding of the public, in particular of disadvantaged communities as to how to exercise the rights contemplated under this Act.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 26(1)(a)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "develop and organise educational programmes to advance the understanding of the public, in particular of disadvantaged communities as to how to exercise the rights contemplated under this Act;"
+    ]
+  },
+  {
+    "id": "D4-Q146",
+    "document_id": "D4",
+    "question": "Within how many months must the appropriate Government compile a guide?",
+    "answer": "Within eighteen months from the commencement of this Act.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 26(2)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "The appropriate Government shall, within eighteen months from the commencement of this Act, compile in its official language a guide"
+    ]
+  },
+  {
+    "id": "D4-Q147",
+    "document_id": "D4",
+    "question": "What must the guide compiled under Section 26(2) contain?",
+    "answer": "Such information, in an easily comprehensible form and manner, as may reasonably be required by a person who wishes to exercise any right specified in this Act.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 26(2)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "compile in its official language a guide containing such information, in an easily comprehensible form and manner, as may reasonably be required by a person who wishes to exercise any right specified in this Act."
+    ]
+  },
+  {
+    "id": "D4-Q148",
+    "document_id": "D4",
+    "question": "What must the guidelines include regarding the objects of the Act?",
+    "answer": "The objects of this Act.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 26(3)(a)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "(a) the objects of this Act;"
+    ]
+  },
+  {
+    "id": "D4-Q149",
+    "document_id": "D4",
+    "question": "What must the guidelines include regarding addresses?",
+    "answer": "The postal and street address, the phone and fax number and, if available, electronic mail address of the Central Public Information Officer or State Public Information Officer of every public authority.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 26(3)(b)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "(b) the postal and street address, the phone and fax number and, if available, electronic mail address of the Central Public Information Officer or State Public Information Officer, as the case may be, of every public authority appointed under sub-section (1) of section 5;"
+    ]
+  },
+  {
+    "id": "D4-Q150",
+    "document_id": "D4",
+    "question": "What rules can the appropriate Government make under Section 27?",
+    "answer": "Rules to carry out the provisions of this Act.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 27(1)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "make rules to carry out the provisions of this Act."
+    ]
+  },
+  {
+    "id": "D4-Q151",
+    "document_id": "D4",
+    "question": "What fee matters can rules provide for under Section 27(2)?",
+    "answer": "The fee payable under sub-section (1) of section 6 and the fee payable under sub-sections (1) and (5) of section 7.",
+    "question_type": "exact_fact",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 27(2)(b) and (c)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "(b) the fee payable under sub-section (1) of section 6; (c) the fee payable under sub-sections (1) and (5) of section 7;"
+    ]
+  },
+  {
+    "id": "D4-Q152",
+    "document_id": "D4",
+    "question": "What rules can the competent authority make under Section 28?",
+    "answer": "Rules to carry out the provisions of this Act.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 28(1)",
+      "Page 21"
+    ],
+    "required_evidence": [
+      "The competent authority may, by notification in the Official Gazette, make rules to carry out the provisions of this Act."
+    ]
+  },
+  {
+    "id": "D4-Q153",
+    "document_id": "D4",
+    "question": "How must rules made by the Central Government be laid before Parliament?",
+    "answer": "Before each House of Parliament, while it is in session, for a total period of thirty days.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 29(1)",
+      "Page 21"
+    ],
+    "required_evidence": [
+      "Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days"
+    ]
+  },
+  {
+    "id": "D4-Q154",
+    "document_id": "D4",
+    "question": "What is the time limit for making orders to remove difficulties?",
+    "answer": "No such order shall be made after the expiry of a period of two years from the date of the commencement of this Act.",
+    "question_type": "temporal",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 30(1) proviso",
+      "Page 21"
+    ],
+    "required_evidence": [
+      "no such order shall be made after the expiry of a period of two years from the date of the commencement of this Act."
+    ]
+  },
+  {
+    "id": "D4-Q155",
+    "document_id": "D4",
+    "question": "What Act is repealed by the Right to Information Act, 2005?",
+    "answer": "The Freedom of Information Act, 2002.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 31",
+      "Page 21"
+    ],
+    "required_evidence": [
+      "The Freedom of Information Act, 2002 is hereby repealed."
+    ]
+  },
+  {
+    "id": "D4-Q156",
+    "document_id": "D4",
+    "question": "What is the form of oath or affirmation to be made by the Chief Information Commissioner?",
+    "answer": "\"I, having been appointed Chief Information Commissioner ... swear in the name of God / solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established, that I will uphold the sovereignty and integrity of India, that I will duly and faithfully and to the best of my ability, knowledge and judgment perform the duties of my office without fear or favour, affection or ill-will and that I will uphold the Constitution and the laws.\"",
+    "question_type": "exact_fact",
+    "difficulty": "hard",
+    "source_location": [
+      "First Schedule",
+      "Page 22"
+    ],
+    "required_evidence": [
+      "that I will bear true faith and allegiance to the Constitution of India as by law established",
+      "that I will uphold the sovereignty and integrity of India",
+      "that I will duly and faithfully and to the best of my ability, knowledge and judgment perform the duties of my office",
+      "that I will uphold the Constitution and the laws."
+    ]
+  },
+  {
+    "id": "D4-Q157",
+    "document_id": "D4",
+    "question": "Which organisations are listed in the Second Schedule?",
+    "answer": "Intelligence Bureau, Research and Analysis Wing of the Cabinet Secretariat, Directorate of Revenue Intelligence, Central Economic Intelligence Bureau, Directorate of Enforcement, Narcotics Control Bureau, Aviation Research Centre, Special Frontier Force, Border Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, Central Industrial Security Force, National Security Guards, Assam Rifles, Special Service Bureau, Special Branch (CID), Andaman and Nicobar, The Crime Branch-C.I.D.-CB, Dadra and Nagar Haveli, Special Branch, Lakshadweep Police.",
+    "question_type": "list_membership",
+    "difficulty": "hard",
+    "source_location": [
+      "Second Schedule",
+      "Page 23"
+    ],
+    "required_evidence": [
+      "1. Intelligence Bureau. 2. Research and Analysis Wing of the Cabinet Secretariat. 3. Directorate of Revenue Intelligence. 4. Central Economic Intelligence Bureau. 5. Directorate of Enforcement. 6. Narcotics Control Bureau. 7. Aviation Research Centre. 8. Special Prontier Force. 9. Border Security Force. 10. Central Reserve Police Force. 11. Indo-Tibetan Border Police. 12. Central Industrial Security Force. 13. National Security Guards. 14. Assam Rifles. 15. Special Service Bureau 16. Special Branch (CID), Andaman and Nicobar. 17. The Crime Branch-C.I.D.-CB, Dadra and Nagar Haveli. 18. Special Branch, Lakshadweep Police."
+    ]
+  },
+  {
+    "id": "D4-Q158",
+    "document_id": "D4",
+    "question": "Is the Special Protection Group listed in the Second Schedule?",
+    "answer": "Yes, it is listed as number 19 in the amended Second Schedule.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Second Schedule",
+      "Page 49"
+    ],
+    "required_evidence": [
+      "19. Special Protection Group."
+    ]
+  },
+  {
+    "id": "D4-Q159",
+    "document_id": "D4",
+    "question": "Is the Defence Research and Development Board in the Second Schedule?",
+    "answer": "Yes, it is listed as number 20.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Second Schedule",
+      "Page 49"
+    ],
+    "required_evidence": [
+      "20. Defence Research and Development Board."
+    ]
+  },
+  {
+    "id": "D4-Q160",
+    "document_id": "D4",
+    "question": "Is the Financial Intelligence Unit, India in the Second Schedule?",
+    "answer": "Yes, it is listed as number 22.",
+    "question_type": "list_membership",
+    "difficulty": "medium",
+    "source_location": [
+      "Second Schedule",
+      "Page 49"
+    ],
+    "required_evidence": [
+      "22. Financial Intelligence Unit, India."
+    ]
+  },
+  {
+    "id": "D4-Q161",
+    "document_id": "D4",
+    "question": "What is the basic object of the Right to Information Act according to the Guide?",
+    "answer": "To empower the citizens, to promote transparency and accountability in the working of the Government, to contain corruption, and to enhance people's participation in democratic process.",
+    "question_type": "paraphrase",
+    "difficulty": "medium",
+    "source_location": [
+      "Guide",
+      "Page 55"
+    ],
+    "required_evidence": [
+      "The basic object of the Right to Information Act is to empower the citizens, to promote transparency and accountability in the working of the Government, to contain corruption, and to enhance people’s participation in democratic process"
+    ]
+  },
+  {
+    "id": "D4-Q162",
+    "document_id": "D4",
+    "question": "What is the application fee for seeking information from a Central Government public authority?",
+    "answer": "Rs. 10/-.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 57"
+    ],
+    "required_evidence": [
+      "a demand draft or a bankers cheque or an Indian Postal Order of Rs.10/- (Rupees ten), payable to the Accounts Officer of the public authority as fee prescribed for seeking information."
+    ]
+  },
+  {
+    "id": "D4-Q163",
+    "document_id": "D4",
+    "question": "What is the fee for each page (A-3 or smaller size paper) for providing information?",
+    "answer": "Rupees two (Rs. 2/-) for each page.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "rupees two (Rs. 2/-) for each page ( in A-3 or smaller size paper)"
+    ]
+  },
+  {
+    "id": "D4-Q164",
+    "document_id": "D4",
+    "question": "What is the fee per diskette or floppy?",
+    "answer": "Rupees fifty (Rs. 50/-) per diskette or floppy.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "rupees fifty (Rs.50/-) per diskette or floppy"
+    ]
+  },
+  {
+    "id": "D4-Q165",
+    "document_id": "D4",
+    "question": "For how long is inspection of records free?",
+    "answer": "For the first hour.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "For inspection of records, the public authority shall charge no fee for the first hour."
+    ]
+  },
+  {
+    "id": "D4-Q166",
+    "document_id": "D4",
+    "question": "What is the fee for each subsequent hour of inspection after the first hour?",
+    "answer": "Rupees five (Rs. 5/-) for each subsequent hour (or fraction thereof).",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "But a fee of rupees five (Rs.5/-) for each subsequent hour (or fraction thereof) shall be charged."
+    ]
+  },
+  {
+    "id": "D4-Q167",
+    "document_id": "D4",
+    "question": "Who is not required to pay any fee under the RTI Act?",
+    "answer": "Persons belonging to the below poverty line (BPL) category.",
+    "question_type": "negative_query",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "If the applicant belongs to the below poverty line (BPL) category, he is not required to pay any fee."
+    ]
+  },
+  {
+    "id": "D4-Q168",
+    "document_id": "D4",
+    "question": "Is there a prescribed format for an RTI application?",
+    "answer": "No, there is no prescribed format of application for seeking information.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "There is no prescribed format of application for seeking information."
+    ]
+  },
+  {
+    "id": "D4-Q169",
+    "document_id": "D4",
+    "question": "Is the information seeker required to give reasons for seeking information?",
+    "answer": "No.",
+    "question_type": "negation",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 58"
+    ],
+    "required_evidence": [
+      "The information seeker is not required to give reasons for seeking information."
+    ]
+  },
+  {
+    "id": "D4-Q170",
+    "document_id": "D4",
+    "question": "What is the time period for supply of information in normal course?",
+    "answer": "Within 30 days from the receipt of application by the public authority.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 59"
+    ],
+    "required_evidence": [
+      "In normal course, information to an applicant shall be supplied within 30 days from the receipt of application by the public authority."
+    ]
+  },
+  {
+    "id": "D4-Q171",
+    "document_id": "D4",
+    "question": "Within what time must information concerning the life or liberty of a person be supplied?",
+    "answer": "Within 48 hours.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 59"
+    ],
+    "required_evidence": [
+      "If information sought concerns the life or liberty of a person, it shall be supplied within 48 hours."
+    ]
+  },
+  {
+    "id": "D4-Q172",
+    "document_id": "D4",
+    "question": "What is the RTI online portal URL?",
+    "answer": "www.rtionline.gov.in.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 61"
+    ],
+    "required_evidence": [
+      "Department of Personnel & Training has launched a web portal namely RTI online with URL www.rtionline.gov.in"
+    ]
+  },
+  {
+    "id": "D4-Q173",
+    "document_id": "D4",
+    "question": "How many categories of information must every public authority publish under Section 4(1)(b)?",
+    "answer": "Sixteen categories.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Guide",
+      "Page 62"
+    ],
+    "required_evidence": [
+      "Section 4(1)(b) of the Act, in particular, requires every public authority to publish following sixteen categories of information"
+    ]
+  },
+  {
+    "id": "D4-Q174",
+    "document_id": "D4",
+    "question": "What is the time limit for transfer of an application from one public authority to another?",
+    "answer": "Within five days from the receipt of the application.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Guide",
+      "Page 65"
+    ],
+    "required_evidence": [
+      "shall transfer the application or relevant part of it to that other public authority within five days from the receipt of the application."
+    ]
+  },
+  {
+    "id": "D4-Q175",
+    "document_id": "D4",
+    "question": "What is the time limit for disposal of first appeal?",
+    "answer": "Within 30 days of receipt of the appeal, or in exceptional cases within 45 days.",
+    "question_type": "numerical",
+    "difficulty": "medium",
+    "source_location": [
+      "Guide",
+      "Page 77"
+    ],
+    "required_evidence": [
+      "The first appellate authority should dispose off the appeal within 30 days of receipt of the appeal. In some exceptional cases, the Appellate Authority may take 45 days for its disposal."
+    ]
+  },
+  {
+    "id": "D4-Q176",
+    "document_id": "D4",
+    "question": "What is the maximum time for disposal of applications in different situations?",
+    "answer": "30 days in normal course, 48 hours if concerning life or liberty, 5 days for transfer, 45 days for human rights violations by Second Schedule organisations.",
+    "question_type": "table_lookup",
+    "difficulty": "hard",
+    "source_location": [
+      "Guide",
+      "Page 73"
+    ],
+    "required_evidence": [
+      "The following table shows the maximum time (from the receipt of application) which may be taken to dispose off the applications in different situations"
+    ]
+  },
+  {
+    "id": "D4-Q177",
+    "document_id": "D4",
+    "question": "What is the maximum number of Central Information Commissioners?",
+    "answer": "Not exceeding ten.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 12(2)(b)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "such number of Central Information Commissioners, not exceeding ten, as may be deemed necessary."
+    ]
+  },
+  {
+    "id": "D4-Q178",
+    "document_id": "D4",
+    "question": "What is the maximum number of State Information Commissioners?",
+    "answer": "Not exceeding ten.",
+    "question_type": "numerical",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(2)(b)",
+      "Page 12"
+    ],
+    "required_evidence": [
+      "such number of State Information Commissioners, not exceeding ten, as may be deemed necessary."
+    ]
+  },
+  {
+    "id": "D4-Q179",
+    "document_id": "D4",
+    "question": "Who has the power of general superintendence, direction and management of the Central Information Commission?",
+    "answer": "The Chief Information Commissioner.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 12(4)",
+      "Page 10"
+    ],
+    "required_evidence": [
+      "The general superintendence, direction and management of the affairs of the Central Information Commission shall vest in the Chief Information Commissioner"
+    ]
+  },
+  {
+    "id": "D4-Q180",
+    "document_id": "D4",
+    "question": "Who has the power of general superintendence, direction and management of the State Information Commission?",
+    "answer": "The State Chief Information Commissioner.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 15(4)",
+      "Page 13"
+    ],
+    "required_evidence": [
+      "The general superintendence, direction and management of the affairs of the State Information Commission shall vest in the State Chief Information Commissioner"
+    ]
+  },
+  {
+    "id": "D4-Q181",
+    "document_id": "D4",
+    "question": "What is the procedure for resignation of the Chief Information Commissioner?",
+    "answer": "By writing under his hand addressed to the President.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter III",
+      "Section 13(4)",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "The Chief Information Commissioner or an Information Commissioner may, at any time, by writing under his hand addressed to the President, resign from his office"
+    ]
+  },
+  {
+    "id": "D4-Q182",
+    "document_id": "D4",
+    "question": "What is the procedure for resignation of the State Chief Information Commissioner?",
+    "answer": "By writing under his hand addressed to the Governor.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter IV",
+      "Section 16(4)",
+      "Page 14"
+    ],
+    "required_evidence": [
+      "The State Chief Information Commissioner or a State Information Commissioner may, at any time, by writing under his hand addressed to the Governor, resign from his office"
+    ]
+  },
+  {
+    "id": "D4-Q183",
+    "document_id": "D4",
+    "question": "What happens to the salary of the Chief Information Commissioner if he is in receipt of a pension?",
+    "answer": "His salary shall be reduced by the amount of that pension including any portion of pension which was commuted and pension equivalent of other forms of retirement benefits excluding pension equivalent of retirement gratuity.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter III",
+      "Section 13(5) first proviso",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "his salary in respect of the service as the Chief Information Commissioner or an Information Commissioner shall be reduced by the amount of that pension including any portion of pension which was commuted and pension equivalent of other forms of retirement benefits excluding pension equivalent of retirement gratuity"
+    ]
+  },
+  {
+    "id": "D4-Q184",
+    "document_id": "D4",
+    "question": "What happens if the Chief Information Commissioner is in receipt of retirement benefits from a Corporation?",
+    "answer": "His salary shall be reduced by the amount of pension equivalent to the retirement benefits.",
+    "question_type": "conditional_exception",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter III",
+      "Section 13(5) second proviso",
+      "Page 11"
+    ],
+    "required_evidence": [
+      "his salary in respect of the service as the Chief Information Commissioner or an Information Commissioner shall be reduced by the amount of pension equivalent to the retirement benefits"
+    ]
+  },
+  {
+    "id": "D4-Q185",
+    "document_id": "D4",
+    "question": "What is the procedure for an appeal against an order made under Section 11 to disclose third party information?",
+    "answer": "The appeal by the concerned third party shall be made within thirty days from the date of the order.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(2)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "Where an appeal is preferred against an order made by a Central Public Information Officer or a State Public Information Officer, as the case may be, under section 11 to disclose third party information, the appeal by the concerned third party shall be made within thirty days from the date of the order."
+    ]
+  },
+  {
+    "id": "D4-Q186",
+    "document_id": "D4",
+    "question": "What must the Information Commission do if the decision against which an appeal is preferred relates to information of a third party?",
+    "answer": "Give a reasonable opportunity of being heard to that third party.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(4)",
+      "Page 16"
+    ],
+    "required_evidence": [
+      "the Central Information Commission or State Information Commission, as the case may be, shall give a reasonable opportunity of being heard to that third party."
+    ]
+  },
+  {
+    "id": "D4-Q187",
+    "document_id": "D4",
+    "question": "What must the Information Commission give notice of in its decision?",
+    "answer": "Its decision, including any right of appeal, to the complainant and the public authority.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter V",
+      "Section 19(9)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "The Central Information Commission or State Information Commission, as the case may be, shall give notice of its decision, including any right of appeal, to the complainant and the public authority."
+    ]
+  },
+  {
+    "id": "D4-Q188",
+    "document_id": "D4",
+    "question": "What is the procedure for deciding appeals by the Information Commission?",
+    "answer": "In accordance with such procedure as may be prescribed.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter V",
+      "Section 19(10)",
+      "Page 17"
+    ],
+    "required_evidence": [
+      "The Central Information Commission or State Information Commission, as the case may be, shall decide the appeal in accordance with such procedure as may be prescribed."
+    ]
+  },
+  {
+    "id": "D4-Q189",
+    "document_id": "D4",
+    "question": "What must the Central Government do with every order made under Section 30?",
+    "answer": "It shall be laid before each House of Parliament.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 30(2)",
+      "Page 21"
+    ],
+    "required_evidence": [
+      "Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament."
+    ]
+  },
+  {
+    "id": "D4-Q190",
+    "document_id": "D4",
+    "question": "What is the procedure for laying rules made by a State Government?",
+    "answer": "They shall be laid before the State Legislature.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 29(2)",
+      "Page 21"
+    ],
+    "required_evidence": [
+      "Every rule made under this Act by a State Government shall be laid, as soon as may be after it is notified, before the State Legislature."
+    ]
+  },
+  {
+    "id": "D4-Q191",
+    "document_id": "D4",
+    "question": "What is the procedure for amendments to the Second Schedule?",
+    "answer": "The Central Government may, by notification in the Official Gazette, amend the Schedule by including therein any other intelligence or security organisation established by that Government or omitting therefrom any organisation already specified therein.",
+    "question_type": "procedural",
+    "difficulty": "hard",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(2)",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "The Central Government may, by notification in the Official Gazette, amend the Schedule by including therein any other intelligence or security organisation established by that Government or omitting therefrom any organisation already specified therein"
+    ]
+  },
+  {
+    "id": "D4-Q192",
+    "document_id": "D4",
+    "question": "What must be done with every notification issued under Section 24(2)?",
+    "answer": "It shall be laid before each House of Parliament.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(3)",
+      "Page 18"
+    ],
+    "required_evidence": [
+      "Every notification issued under sub-section (2) shall be laid before each House of Parliament."
+    ]
+  },
+  {
+    "id": "D4-Q193",
+    "document_id": "D4",
+    "question": "What must be done with every notification issued under Section 24(4)?",
+    "answer": "It shall be laid before the State Legislature.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 24(5)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "Every notification issued under sub-section (4) shall be laid before the State Legislature."
+    ]
+  },
+  {
+    "id": "D4-Q194",
+    "document_id": "D4",
+    "question": "What is the duty of each Ministry or Department regarding the annual report?",
+    "answer": "To collect and provide such information to the Central Information Commission or State Information Commission as is required to prepare the report.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 25(2)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "Each Ministry or Department shall, in relation to the public authorities within their jurisdiction, collect and provide such information to the Central Information Commission or State Information Commission, as the case may be, as is required to prepare the report under this section"
+    ]
+  },
+  {
+    "id": "D4-Q195",
+    "document_id": "D4",
+    "question": "What recommendation can the Information Commission give to a public authority?",
+    "answer": "A recommendation specifying the steps which ought in its opinion to be taken for promoting conformity with the provisions or spirit of this Act.",
+    "question_type": "procedural",
+    "difficulty": "medium",
+    "source_location": [
+      "Chapter VI",
+      "Section 25(5)",
+      "Page 19"
+    ],
+    "required_evidence": [
+      "it may give to the authority a recommendation specifying the steps which ought in its opinion to be taken for promoting such conformity."
+    ]
+  },
+  {
+    "id": "D4-Q196",
+    "document_id": "D4",
+    "question": "What must the appropriate Government do if necessary regarding the guidelines?",
+    "answer": "Update and publish the guidelines at regular intervals.",
+    "question_type": "procedural",
+    "difficulty": "easy",
+    "source_location": [
+      "Chapter VI",
+      "Section 26(4)",
+      "Page 20"
+    ],
+    "required_evidence": [
+      "The appropriate Government must, if necessary, update and publish the guidelines at regular intervals."
+    ]
+  },
+  {
+    "id": "D4-Q197",
+    "document_id": "D4",
+    "question": "What does the RTI Act give the right to information only to?",
+    "answer": "Citizens of India.",
+    "question_type": "exact_fact",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 57"
+    ],
+    "required_evidence": [
+      "The Act gives the right to information only to the citizens of India."
+    ]
+  },
+  {
+    "id": "D4-Q198",
+    "document_id": "D4",
+    "question": "Can information be supplied to Corporations, Associations, Companies etc.?",
+    "answer": "No, but if an application is made by an employee or office-bearer of any Corporation, Association, Company, NGO etc. indicating his name and such employee/office bearer is a citizen of India, information may be supplied to him/her.",
+    "question_type": "conditional_exception",
+    "difficulty": "medium",
+    "source_location": [
+      "Guide",
+      "Page 57"
+    ],
+    "required_evidence": [
+      "It does not make provision for giving information to Corporations, Associations, Companies etc. which are legal entities/persons, but not citizens. However, if an application is made by an employee or office-bearer of any Corporation, Association, Company, NGO etc. indicating his name and such employee/office bearer is a citizen of India, information may be supplied to him/her."
+    ]
+  },
+  {
+    "id": "D4-Q199",
+    "document_id": "D4",
+    "question": "What is the time limit for disposal of applications in normal course?",
+    "answer": "30 days.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 73"
+    ],
+    "required_evidence": [
+      "1. Supply of information in normal course. 30 days"
+    ]
+  },
+  {
+    "id": "D4-Q200",
+    "document_id": "D4",
+    "question": "What is the time limit for transfer of application to other public authority under section 6(3)?",
+    "answer": "05 days.",
+    "question_type": "table_lookup",
+    "difficulty": "easy",
+    "source_location": [
+      "Guide",
+      "Page 74"
+    ],
+    "required_evidence": [
+      "05 days"
+    ]
+  }
+]
