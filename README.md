@@ -1,329 +1,304 @@
 # Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Paper](https://img.shields.io/badge/arXiv-2609.31660-B31B1B.svg)](https://arxiv.org/abs/2609.31660)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://www.python.org/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
-A controlled factorial study of parser × chunker × embedding interactions for RAG retrieval over structurally diverse Indian central-government regulatory documents.
+**Research code and supplementary results for a controlled study of how document parsing, chunking, and embedding choices interact in retrieval-augmented generation (RAG).** The benchmark evaluates retrieval over four structurally diverse Indian central-government regulatory documents, with evidence-annotated questions, matched dense-versus-sparse comparisons, statistical analysis, and efficiency/quality ablations.
 
----
-
-## 📌 Overview
-
-RAG pipelines are typically assembled from independently-chosen components — a document parser, a chunking strategy, and an embedding model — yet these choices are rarely evaluated **jointly**, and evaluations that do combine them are usually run on a single document or corpus.
-
-This repository contains:
-
-- The complete factorial evaluation harness (`pre_generation_rag_retrieval_benchmark.py`)
-- A **3 × 3 × 5** parser × chunker × embedding sweep with a BM25 sparse baseline
-- An **800-question** evidence-annotated benchmark across four structurally distinct Indian regulatory documents
-- Linear mixed-effects statistical modeling with Holm-corrected paired comparisons
-- Clustered bootstrap confidence intervals for all **54 unique retriever configurations**
-- Embedding-dimension and chunk-size/overlap ablations
-- Efficiency/quality Pareto analysis
-
-The result set contains **72,000 query-level evaluations**, all included in the supplementary release.
+> **Paper:** [Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents](https://arxiv.org/abs/2609.31660) · **Code:** [GitHub repository](https://github.com/shubham-61291/pre_generation_rag_retrieval_benchmark)
 
 ---
 
-## 🧠 Experimental Design
+## Overview
 
-### Corpus (4 documents, single domain)
+RAG pipelines are often assembled by selecting a parser, chunking strategy, and embedding model independently. Those choices interact: a parser can change the structure available to a chunker, while an embedding model can behave differently on tables, rules, definitions, and long-form legal text. Evaluating each component in isolation can therefore obscure the behavior of the complete retrieval pipeline.
 
-| ID | Document | Authority | Structural Character |
-|----|----------|-----------|----------------------|
-| D1 | Central Civil Services (Leave) Rules, 1972 | DoPT | Numerical entitlement tables, accrual/encashment schedules |
-| D2 | CCS (Conduct) Rules, 1964 | DoPT | Prescriptive prohibitions, disciplinary language |
-| D3 | Fundamental Rules & Supplementary Rules, Part I | DoPT | Large heterogeneous multi-chapter rule hierarchy |
-| D4 | Right to Information Act, 2005 | Parliament of India | Long-form legal narrative, definitions, cross-references |
+This repository provides a factorial evaluation harness for comparing those choices under matched conditions. It includes:
 
-### Parsers (3)
+- A **3 × 3 × 5 parser–chunker–embedding sweep** for dense retrieval, plus a BM25 sparse baseline.
+- An **800-question, evidence-annotated benchmark** spanning four Indian regulatory documents.
+- **54 unique retriever configurations** evaluated with common query evidence.
+- Linear mixed-effects models, Holm-corrected paired comparisons, and clustered bootstrap confidence intervals.
+- Chunk-size/overlap and embedding-dimension ablations.
+- Retrieval-quality versus latency analysis and a representation-preservation audit.
+- The benchmark harness, source documents, question/evidence JSON files, figures, and tabular results needed to inspect the reported experiments.
 
-- **normal** — raw per-page text extraction (pypdf), split on blank-line boundaries
-- **context-aware** — heading-injection via rule-based pattern; each body element prefixed with its most recent heading tag
-- **docking** — layout-aware conversion to Markdown (docling), split into blocks
+The supplementary result set reports **72,000 query-level evaluations**. The study is **retrieval-only by design**: it isolates retrieval behavior rather than introducing a generation model whose behavior could confound the comparison.
 
-### Chunkers (3)
+## Research questions
 
-- **basic** — fixed-size 256-token windows, no overlap
-- **medium** — recursive / sentence-boundary-aware, 256-token target, 48-token tail overlap
-- **advanced** — hierarchical section-aware chunking with `[Doc: {id} | Section: {heading}]` breadcrumb prefixes
+| Question | Focus |
+|---|---|
+| RQ1 | How do parser and chunker choices interact, and do their effects depend on the embedding model? |
+| RQ2 | Does dense retrieval or BM25 perform better consistently across different regulatory documents? |
+| RQ3 | Do embedding models exhibit specific weaknesses for different question or evidence types? |
+| RQ4 | What quality/efficiency trade-offs emerge when chunk size, overlap, and embedding dimension are varied? |
 
-### Retrievers (5 dense + 1 sparse)
+## Experimental design
 
-| Model | Tier | Training regime |
-|-------|------|-----------------|
-| all-MiniLM-L6-v2 | small | general |
-| all-mpnet-base-v2 | base | general |
-| bge-small-en-v1.5 | small | retrieval-tuned |
-| bge-base-en-v1.5 | base | retrieval-tuned |
-| e5-base-v2 | base | retrieval-tuned |
-| BM25-Naive | — | sparse baseline |
+### Corpus
 
-All dense retrieval uses exact inner-product search (FAISS `IndexFlatIP`) over L2-normalized embeddings with model-appropriate query/passage prefixes.
+The benchmark covers four documents from a single domain: Indian central-government administrative and legal/regulatory text.
 
----
+| ID | Document | Authority / source context | Structural characteristics |
+|---|---|---|---|
+| D1 | Central Civil Services (Leave) Rules, 1972 | Department of Personnel and Training (DoPT) | Numerical entitlement tables, accrual and encashment schedules |
+| D2 | Central Civil Services (Conduct) Rules, 1964 | DoPT | Prescriptive prohibitions and disciplinary language |
+| D3 | Fundamental Rules and Supplementary Rules, Part I | Government rules | Large, heterogeneous, multi-chapter rule hierarchy |
+| D4 | Right to Information Act, 2005 | Parliament of India | Long-form legal narrative, definitions, and cross-references |
 
-## 🔍 Metrics
+Each document has a corresponding evidence-annotated set of 200 questions in the repository. See the limitations section for details on question generation and validation.
 
-For each query with *m* required evidence strings and retrieved top-*k* chunks:
+### Parser configurations
 
-- **Evidence Recall@k** — fraction of evidence strings matched by the top-*k* union (primary outcome: `recall_10`)
-- **Hit@k** / **Full@k** — whether at least one, or all, evidence strings are matched
-- **MRR** — reciprocal rank of the first matching chunk
-- **nDCG@5, nDCG@10** — discounted cumulative gain over newly-matched evidence
-- **Evidence Coverage** — corpus-level preservation audit
+| Parser | Method |
+|---|---|
+| `normal` | Per-page text extraction using `pypdf`, with splitting on blank-line boundaries |
+| `context-aware` | Rule-based heading injection; body elements are prefixed with the most recent heading tag |
+| `docking` | Layout-aware conversion to Markdown with Docling, followed by block splitting |
 
-Evidence matching: a chunk satisfies a required-evidence string if the whitespace-normalized, lower-cased string appears as a substring, **or** ≥ 80% of its tokens are present in the chunk.
+### Chunking configurations
 
----
+| Chunker | Method |
+|---|---|
+| `basic` | Fixed-size 256-token windows without overlap |
+| `medium` | Recursive / sentence-boundary-aware splitting with a 256-token target and 48-token tail overlap |
+| `advanced` | Hierarchical, section-aware chunking with breadcrumb prefixes such as `[Doc: {id} | Section: {heading}]` |
 
-## 📊 Statistical Methodology
+### Retrieval configurations
 
-**Linear mixed-effects models** on `recall_10` with random intercept per (document, query) pair:
+Five dense embedding models are compared with a sparse BM25 baseline.
+
+| Model | Relative tier | Training regime |
+|---|---|---|
+| `all-MiniLM-L6-v2` | Small | General-purpose |
+| `all-mpnet-base-v2` | Base | General-purpose |
+| `bge-small-en-v1.5` | Small | Retrieval-tuned |
+| `bge-base-en-v1.5` | Base | Retrieval-tuned |
+| `e5-base-v2` | Base | Retrieval-tuned |
+| `BM25-Naive` | Sparse baseline | Lexical retrieval |
+
+Dense retrieval uses exact inner-product search through FAISS `IndexFlatIP` over L2-normalized embeddings. Model-appropriate query/passage prefixes are used where applicable, including for BGE and E5.
+
+The dense factorial sweep contains 45 parser × chunker × embedding configurations. BM25 is evaluated across the nine parser × chunker combinations, giving 54 unique retriever configurations in total.
+
+## Metrics and evaluation
+
+The benchmark evaluates the evidence surfaced in the top-*k* retrieved chunks against the required evidence strings annotated for each query.
+
+| Metric | Interpretation |
+|---|---|
+| **Evidence Recall@k** | Fraction of required evidence strings matched by the union of top-*k* retrieved chunks |
+| **Hit@k** | Whether at least one required evidence string is matched |
+| **Full@k** | Whether all required evidence strings are matched |
+| **MRR** | Reciprocal rank of the first chunk matching required evidence |
+| **nDCG@5 / nDCG@10** | Ranking quality based on newly matched evidence |
+| **Evidence coverage** | Corpus-level audit of whether required evidence survives parsing and chunking |
+| **Latency** | Retrieval query latency, used in the efficiency/quality analysis |
+
+The statistical model uses `recall_10` as the primary mixed-effects outcome. Several diagnostic figures and configuration comparisons report Recall@5; the metric used is identified in the corresponding figure or table caption.
+
+A chunk matches an evidence string when either (a) its whitespace-normalized, lower-cased text contains the normalized evidence string as a substring, or (b) at least 80% of the evidence string's tokens are present in the chunk.
+
+## Statistical methodology
+
+### Linear mixed-effects models
+
+The dense configurations are analyzed using a parser × chunker × embedding model with a query-level random intercept. BM25 is analyzed separately without an embedding factor.
 
 ```text
-recall_10 ~ Parser * Chunker * Embedding + (1 | query)   [dense,  n = 45 cells]
-recall_10 ~ Parser * Chunker               + (1 | query)   [BM25,   n = 9  cells]
+Dense: recall_10 ~ Parser * Chunker * Embedding + (1 | query)
+       45 parser × chunker × embedding cells
+
+BM25:  recall_10 ~ Parser * Chunker + (1 | query)
+       9 parser × chunker cells
 ```
 
-**Holm-corrected paired comparisons** between each dense configuration and its query-matched BM25-Naive counterpart on the same (document, parser, chunker). **Clustered bootstrap 95% CIs** (2,000 resamples over query-level means) for all 54 unique configurations.
+### Matched comparisons and uncertainty
 
----
+- Dense configurations are compared with their query-matched BM25 counterpart under the same document, parser, and chunker conditions.
+- Paired-comparison p-values are adjusted with the **Holm correction**.
+- **Clustered bootstrap 95% confidence intervals** are computed using 2,000 resamples over query-level means for all 54 unique configurations.
+- The embedding-dimension ablation uses a pre-declared configuration selection rule to reduce the risk of post-hoc selection.
 
-## 🧪 Key Findings
+## Key findings
 
-### (RQ1) Parser × Chunker interact significantly
+These findings describe the benchmark corpus and experimental conditions; they should not be treated as universal rankings for all RAG applications.
 
-The best-performing combination is **not predictable** from either component's individual ranking.
+### 1. Parser and chunker performance is interactive
 
-![Parser × Chunker](fig3_parser_x_chunker.png)
-*Figure 1: Mean dense Evidence Recall@5 by parser and chunker, averaged over all five embedding models and four documents.*
+The strongest configuration cannot reliably be selected by ranking parsers and chunkers independently. The dense mixed-effects analysis reports significant parser and chunker effects and interactions, including differences in how normal or layout-aware parsing combines with the medium chunker.
 
-**Significant fixed effects** (dense 3×3×5 mixed-effects model, reference = context-aware / basic / BGE-base):
+![Parser and chunker interaction](fig3_parser_x_chunker.png)
 
-| Term | Coef. | SE | z | p |
-|------|-------|----|----|----|
-| Intercept | 0.905 | 0.010 | 88.86 | < 0.0001 |
-| Parser[normal] | +0.039 | 0.012 | 3.17 | 0.0015 |
-| Chunker[medium] | +0.028 | 0.012 | 2.25 | 0.0247 |
-| Embedding[MPNet-base] | −0.049 | 0.012 | −3.93 | < 0.0001 |
-| Chunker[medium] × Embedding[MiniLM-L6] | −0.035 | 0.018 | −1.97 | 0.0493 |
-| Parser[docking] × Chunker[medium] | −0.047 | 0.018 | −2.69 | 0.0073 |
-| Parser[normal] × Chunker[medium] | −0.077 | 0.018 | −4.39 | < 0.0001 |
+*Figure: Mean dense Evidence Recall@5 by parser and chunker, averaged over embedding models and documents.*
 
-### (RQ2) No single retriever family dominates across documents
+### 2. Dense retrieval does not always beat BM25
 
-![Dense vs BM25 by document](fig5_per_document_family.png)
-*Figure 2: Evidence Recall@5, dense (best-of-5 mean) vs. BM25-Naive, per document.*
+The best retrieval family varies by document. BM25 performs better on the leave and conduct rules in this benchmark, while dense retrieval performs better on the Fundamental Rules and the RTI Act. Some matched differences remain significant after Holm correction. Several embedding models outperform matched BM25 in a majority of parser/chunker cells, but no family dominates every document.
 
-- **BM25 wins** on D1 and D2
-- **Dense wins** on D3 and D4
-- Several per-cell differences remain significant after Holm correction (e.g. D2/docking/basic/MPNet-base: BM25 = 0.92 vs dense = 0.71, *p*<sub>Holm</sub> < 0.0001)
-- Three of five embeddings (E5-base, BGE-base, BGE-small) beat matched BM25 in **72–86%** of parser/chunker cells
+![Dense versus BM25 by document](fig5_per_document_family.png)
 
-**Conclusion:** sparse-vs-dense should be validated *per document*, not assumed from an aggregate leaderboard.
+*Figure: Dense retrieval (best-of-five mean) versus BM25-Naive by document.*
 
-### (RQ3) MPNet-base has a specific, reproducible weakness
+**Practical implication:** compare sparse and dense retrieval on the target corpus instead of selecting a retrieval family based only on aggregate scores.
 
-![Question type × Retriever](fig7_question_type.png)
-*Figure 3: Evidence Recall@5 by question type and retriever.*
+### 3. Embedding weaknesses can be content-specific
 
-- MPNet-base collapses on **table_context** questions (0.433 vs. 0.82–0.97 for every other retriever)
-- `table_lookup` and `negative_query` are structurally the hardest categories for *all* retrievers
-- The weakness is consistent across all three parsers — not an artifact of any single preprocessing choice
+`all-mpnet-base-v2` exhibits a pronounced weakness on `table_context` questions in this dataset. The effect persists across all three parser configurations, suggesting that it is not explained by a single parser choice. `table_lookup` and `negative_query` are challenging question categories for all evaluated retrievers.
 
-### (RQ4) Near-saturated evidence preservation ceiling
+![Question type by retriever](fig7_question_type.png)
 
-![Representation ceiling](fig12_representation_ceiling.png)
-*Figure 4: Evidence Recall@5 vs. corpus-level evidence preservation for every parser × chunker combination.*
+*Figure: Evidence Recall@5 by question type and retriever.*
 
-Corpus-level mean evidence coverage ranges from **0.983 to 0.998** across all nine parser/chunker combinations; the fraction of queries with complete coverage ranges from 0.980 to 0.996.
+### 4. Evidence preservation is near saturation, but ranking still varies
 
-**This means retrieval-quality differences are driven almost entirely by ranking quality, not by information loss during ingestion.** Parsers and chunkers all preserve source text well — they differ in how *retrievable* that preserved text is.
+Corpus-level mean evidence coverage ranges from **0.983 to 0.998** across the nine parser/chunker combinations, while the fraction of queries with complete coverage ranges from **0.980 to 0.996**. This separates two failure modes: whether useful information survives ingestion, and whether retrieval ranks that information highly enough to return it.
 
----
+![Representation preservation ceiling](fig12_representation_ceiling.png)
 
-## ⚖️ Ablations
+*Figure: Retrieval recall compared with corpus-level evidence preservation.*
 
-### Chunk size / overlap
+### 5. Chunk-size and overlap ablations favor a moderate configuration
 
-![Chunk size / overlap ablation](fig14_chunk_size_overlap_ablation.png)
-*Figure 5: Chunk size / overlap ablation, Evidence Recall@5.*
+Across the tested values, a **32-token overlap** outperforms 0- and 64-token overlap at each tested chunk size. The reported best combination is **256-token chunks with 32-token overlap**, with Recall@5 of approximately **0.90**. Larger tested chunks of 384 and 512 tokens do not improve on 256 tokens in this ablation.
 
-- **Overlap of 32 tokens dominates** both 0 and 64 at every chunk size tested
-- Best combination: **256-token chunks / 32-token overlap** (Recall@5 ≈ 0.90)
-- Larger chunks (384, 512) do **not** improve over 256 — suggesting 256 is near a local optimum
+![Chunk-size and overlap ablation](fig14_chunk_size_overlap_ablation.png)
 
-### Embedding dimension
+### 6. Higher embedding dimensions yield diminishing retrieval gains
 
-![Dimension ablation](fig13_dimension_ablation.png)
-*Figure 6: Embedding dimension vs. Evidence Recall@5, MRR, and median query latency (Matryoshka-truncatable nomic-embed-text-v1.5, under the pre-declared normal/advanced selection).*
+In the reported `nomic-embed-text-v1.5` dimension ablation, Recall@5 rises from **0.744 at 64 dimensions** to **0.863 at 256 dimensions** and **0.886 at 768 dimensions**. Median query latency remains approximately **14.5–16.2 ms** across the tested dimensions, making index storage the more visible cost of higher dimensionality in this experiment.
 
-- Recall@5 rises from **0.744 at 64-dim** to **0.886 at 768-dim**
-- **Most gain is realized by 256-dim** (0.863)
-- Median latency is **flat** across dimensions (14.5–16.2 ms) — the dominant cost of higher dimensionality is *index storage*, not per-query latency
-- Practitioners can truncate well below 768-dim with only modest quality cost
+![Embedding dimension ablation](fig13_dimension_ablation.png)
 
-### Efficiency / quality Pareto
+### 7. Quality and latency form a trade-off
 
-![Pareto frontier](fig15_pareto_frontier.png)
-*Figure 7: Quality/latency Pareto frontier across all 54 configurations.*
+BM25 configurations occupy the low-latency region, with sub-millisecond median latency and a recall trade-off. `docling + advanced` paired with BGE-small or E5-base anchors the high-quality end. No configuration provides both the highest recall and lowest latency.
 
-- BM25 configurations dominate the low-latency region (sub-millisecond median latency) at modest recall cost
-- `docling + advanced` with BGE-small or E5-base anchor the high-quality end
-- **No configuration achieves both highest recall and lowest latency** — this is a genuine trade-off, not a dominated alternative
+![Efficiency and quality Pareto frontier](fig15_pareto_frontier.png)
 
----
-
-## 📈 RQ4 Summary Table
-
-| Dimension | Finding |
-|-----------|---------|
-| Chunk size | 256 tokens is near-optimal; larger sizes underperform |
-| Overlap | 32 tokens dominates 0 and 64 at all sizes |
-| Embedding dim (Recall@5) | 64 → 0.744, 256 → 0.863, 768 → 0.886 |
-| Embedding dim (MRR) | 64 → 0.608, 768 → 0.733 |
-| Latency vs. dim | Flat (~14.5–16.2 ms) — storage cost dominates, not query cost |
-
----
-
-## 🚀 Running the Benchmark
-
-```bash
-python pre_generation_rag_retrieval_benchmark.py
-```
-
-The script will:
-
-1. Automatically install dependencies (pypdf, docling, sentence-transformers, faiss-cpu, rank_bm25, statsmodels, etc.)
-2. Parse all four PDFs with the three parsers (cached to `parsers.pkl`)
-3. Build chunk sets for all parser × chunker combinations
-4. Run the full retriever sweep (54 unique configurations, checkpointed)
-5. Fit mixed-effects models and paired Holm-corrected comparisons
-6. Compute clustered bootstrap CIs (2,000 resamples)
-7. Run the embedding-dimension and chunk-size/overlap ablations
-8. Generate all 14 figures and 12 result CSVs
-
-All outputs are written to `benchmark_v12_evidence_recall_v1/` (figures in `figures/`).
+## Reproducing the benchmark
 
 ### Requirements
 
-- Python 3.9
-- Pinned versions in `requirements.txt` (released alongside the code)
-- Package set: `sentence-transformers`, `faiss-cpu`, `rank_bm25`, `statsmodels`, `docling`, `pypdf`, `tiktoken`, `nltk`, `einops`, `matplotlib`, `seaborn`, `scipy`
+- Python 3.9, as specified in the original experiment setup
+- The pinned packages listed in [`requirements.txt`](requirements.txt)
+- Sufficient disk space for source documents, parser caches, embedding models, result tables, and figures
+- Internet access on the first run if required packages or embedding models need to be downloaded
 
-All embedding models are used with their published query/passage prompt prefixes where applicable (BGE, E5) and without any prefix otherwise (MiniLM, MPNet).
+The experiment includes layout-aware parsing and multiple embedding models. The first complete run may take substantial time and disk space; use the checkpointed outputs when you only need to inspect released results.
 
----
+### Setup
 
-## 📁 Repository Structure
+```bash
+git clone https://github.com/shubham-61291/pre_generation_rag_retrieval_benchmark.git
+cd pre_generation_rag_retrieval_benchmark
 
-```text
-pre_generation_rag_retrieval_benchmark/
-│
-├── pre_generation_rag_retrieval_benchmark.py    # Full harness + factorial sweep
-├── requirements.txt                             # Pinned dependency versions
-├── README.md
-│
-├── fig3_parser_x_chunker.png
-├── fig4a_dense_embeddings.png
-├── fig4b_dense_vs_bm25naive.png
-├── fig5_per_document_family.png
-├── fig6_per_document.png
-├── fig7_question_type.png
-├── fig8_latency_vs_quality.png
-├── fig9_bootstrap_forest.png
-├── fig10_parser_x_retriever.png
-├── fig11_3d_scatter.png
-├── fig12_representation_ceiling.png
-├── fig13_dimension_ablation.png
-├── fig14_chunk_size_overlap_ablation.png
-├── fig15_pareto_frontier.png
-├── fig16_design_decision_map.png
-│
-├── master_results.csv
-├── table3a_dense.csv
-├── table3b_bm25naive.csv
-├── table4_per_document.csv
-├── table5_question_type.csv
-├── table6_dense_vs_bm25naive.csv
-├── mixedlm_dense_3x3x5.csv
-├── mixedlm_bm25naive_3x3.csv
-├── bootstrap_ci_clustered.csv
-├── paired_dense_vs_bm25naive_holm.csv
-├── dense_vs_bm25naive_summary.csv
-├── audit_coverage.csv
-├── audit_ceiling.csv
-├── dimension_ablation.csv
-├── table_dimension_ablation.csv
-├── chunk_size_overlap_ablation.csv
-├── table_chunk_size_overlap_ablation.csv
-└── efficiency_pareto.csv
+python -m venv .venv
 ```
 
----
+Activate the virtual environment.
 
-## 🎯 Design Objective
+**Linux / macOS**
 
-This benchmark is **retrieval-only by design** — we deliberately exclude a generation stage so that parser/chunker/embedding effects on retrieval are not confounded with generator behavior.
+```bash
+source .venv/bin/activate
+```
 
-The benchmark is intended to support:
+**Windows PowerShell**
 
-- **RAG practitioners** assembling pipelines over structured regulatory or policy documents
-- **Retrieval researchers** studying parser/chunker/embedding interactions under matched comparisons
-- **Benchmark designers** interested in evidence-preservation audits that separate representation loss from ranking failure
-- **Framework authors** deciding on defaults for chunking and embedding selection
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
 
-### Headline Implications for Practitioners
+Install the pinned dependencies and run the benchmark:
 
-1. **Parser × chunker interaction dominates** more than either component's individual ranking. Heading-injection (context-aware parser) can *underperform* simpler extraction combined with structure-aware chunking when the chunker already performs its own section detection.
-2. **Embedding model selection should be validated per-document**, not assumed from an aggregate leaderboard. MPNet-base is a significant, specific liability on tabular content in our regulatory setting.
-3. **The near-saturated representation ceiling is itself informative:** for this class of document, parsing and chunking are largely a *solved problem* for information preservation. The open problem is **ranking**.
+```bash
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+python pre_generation_rag_retrieval_benchmark.py
+```
 
----
+The original harness is also documented as installing missing dependencies automatically. Installing from `requirements.txt` first is recommended for a controlled, repeatable environment.
 
-## ⚠️ Limitations
+### Expected workflow
 
-- **Four documents, single domain.** All four documents are Indian central-government administrative/legal texts. Findings should not be assumed to transfer to other domains (scientific literature, customer-support KBs) or languages without further validation.
-- **LLM-generated questions.** Question-evidence pairs were generated by an LLM under a fixed verbatim-evidence-constrained schema, with a 10% manual spot-check and de-duplication pass — not fully human-authored, and not subjected to formal inter-annotator agreement measurement. We report this plainly rather than presenting the benchmark as a fully human-curated gold standard.
-- **No generation-stage evaluation.** This study is retrieval-only. Whether improved retrieval translates into better final answers is a natural extension (“Experiment B”, following RAGAS/RAGChecker-style two-stage designs) left to future work.
-- **Near-ceiling evidence preservation** limits discriminative power for parser/chunker comparisons *specifically at the corpus-coverage level*; reported parser/chunker effects should be interpreted as effects on **ranking**, not on what content survives ingestion.
-- **No cross-encoder reranking stage or hybrid (sparse+dense) baseline** was evaluated. Given that no single family dominates across documents, a lightweight hybrid or reranking stage is a natural next comparison point.
+The full run performs the following major stages:
 
----
+1. Parse the four regulatory PDFs using each parser configuration, using a parser cache where available.
+2. Generate chunk sets for all parser × chunker combinations.
+3. Run the dense and BM25 retrieval sweep across the configurations.
+4. Compute evidence-level retrieval metrics.
+5. Fit mixed-effects models and run Holm-corrected paired comparisons.
+6. Compute clustered bootstrap confidence intervals.
+7. Run embedding-dimension and chunk-size/overlap ablations.
+8. Generate result tables and figures for inspection.
 
-## 📌 Contribution Summary
+The released README identifies `benchmark_v12_evidence_recall_v1/` as the generated output location, with figures in a `figures/` subdirectory. The repository also includes released CSVs and figures at the repository root for direct inspection.
 
-- Joint **parser × chunker × embedding** factorial evaluation over Indian government regulatory text
-- **800-question, four-document** evidence-annotated benchmark with automated + sampled manual validation
-- **Linear mixed-effects modeling** with query-level random intercepts on a 72,000-row result set
-- **Holm-corrected paired comparisons** between matched dense and sparse configurations
-- **Clustered bootstrap 95% CIs** for all 54 unique retriever configurations
-- **Corpus-level representation-ceiling audit** that separates retrieval failure from ingestion information loss
-- **Embedding-dimension** and **chunk-size/overlap** ablations with a **pre-declared selection rule** to avoid post-hoc cherry-picking
-- **Efficiency/quality Pareto analysis** with an explicit cost proxy
+## Released results and artifacts
 
----
+The repository contains the experiment harness, four source PDFs, four 200-question evidence-annotated JSON files, figures, and CSV result tables. Examples include:
 
-## 🔗 Reproducibility
+- `master_results.csv` — query-level results
+- `mixedlm_dense_3x3x5.csv` and `mixedlm_bm25naive_3x3.csv` — model outputs
+- `paired_dense_vs_bm25naive_holm.csv` — Holm-corrected matched comparisons
+- `bootstrap_ci_clustered.csv` — clustered bootstrap intervals
+- `audit_coverage.csv` and `audit_ceiling.csv` — evidence-preservation audits
+- `dimension_ablation.csv` and `chunk_size_overlap_ablation.csv` — ablation outputs
+- `efficiency_pareto.csv` — quality/efficiency comparison
 
-The complete implementation is publicly available at [github.com/shubham-61291/pre_generation_rag_retrieval_benchmark](https://github.com/shubham-61291/pre_generation_rag_retrieval_benchmark).
+The plots embedded above are version-controlled image files, so they can be inspected directly on GitHub without running the full benchmark.
 
-- Configuration hash, checkpointed run cache, and full per-query result tables (`master_results.csv`, 72,001 rows) are included in the supplementary release
-- Corpus manifest with source URLs, retrieval dates, and SHA-256 hashes of the exact PDF bytes is released alongside the code
-- All experiments can be reproduced by running the script with Python 3.9 and the listed dependencies
+## Reproducibility and interpretation
 
----
+The research artifact documents configuration hashes, checkpointed run state, per-query result tables, and a corpus manifest containing source URLs, retrieval dates, and SHA-256 hashes of the PDF bytes. Use the released source and result files when comparing results with a new run; reruns can be affected by package, model, and hardware differences if the environment is not held constant.
 
+The evidence matcher is based on normalized string/token overlap, not semantic entailment. Interpret its metrics as evidence-string retrieval measures under the benchmark's annotation and matching rules, rather than as a complete measure of answer correctness.
 
+## Limitations
 
----
+- **Narrow corpus:** Four documents from one domain are not enough to establish that the findings generalize to other regulatory domains, scientific literature, customer-support knowledge bases, or languages.
+- **Question-generation process:** The question/evidence pairs were generated by an LLM under a verbatim-evidence-constrained schema, followed by a 10% manual spot-check and deduplication pass. They were not fully human-authored, and formal inter-annotator agreement was not measured.
+- **Retrieval-only evaluation:** The benchmark excludes answer generation. It does not establish whether retrieval improvements translate into better final responses or downstream decisions.
+- **Near-ceiling preservation:** Because evidence coverage is high for most parser/chunker pairs, coverage has limited ability to discriminate between them. The reported effects are principally about ranking and retrieval, not widespread loss of source content.
+- **No cross-encoder reranking or fused hybrid baseline:** A cross-encoder reranker and a combined sparse+dense retrieval stage are not evaluated. Both are natural candidates for follow-up work.
+- **Evidence-matching heuristic:** Substring and token-overlap matching can miss semantically equivalent evidence or count lexical overlap without establishing entailment.
 
-## 🏗️ Author
+## Intended use
 
-Designed and implemented by **Shubham Kumar Singh**.
+This benchmark is intended for:
 
----
+- RAG practitioners choosing parsers, chunkers, and embedding models for structured policy or regulatory corpora.
+- Retrieval researchers studying component interactions under matched comparisons.
+- Benchmark designers separating representation preservation from ranking failure.
+- Framework authors evaluating default chunking and embedding configurations.
 
-## 📄 License
+It should be treated as a research benchmark and engineering reference, not as proof that one configuration is best for every dataset.
 
-This project is licensed under the Apache License, Version 2.0. See the `LICENSE` file for details.
+## Citation
+
+If you use this code or results, please cite the associated paper:
+
+```bibtex
+@misc{singh2026parserchunkingembedding,
+  title         = {Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents},
+  author        = {Singh, Shubham Kumar},
+  year          = {2026},
+  eprint        = {2609.31660},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2609.31660}
+}
+```
+
+- **Paper:** https://arxiv.org/abs/2609.31660
+- **Code and results:** https://github.com/shubham-61291/pre_generation_rag_retrieval_benchmark
+
+## Author
+
+**Shubham Kumar Singh**
+
+## License
+
+This project is released under the [Apache License, Version 2.0](LICENSE).
